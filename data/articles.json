@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "date": "2026-07-12",
+    "category": "bottleneck",
+    "title": "AI·반도체發 전력수요, 정부 전망치 이미 초과",
+    "summary": "국내 데이터센터의 전기사용 계약전력이 올해 2월 말 기준 10.7GW에 달해 정부의 기존 전력수급 전망을 넘어선 것으로 나타났다. AI·반도체 산업 확대로 전력 수요가 예상보다 빠르게 늘면서 정부는 전력수급기본계획을 원점에서 재검토해야 한다는 지적이 나온다.",
+    "source": "아시아투데이",
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002579",
+    "lang": "ko",
+    "labels": ["전력"]
+  },
+  {
+    "date": "2026-07-12",
+    "category": "bottleneck",
+    "title": "Power shortages could slow AI data center expansion",
+    "summary": "글로벌 데이터센터 업계에서 전력망 확충 속도가 AI 연산 수요 증가 속도를 따라가지 못하면서 신규 AI 데이터센터 건설이 지연되거나 취소될 위험이 커지고 있다는 분석이 나왔다. 특히 고압 변전설비와 송전망 증설에 수년이 걸리는 점이 확장의 발목을 잡고 있다.",
+    "source": "Help Net Security",
+    "url": "https://www.helpnetsecurity.com/2026/07/07/ai-data-centers-demand-expansion/",
+    "lang": "en",
+    "labels": ["전력"]
+  },
+  {
+    "date": "2026-07-12",
+    "category": "bottleneck",
+    "title": "TSMC CoWoS 생산능력, 2027년 20만장까지 확대 전망",
+    "summary": "TSMC의 첨단 패키징 CoWoS 월 생산능력이 2027년 20만장 이상으로 늘어날 것이라는 전망이 나왔지만, 이는 폭증하는 AI 가속기 수요를 따라잡기 위한 확장일 뿐 공급 부족 자체는 당분간 해소되지 않을 것으로 보인다. 2026년 말 기준으로도 CoWoS 공급-수요 격차는 여전히 두 자릿수 퍼센트에 달하는 것으로 알려졌다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260710PD226/tsmc-cowos-2027-packaging-capacity.html",
+    "lang": "en",
+    "labels": ["패키징", "파운드리"]
+  },
+  {
+    "date": "2026-07-12",
+    "category": "tech",
+    "title": "삼성전자, D2C 액체냉각 적용한 AI 인프라용 SSD 'PM1763' 양산",
+    "summary": "삼성전자가 칩에 냉각판을 직접 부착하는 D2C(Direct-to-Chip) 액체냉각 방식을 적용한 기업용 SSD 'PM1763'의 양산을 시작했다. 엔비디아 차세대 플랫폼 '베라 루빈'에 최적화된 이 제품은 고부하 환경에서도 성능 저하 없이 안정적으로 동작하도록 설계됐다.",
+    "source": "전자신문",
+    "url": "https://www.etnews.com/20260708000148",
+    "lang": "ko",
+    "labels": ["냉각", "저장장치"]
+  },
+  {
+    "date": "2026-07-12",
+    "category": "tech",
+    "title": "TSMC, 차세대 패널레벨 패키징 'CoPoS' 개발 가속",
+    "summary": "TSMC가 대형 AI 칩 패키징의 비용과 용량 한계를 돌파하기 위해 원형 웨이퍼 대신 사각형 패널을 쓰는 차세대 패키징 기술 CoPoS 개발을 가속화하고 있다. 대만 VisEra 공장에 파일럿 라인을 가동하며 공급망 전반에 강도 높은 기밀유지 조항을 적용한 것으로 전해졌다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260630PD239/tsmc-supply-chain-cowos-packaging-equipment.html",
+    "lang": "en",
+    "labels": ["패키징", "파운드리"]
+  },
+  {
+    "date": "2026-07-12",
+    "category": "service",
+    "title": "중부발전, 'AI 활용 ESS 구축지원 사업' 최종 선정",
+    "summary": "한국중부발전이 기후에너지환경부가 추진하는 'AI 활용 ESS 구축지원 사업' 대상기관으로 최종 선정됐다. AI가 발전량과 전력수요, 가격을 예측해 최적의 충·방전 시점을 결정하는 VPP 플랫폼을 적용해 태양광·풍력 집중 지역의 계통포화 문제를 해소한다는 계획이다.",
+    "source": "뉴시스",
+    "url": "https://www.newsis.com/view/NISX20260710_0003704626",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-07-12",
+    "category": "service",
+    "title": "HCLTech, 유럽 포춘 글로벌 50대 기업과 11억 4천만 달러 AI 계약 체결",
+    "summary": "인도 IT기업 HCLTech가 유럽 소재 포춘 글로벌 50대 기업과 11억 4천만 달러 규모의 AI 기반 운영모델 구축 계약을 체결했다고 밝혔다. 2026년 7월부터 2031년 12월까지 이어지는 이번 계약은 전액 신규 수주이며, 발표 직후 HCLTech 주가는 7% 이상 급등했다.",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/companies/news/hcltech-1-14-billion-deal-european-client-ai-workplace-networks-126070300215_1.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-07-12",
+    "category": "service",
+    "title": "마이크로소프트, 25억 달러 규모 AI 도입 전담 자회사 'Frontier Company' 출범",
+    "summary": "마이크로소프트가 기업 고객의 AI 도입을 돕기 위한 신규 사업체 'Microsoft Frontier Company'를 출범하며 25억 달러와 6천여 명의 전문인력을 투입한다고 밝혔다. 런던증권거래소그룹, 유니레버, 랜드오레이크스 등이 초기 고객으로 참여한다.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "lang": "en",
+    "labels": []
+  }
+]
