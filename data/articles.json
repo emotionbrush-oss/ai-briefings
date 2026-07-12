@@ -78,5 +78,55 @@
     "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
     "lang": "en",
     "labels": []
+  },
+    {
+    "date": "2026-07-13",
+    "category": "tech",
+    "title": "마이크론, 히로시마 팹 증설 착공…1감마 D램·HBM 생산 확대",
+    "summary": "마이크론이 7월 4일 일본 히로시마 팹에 1.5조엔(약 93억 달러) 규모 증설을 착공했다. 2028년 하반기부터 장비 반입을 시작해 EUV 공정 기반 1감마 D램과 HBM 생산을 늘릴 계획이지만, 완공까지 최소 3년이 걸려 당장의 공급 부족 해소에는 시간이 걸리고 한국 업체들의 동시 증설과 겹쳐 2028년 이후 공급과잉 우려도 나온다.",
+    "source": "TrendForce",
+    "url": "https://www.trendforce.com/news/2026/07/06/news-micron-breaks-ground-on-hiroshima-fab-expansion-scaling-1%CE%B3-dram-and-hbm-output-as-equipment-set-for-2h28/",
+    "lang": "en",
+    "labels": ["HBM", "메모리"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "TSMC CoWoS 패키징, 2027년까지 예약 꽉 차…AI 확장 속도의 진짜 변수",
+    "summary": "TSMC의 첨단 패키징 CoWoS 생산능력이 2026년 말까지 월 12.5만~13만장으로 확대되지만 예약은 이미 2027년까지 꽉 찬 상태다. 엔비디아 블랙웰을 포함한 사실상 모든 AI 가속기가 TSMC의 패키징 라인을 거쳐야 하는데 대기 기간이 52~78주에 달해, 실리콘 미세공정보다 패키징 병목이 AI 인프라 확장 속도를 좌우하는 핵심 변수로 지목된다.",
+    "source": "Tech Times",
+    "url": "https://www.techtimes.com/articles/320142/20260711/tsmc-q2-earnings-july-16-three-cowos-signals-that-test-ais-spending-ceiling.htm",
+    "lang": "en",
+    "labels": ["패키징", "GPU물량"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "AI 데이터센터 건설, 이번엔 '사람'이 병목…숙련 인력 품귀",
+    "summary": "미국 AI 데이터센터 건설 현장이 전기기사·고압기술자 등 숙련 인력 부족에 부딪히고 있다. 스털링 인프라스트럭처 등 시공업체들은 수주 물량은 넘치지만 이를 소화할 숙련공을 구하지 못해 일감을 거절하는 상황이며, 전력·부지 문제에 이어 인력난이 새로운 병목으로 부상하고 있다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-09/ai-data-center-boom-hits-a-labor-shortage-as-skilled-workers-run-out",
+    "lang": "en",
+    "labels": ["인재부족"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "美 포트워스 시의회, 데이터센터 신규 건설 '일시 중단' 추진",
+    "summary": "텍사스 포트워스 시의회 의원 5명이 데이터센터 개발에 대한 임시 모라토리엄 도입을 추진하겠다고 밝혔다. 용수·전력 소비와 소음, 주거지 인접 문제를 둘러싼 주민 반발이 커지는 가운데 졸닝위원회가 관련 규정안을 부결시키자, 제대로 된 규제를 마련할 시간을 벌겠다는 취지다.",
+    "source": "Fort Worth Report",
+    "url": "https://fortworthreport.org/2026/07/09/majority-of-fort-worth-council-members-call-for-data-center-moratorium/",
+    "lang": "en",
+    "labels": ["규제", "부지"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "DDR5發 품귀, 구형 DDR4·DDR3까지 번진다…3분기 가격 50%↑ 전망",
+    "summary": "DDR5 공급 부족 여파가 구형 DDR4·DDR3 메모리까지 번지면서, DDR4 8Gb 모듈 계약가격이 2026년 3분기에만 전분기 대비 50% 이상 오를 것으로 전망됐다. 삼성·마이크론·SK하이닉스가 DDR4 생산을 줄이고 DDR5·HBM으로 전환한 사이 대만 업체들의 생산만으로는 실제 수요를 감당하지 못해, 최소 2028년까지 가격 상승이 이어질 것이란 관측이 나온다.",
+    "source": "Gizmochina",
+    "url": "https://www.gizmochina.com/2026/07/08/severe-memory-shortages-drive-ddr4-price-over-50-in-q3-2026-ddr3-also-gets-costlier/",
+    "lang": "en",
+    "labels": ["메모리"]
   }
 ]
