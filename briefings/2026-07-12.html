@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 인프라·기술·서비스 데일리 브리핑 — 2026-07-12</title>
+<style>
+  :root{
+    --bg:#0b0e14;
+    --bg-panel:#11151f;
+    --bg-card:#161b26;
+    --border:#242b3a;
+    --text:#e6e9ef;
+    --text-dim:#9aa4b8;
+    --accent-bottleneck:#ff6b6b;
+    --accent-breakthrough:#4dd4ac;
+    --accent-service:#5b9dff;
+    --flow-node:#1b2130;
+    --flow-border:#3a4358;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans KR",Helvetica,Arial,sans-serif;
+    line-height:1.55;
+  }
+  .wrap{max-width:1320px;margin:0 auto;padding:32px 24px 64px;}
+
+  header.page-header{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-bottom:28px;
+    padding-bottom:20px;
+    border-bottom:1px solid var(--border);
+  }
+  header.page-header h1{
+    font-size:1.5rem;
+    margin:0;
+    letter-spacing:-0.02em;
+  }
+  header.page-header .date{
+    color:var(--text-dim);
+    font-size:0.95rem;
+  }
+
+  /* Flow diagram */
+  .flow{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:6px;
+    background:var(--bg-panel);
+    border:1px solid var(--border);
+    border-radius:12px;
+    padding:20px 16px;
+    margin-bottom:36px;
+  }
+  .flow-node{
+    background:var(--flow-node);
+    border:1px solid var(--flow-border);
+    border-radius:8px;
+    padding:10px 14px;
+    font-size:0.85rem;
+    font-weight:600;
+    white-space:nowrap;
+    color:var(--text);
+  }
+  .flow-arrow{
+    color:var(--text-dim);
+    font-size:1.1rem;
+    padding:0 2px;
+  }
+
+  /* Columns */
+  .columns{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:20px;
+  }
+  @media (max-width:1000px){
+    .columns{grid-template-columns:1fr;}
+  }
+  .column{
+    background:var(--bg-panel);
+    border:1px solid var(--border);
+    border-radius:12px;
+    padding:18px;
+  }
+  .column-title{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-size:1.05rem;
+    font-weight:700;
+    margin:0 0 4px;
+  }
+  .column-title .dot{
+    width:10px;height:10px;border-radius:50%;
+    flex:none;
+  }
+  .col-bottleneck .dot{background:var(--accent-bottleneck);}
+  .col-breakthrough .dot{background:var(--accent-breakthrough);}
+  .col-service .dot{background:var(--accent-service);}
+  .column-sub{
+    color:var(--text-dim);
+    font-size:0.82rem;
+    margin:0 0 16px;
+  }
+
+  .card{
+    background:var(--bg-card);
+    border:1px solid var(--border);
+    border-radius:10px;
+    padding:14px 16px;
+    margin-bottom:12px;
+  }
+  .card:last-child{margin-bottom:0;}
+  .card h3{
+    font-size:0.95rem;
+    margin:0 0 8px;
+    line-height:1.4;
+  }
+  .card p{
+    margin:0 0 10px;
+    font-size:0.87rem;
+    color:var(--text);
+  }
+  .card .meta{
+    font-size:0.78rem;
+    color:var(--text-dim);
+  }
+  .card .meta a{
+    color:inherit;
+    text-decoration:none;
+    border-bottom:1px dotted var(--text-dim);
+  }
+  .card .meta a:hover{
+    color:var(--text);
+    border-bottom-color:var(--text);
+  }
+
+  .col-bottleneck .card{border-left:3px solid var(--accent-bottleneck);}
+  .col-breakthrough .card{border-left:3px solid var(--accent-breakthrough);}
+  .col-service .card{border-left:3px solid var(--accent-service);}
+
+  footer.page-footer{
+    margin-top:32px;
+    padding-top:16px;
+    border-top:1px solid var(--border);
+    color:var(--text-dim);
+    font-size:0.8rem;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="page-header">
+    <h1>AI 인프라·기술·서비스 데일리 브리핑</h1>
+    <span class="date">2026년 7월 12일</span>
+  </header>
+
+  <div class="flow">
+    <div class="flow-node">GPU</div><div class="flow-arrow">→</div>
+    <div class="flow-node">전력</div><div class="flow-arrow">→</div>
+    <div class="flow-node">냉각</div><div class="flow-arrow">→</div>
+    <div class="flow-node">메모리</div><div class="flow-arrow">→</div>
+    <div class="flow-node">패키징</div><div class="flow-arrow">→</div>
+    <div class="flow-node">광인터커넥트</div><div class="flow-arrow">→</div>
+    <div class="flow-node">추론서비스</div>
+  </div>
+
+  <div class="columns">
+
+    <section class="column col-bottleneck">
+      <h2 class="column-title"><span class="dot"></span>병목</h2>
+      <p class="column-sub">GPU·전력·메모리·인프라 부문 공급 제약</p>
+
+      <div class="card">
+        <h3>전력이 GPU보다 더 급한 병목으로 부상</h3>
+        <p>Gartner는 2027년까지 AI 데이터센터의 40%가 전력 제약을 받을 것으로 전망했다. 고압 변압기 리드타임이 5년까지 늘어나고 변전소 장비 대기기간도 160주를 넘기면서, 전력·냉각 인프라가 GPU 공급보다 더 심각한 병목으로 지목되고 있다.</p>
+        <p class="meta">Help Net Security · <a href="https://www.helpnetsecurity.com/2026/07/07/ai-data-centers-demand-expansion/" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>PJM 전력망, 7월 2일 예비용량 80% 급감</h3>
+        <p>미 동부 PJM 전력망의 예비 발전용량이 하루 만에 22GW에서 5GW로 급락했고, 버지니아 북부 지역 실시간 전력가는 MWh당 2,500달러를 순간 돌파했다. 메타는 루이지애나 하이페리온 데이터센터에 7.5GW를 공급하기 위해 가스발전소 10기를 직접 건설하기로 했다.</p>
+        <p class="meta">Global Electricity · <a href="https://www.globalelectricity.org/this-week-in-electricity-2026-07-09/" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>전력설비 시장 220억 달러 규모로 재편</h3>
+        <p>AI 데이터센터발 전력 수요 폭증으로 변압기·차단기 등 전력설비 시장이 2200억 달러 규모로 성장할 전망이며, 공급망 병목에 따라 업체별 명암이 엇갈리고 있다. 전 세계적으로 2,500GW 규모 프로젝트가 계통연계 대기열에 묶여 있다.</p>
+        <p class="meta">Bloomberg · <a href="https://www.bloomberg.com/news/articles/2026-07-03/ai-factories-create-winners-and-losers-in-power-equipment-market" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>SK하이닉스·삼성, 2조 달러 투자로 마이크론에 경고장</h3>
+        <p>SK하이닉스와 삼성전자가 HBM 생산능력 확충에 총 2조 달러 규모 투자를 발표하면서 마이크론의 입지가 흔들리고 있다는 분석이 나왔다. HBM은 이미 2026년 물량이 사실상 완판된 상태로, AI 가속기용 메모리 부족이 여전히 이어지고 있다.</p>
+        <p class="meta">The Motley Fool · <a href="https://www.fool.com/investing/2026/07/06/sk-hynix-and-samsung-have-a-2-trillion-warning-for/" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>삼성·SK하이닉스·마이크론, HBM4 베이스다이 설계 갈림길</h3>
+        <p>3사가 HBM4용 베이스다이(로직 다이) 제조 방식에서 각기 다른 전략을 택하며 경쟁 구도가 복잡해지고 있다. 엔비디아가 4분기 16-Hi HBM4 공급을 요청하면서 세 업체 모두 수주 경쟁에 뛰어든 상태다.</p>
+        <p class="meta">DIGITIMES · <a href="https://www.digitimes.com/news/a20260710VL213/samsung-sk-hynix-micron-hbm4-manufacturing.html" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+    </section>
+
+    <section class="column col-breakthrough">
+      <h2 class="column-title"><span class="dot"></span>돌파기술</h2>
+      <p class="column-sub">병목 해소를 위한 신기술·설비 투자</p>
+
+      <div class="card">
+        <h3>SK하이닉스, 나스닥 데뷔와 동시에 ASML 장비에 86억 달러 베팅</h3>
+        <p>SK하이닉스가 265억 달러 규모의 미국 나스닥 상장을 성공시키며 외국 기업 사상 최대 규모 상장 기록을 세웠다. 동시에 ASML의 최첨단 EUV 장비 구매에 86억 달러를 투입해 HBM4 등 차세대 메모리 생산능력을 선제적으로 확보했다.</p>
+        <p class="meta">TrendForce / Tom's Hardware · <a href="https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-places-record-8-billion-order-for-asml-euv-lithography-machines" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>마이크론, 2035년까지 美 투자 2500억 달러로 확대</h3>
+        <p>마이크론이 뉴욕 신규 팹 착공과 함께 2035년까지 미국 내 투자 목표를 2500억 달러로 상향했다. 포드·메타와 장기 공급계약도 체결하며 HBM 생산능력 확충을 통해 메모리 병목 해소에 나섰다.</p>
+        <p class="meta">Yahoo Finance / 반도체 주간 브리핑 · <a href="https://finance.yahoo.com/markets/stocks/articles/micron-jumps-chip-sentiment-improves-202514381.html" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>애플·브로드컴, 300억 달러 규모 美 생산 커스텀칩 계약</h3>
+        <p>애플이 브로드컴과 다년 계약을 체결해 미국산 커스텀 실리콘·무선 연결 칩을 2031년까지 150억 개 이상 생산하기로 했다. 브로드컴은 콜로라도 공장에 15억 달러를 추가 투자해 생산 능력을 확충한다.</p>
+        <p class="meta">CNBC · <a href="https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>엔비디아, 온수 순환식 냉각으로 데이터센터 물 소비 90% 절감</h3>
+        <p>엔비디아가 칠러 없이 섭씨 45도의 온수를 그대로 순환시켜 칩을 냉각하는 신기술을 공개했다. 랙당 물 소비를 최대 90% 줄일 수 있으며, 4분기 파트너사 대상 레퍼런스 키트 출하를 시작해 2027년 중반 대규모 데이터센터 적용을 목표로 한다.</p>
+        <p class="meta">Fortune · <a href="https://fortune.com/2026/06/22/nvidia-new-data-center-design-ai-water-problem-cooling/" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>내셔널그리드, 조울런트에 17.5억 달러 투자해 전력망 우회로 확보</h3>
+        <p>내셔널그리드가 AI 데이터센터 전용 발전 설비를 기존 유틸리티 계통연계보다 빠르게 짓는 개발사 조울런트에 17.5억 달러를 투자했다. 고압 인프라 구축 노하우를 결합해 전력 대기열 지연 문제를 우회하려는 시도다.</p>
+        <p class="meta">Data Center Knowledge · <a href="https://www.datacenterknowledge.com/energy-power-supply/national-grid-agrees-to-1-75b-investment-in-joulent-to-expand-ai-power-infrastructure" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+    </section>
+
+    <section class="column col-service">
+      <h2 class="column-title"><span class="dot"></span>서비스·수익화</h2>
+      <p class="column-sub">실적·계약으로 확인되는 AI 적용 사례</p>
+
+      <div class="card">
+        <h3>다케다, 인실리코 메디슨과 6억 달러 규모 신약개발 제휴</h3>
+        <p>다케다가 인실리코 메디슨의 Pharma.AI 플랫폼을 도입해 타깃 발굴부터 분자설계, 임상시험 예측까지 활용하는 계약을 체결했다. 초기 및 단기 지급액은 약 6000만 달러, 로열티를 포함한 총 계약 규모는 약 6억 달러다.</p>
+        <p class="meta">Yahoo Finance · <a href="https://finance.yahoo.com/technology/ai/articles/takeda-makes-fresh-ai-drug-173105795.html" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>보험 클레임 AI 스타트업 코기, 시리즈B로 26억 달러 밸류</h3>
+        <p>AI 네이티브 보험금 청구 플랫폼 코기가 신규 클레임 상품 '코기 클레임스'를 출시하며 1억600만 달러 규모 시리즈B1 투자를 유치, 기업가치 26억 달러를 인정받았다. 이는 실제 보험 업무에 AI가 매출로 연결된 사례로 꼽힌다.</p>
+        <p class="meta">FinTech Global · <a href="https://fintech.global/2026/06/30/corgi-launches-ai-native-platform-accelerating-insurance-claims/" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>제조업, AI 도입은 늘었지만 매출 증가는 아직 확인 안 돼</h3>
+        <p>제조업 리더 100명 대상 설문에서 AI를 적극 도입하고 있다고 답했지만, 유의미한 매출 증가나 비용 절감을 보고한 기업은 단 한 곳도 없었다. 도입과 실제 가치 창출 사이의 간극이 여전히 크다는 점을 보여준다.</p>
+        <p class="meta">Forbes · <a href="https://www.forbes.com/sites/robertszczerba/2026/07/09/manufacturers-rushed-into-ai-the-returns-arent-showing-up/" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>미국 은행권, AI로 비용은 줄이지만 매출 효과는 아직</h3>
+        <p>S&amp;P 글로벌 설문 결과 미국 은행들이 AI를 주로 비용 절감 용도로 활용하고 있으며, 매출 증대 효과를 체감하는 곳은 상대적으로 적은 것으로 나타났다. 금융업계 81%가 AI를 어느 정도 도입했지만 실제 ROI를 실현한 사례는 소수에 그친다.</p>
+        <p class="meta">S&amp;P Global Market Intelligence · <a href="https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/7/us-banks-turn-to-ai-for-expense-benefits-less-for-revenue-gains-survey-103613589" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+
+      <div class="card">
+        <h3>호놀룰루시, AI 기반 건축허가 패스트트랙 도입</h3>
+        <p>호놀룰루 시청 건축·계획국이 AI로 건축 허가 신청서를 사전 심사해 처리 속도와 품질을 높이는 패스트트랙 프로그램을 시작했다. 지자체가 행정 업무에 AI를 실제 적용해 시민 서비스 속도를 개선한 사례다.</p>
+        <p class="meta">Granicus · <a href="https://granicus.com/blog/from-policy-to-practice-how-ai-is-quietly-reshaping-government-operations-in-2026/" target="_blank" rel="noopener">원문 보기</a></p>
+      </div>
+    </section>
+
+  </div>
+
+  <footer class="page-footer">
+    이 페이지는 매일 자동 수집·요약되는 AI 인프라·기술·서비스 동향 브리핑입니다. 각 카드의 요약은 원문을 재구성한 것이며, 정확한 내용은 원문 링크를 참고하세요.
+  </footer>
+
+</div>
+</body>
+</html>
