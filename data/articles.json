@@ -128,5 +128,55 @@
     "url": "https://www.gizmochina.com/2026/07/08/severe-memory-shortages-drive-ddr4-price-over-50-in-q3-2026-ddr3-also-gets-costlier/",
     "lang": "en",
     "labels": ["메모리"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "美 곳곳서 가스발전소 급증…AI 전력 수요, 재생에너지 확충 속도 추월",
+    "summary": "AI 데이터센터의 폭발적 전력 수요를 감당하기 위해 미국 각지에서 가스발전소 건설이 급증하고 있지만, 풍력·태양광 등 재생에너지 확충 속도는 이를 따라가지 못하고 있다. 미네소타·오리건·미시간 등 일부 주는 데이터센터 전력이 재생에너지 목표에 부합하도록 규제를 강화했고, 캘리포니아·일리노이 등 6개 이상 주에서도 유사한 법안이 발의됐다.",
+    "source": "Washington Times (AP)",
+    "url": "https://www.washingtontimes.com/news/2026/jul/11/renewable-energy-allies-fighting-cleaner-alternatives-gas-plants-rise/",
+    "lang": "en",
+    "labels": ["전력", "규제"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "SK하이닉스, 나스닥 ADR 상장으로 45조원 조달…HBM 증설에 총력",
+    "summary": "SK하이닉스가 7월 10일 미국주식예탁증서(ADR) 발행을 통해 나스닥에 상장하며 최대 45조4500억원을 조달했다. 조달 자금은 용인 반도체 클러스터 1기 팹과 청주 어드밴스드 패키징 팹 건설 등 HBM 생산능력 확충에 투입될 예정으로, AI 메모리 공급 부족을 해소하기 위해 이례적인 규모의 자본 조달에 나선 것으로 풀이된다.",
+    "source": "전자신문",
+    "url": "https://www.etnews.com/20260710000300",
+    "lang": "ko",
+    "labels": ["HBM", "메모리"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "HBM 다음은 전력반도체…AI 데이터센터가 SiC·GaN 시장까지 흔든다",
+    "summary": "AI 데이터센터가 기가와트(GW)급으로 대형화하면서 전력 손실을 줄이는 실리콘카바이드(SiC)·질화갈륨(GaN) 기반 전력반도체 수요가 급증해, HBM에 이어 전력반도체가 새로운 공급 병목으로 떠오르고 있다. 그동안 전기차가 견인하던 SiC 시장을 이제 AI 데이터센터의 전원공급장치·전력변환장치 수요가 새로운 성장축으로 재편하고 있다.",
+    "source": "아주경제",
+    "url": "https://www.ajunews.com/view/20260710145724394",
+    "lang": "ko",
+    "labels": ["전력반도체"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "tech",
+    "title": "애플, 브로드컴과 AI 서버칩 협력 2031년까지 연장…자체 ASIC 개발 가속",
+    "summary": "애플이 브로드컴과의 커스텀 반도체 협력을 2031년까지 연장하며 계약 규모를 300억달러 이상으로 확대했다고 7월 6일 밝혔다. TSMC 3나노 공정으로 자체 첫 데이터센터 AI 추론칩 '발트라(Baltra)'를 개발 중으로, 엔비디아 GPU 의존을 줄이기 위한 빅테크의 자체 칩 개발 경쟁이 가속화되고 있음을 보여준다.",
+    "source": "헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10800372",
+    "lang": "ko",
+    "labels": ["ASIC"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "service",
+    "title": "LG AI연구원-코스콤, 근거까지 제시하는 '한국 증시 예측 AI' 서비스 출시",
+    "summary": "LG AI연구원과 코스콤이 '엑사원 BI' 기반으로 국내 상장 2500개 종목의 향후 4주간 주가 흐름을 예측하고 판단 근거까지 금융 전문가 수준으로 설명하는 AI 서비스 'AEFS'를 공동 개발해 상용화한다고 7월 7일 밝혔다. 결과만 보여주던 기존 예측 AI와 달리 '설명 가능성'을 차별점으로 내세우며 금융권 AI 서비스 경쟁이 본격화되고 있다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/stock/2026/07/07/2026070714033110101",
+    "lang": "ko",
+    "labels": []
   }
 ]
