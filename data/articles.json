@@ -7,7 +7,9 @@
     "source": "아시아투데이",
     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002579",
     "lang": "ko",
-    "labels": ["전력"]
+    "labels": [
+      "전력"
+    ]
   },
   {
     "date": "2026-07-12",
@@ -17,7 +19,9 @@
     "source": "Help Net Security",
     "url": "https://www.helpnetsecurity.com/2026/07/07/ai-data-centers-demand-expansion/",
     "lang": "en",
-    "labels": ["전력"]
+    "labels": [
+      "전력"
+    ]
   },
   {
     "date": "2026-07-12",
@@ -27,7 +31,10 @@
     "source": "DigiTimes",
     "url": "https://www.digitimes.com/news/a20260710PD226/tsmc-cowos-2027-packaging-capacity.html",
     "lang": "en",
-    "labels": ["패키징", "파운드리"]
+    "labels": [
+      "패키징",
+      "파운드리"
+    ]
   },
   {
     "date": "2026-07-12",
@@ -37,7 +44,10 @@
     "source": "전자신문",
     "url": "https://www.etnews.com/20260708000148",
     "lang": "ko",
-    "labels": ["냉각", "저장장치"]
+    "labels": [
+      "냉각",
+      "저장장치"
+    ]
   },
   {
     "date": "2026-07-12",
@@ -47,7 +57,10 @@
     "source": "DigiTimes",
     "url": "https://www.digitimes.com/news/a20260630PD239/tsmc-supply-chain-cowos-packaging-equipment.html",
     "lang": "en",
-    "labels": ["패키징", "파운드리"]
+    "labels": [
+      "패키징",
+      "파운드리"
+    ]
   },
   {
     "date": "2026-07-12",
@@ -79,7 +92,7 @@
     "lang": "en",
     "labels": []
   },
-    {
+  {
     "date": "2026-07-13",
     "category": "tech",
     "title": "마이크론, 히로시마 팹 증설 착공…1감마 D램·HBM 생산 확대",
@@ -87,7 +100,10 @@
     "source": "TrendForce",
     "url": "https://www.trendforce.com/news/2026/07/06/news-micron-breaks-ground-on-hiroshima-fab-expansion-scaling-1%CE%B3-dram-and-hbm-output-as-equipment-set-for-2h28/",
     "lang": "en",
-    "labels": ["HBM", "메모리"]
+    "labels": [
+      "HBM",
+      "메모리"
+    ]
   },
   {
     "date": "2026-07-13",
@@ -97,7 +113,10 @@
     "source": "Tech Times",
     "url": "https://www.techtimes.com/articles/320142/20260711/tsmc-q2-earnings-july-16-three-cowos-signals-that-test-ais-spending-ceiling.htm",
     "lang": "en",
-    "labels": ["패키징", "GPU물량"]
+    "labels": [
+      "패키징",
+      "GPU물량"
+    ]
   },
   {
     "date": "2026-07-13",
@@ -107,7 +126,9 @@
     "source": "Bloomberg",
     "url": "https://www.bloomberg.com/news/newsletters/2026-07-09/ai-data-center-boom-hits-a-labor-shortage-as-skilled-workers-run-out",
     "lang": "en",
-    "labels": ["인재부족"]
+    "labels": [
+      "인재부족"
+    ]
   },
   {
     "date": "2026-07-13",
@@ -117,7 +138,10 @@
     "source": "Fort Worth Report",
     "url": "https://fortworthreport.org/2026/07/09/majority-of-fort-worth-council-members-call-for-data-center-moratorium/",
     "lang": "en",
-    "labels": ["규제", "부지"]
+    "labels": [
+      "규제",
+      "부지"
+    ]
   },
   {
     "date": "2026-07-13",
@@ -127,7 +151,9 @@
     "source": "Gizmochina",
     "url": "https://www.gizmochina.com/2026/07/08/severe-memory-shortages-drive-ddr4-price-over-50-in-q3-2026-ddr3-also-gets-costlier/",
     "lang": "en",
-    "labels": ["메모리"]
+    "labels": [
+      "메모리"
+    ]
   },
   {
     "date": "2026-07-13",
@@ -137,7 +163,10 @@
     "source": "Washington Times (AP)",
     "url": "https://www.washingtontimes.com/news/2026/jul/11/renewable-energy-allies-fighting-cleaner-alternatives-gas-plants-rise/",
     "lang": "en",
-    "labels": ["전력", "규제"]
+    "labels": [
+      "전력",
+      "규제"
+    ]
   },
   {
     "date": "2026-07-13",
@@ -147,7 +176,10 @@
     "source": "전자신문",
     "url": "https://www.etnews.com/20260710000300",
     "lang": "ko",
-    "labels": ["HBM", "메모리"]
+    "labels": [
+      "HBM",
+      "메모리"
+    ]
   },
   {
     "date": "2026-07-13",
@@ -157,7 +189,9 @@
     "source": "아주경제",
     "url": "https://www.ajunews.com/view/20260710145724394",
     "lang": "ko",
-    "labels": ["전력반도체"]
+    "labels": [
+      "전력반도체"
+    ]
   },
   {
     "date": "2026-07-13",
@@ -167,7 +201,9 @@
     "source": "헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10800372",
     "lang": "ko",
-    "labels": ["ASIC"]
+    "labels": [
+      "ASIC"
+    ]
   },
   {
     "date": "2026-07-13",
@@ -187,7 +223,10 @@
     "source": "Reuters",
     "url": "https://wifc.com/2026/07/09/us-power-companies-scramble-to-secure-equipment-as-surging-data-center-demand-strains-supplies/",
     "lang": "en",
-    "labels": ["전력", "변압기"]
+    "labels": [
+      "전력",
+      "변압기"
+    ]
   },
   {
     "date": "2026-07-12",
@@ -197,7 +236,10 @@
     "source": "뉴스토마토",
     "url": "http://www.newstomato.com/ReadNews.aspx?no=1306679",
     "lang": "ko",
-    "labels": ["파운드리", "GPU물량"]
+    "labels": [
+      "파운드리",
+      "GPU물량"
+    ]
   },
   {
     "date": "2026-07-12",
@@ -207,7 +249,10 @@
     "source": "뉴스핌",
     "url": "https://www.newspim.com/news/view/20260709001089",
     "lang": "ko",
-    "labels": ["패키징", "유리기판"]
+    "labels": [
+      "패키징",
+      "유리기판"
+    ]
   },
   {
     "date": "2026-07-12",
@@ -247,6 +292,138 @@
     "source": "이데일리",
     "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03444006645512224",
     "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "AI發 전력망 장비 품귀 심화…변압기 리드타임 5년, 해저케이블 2029년까지 완판",
+    "summary": "AI 데이터센터 확충과 미국 노후 전력망 교체 수요가 겹치면서 변압기·승압기 등 전력망 핵심 장비의 납기가 1~2년에서 3~4년으로 늘어났고, 캘리포니아 로즈빌전기유틸리티는 변전소용 대형 변압기를 프로젝트 개시 5년 전부터 주문하고 있다고 밝혔다. 프리즈미안·넥상스·NKT 등 해저 초고압케이블 제조사들의 생산 물량도 최대 2029년까지 이미 예약이 꽉 찬 것으로 나타나, 전력망 장비 부족이 AI 인프라 확장의 새로운 발목으로 떠올랐다.",
+    "source": "서울경제",
+    "url": "https://www.sedaily.com/article/20066732",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "변압기"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "최태원 \"메모리, 더는 사이클 산업 아니다\"…AI 'KV캐싱' 수요가 만드는 구조 변화",
+    "summary": "SK하이닉스 나스닥 ADR 상장 직후 뉴욕 특파원 간담회에서 최태원 SK그룹 회장은 메모리반도체가 과거처럼 호황과 불황을 반복하는 사이클 산업에서 벗어나고 있다고 진단했다. AI 모델이 재계산을 줄이기 위해 데이터를 메모리에 저장해두는 '키밸류(KV) 캐싱' 수요가 급증해 메모리 수요 증가 속도가 공급 증가 속도를 크게 앞지르고 있으며, 향후 메모리를 서비스 형태로 제공하는 '서비스형 메모리(MaaS)' 모델도 가능하다고 소개했다.",
+    "source": "헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10806561",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "tech",
+    "title": "[단독] LG전자, 엔비디아向 AI 서버랙 자체 개발…내년 양산 목표",
+    "summary": "LG전자 생산기술원(PRI)이 엔비디아 '블랙웰' 기반 컴퓨트트레이 규격에 맞춘 AI 서버랙 시제품 개발을 상반기에 완료하고, 하반기 신뢰성 평가를 거쳐 글로벌 빅테크 대상 수주에 나설 계획이라고 7월 12일 보도됐다. 자사의 액체냉각(LC) 기술을 서버랙에 적용해 고발열 AI 서버의 냉각·전력 효율을 높이는 전략으로, 내년 양산을 목표로 하고 있다.",
+    "source": "서울경제",
+    "url": "https://www.sedaily.com/article/20066691",
+    "lang": "ko",
+    "labels": [
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "tech",
+    "title": "퓨리오사AI, NPU 내년 4만~5만장 증산…엔비디아 독점에 도전",
+    "summary": "퓨리오사AI가 LLM 추론 특화 2세대 NPU '레니게이드'의 내년 생산 물량을 올해 2만장 대비 2배 이상인 4만~5만장으로 확대한다. 에이전틱 AI 확산으로 추론 연산 수요가 급증한 것이 배경이며, LG AI연구원 엑사원과 삼성SDS向 서비스·구독형 클라우드에도 탑재될 예정이다.",
+    "source": "전자신문",
+    "url": "https://www.etnews.com/20260713000265",
+    "lang": "ko",
+    "labels": [
+      "NPU"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "service",
+    "title": "우리금융, '디노랩 Tech센터'로 금융권 첫 딥테크 상설 거점 구축",
+    "summary": "우리금융그룹이 스타트업 육성공간이던 '디노랩 관악센터'를 9월부터 '디노랩 Tech센터'로 전환해 은행·보험·증권·IT 등 그룹사가 직접 AI전환(AX) 과제를 내걸고 스타트업과 PoC를 수행하는 딥테크 거점으로 운영한다. 선발된 스타트업에는 최대 3천만원의 PoC 비용과 인프라 크레딧, 딥테크 정책펀드 우선 투자 검토 등이 지원된다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/future/2026/07/10/2026070612255860379",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "마이크론, 美 투자 250조원 이상으로 확대…HBM3E·HBM4 증산 총력",
+    "summary": "마이크론이 미국 내 투자 계획을 기존보다 약 500억달러 늘려 2035년까지 2500억달러 이상으로 확대한다고 발표했다. 뉴욕 시러큐스 인근에 최대 4개 팹을 지어 D램의 40%를 미국에서 생산하고 HBM3E 양산과 HBM4 개발에 집중 투자한다는 계획으로, AI發 메모리 공급 부족에 대응하기 위한 역대 최대 규모 반도체 투자 중 하나로 꼽힌다.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/micron-raises-u-investment-250-131434295.html",
+    "lang": "en",
+    "labels": [
+      "메모리",
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "TSMC, 자이 사이언스파크 2단계 착공…첨단 패키징 공장 3곳 추가",
+    "summary": "TSMC가 7월 12일 대만 자이(嘉義) 사이언스파크 2단계 부지에서 첨단 패키징 공장 3곳의 착공식을 열었다. 1단계와 인접한 약 90헥타르 부지에 들어서는 이번 확장은 2031년경 완공을 목표로 하며, 완공 시 자이 단지 전체에서 연간 3000억 대만달러 이상의 생산과 9000명 이상의 고용을 창출할 것으로 예상돼 AI 가속기 패키징 병목 해소를 위한 공급망 증설이 계속되고 있음을 보여준다.",
+    "source": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202607120005",
+    "lang": "en",
+    "labels": [
+      "패키징",
+      "파운드리"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "AI 서버發 MLCC 품귀 심화…대만 부품업체, 하반기 반사이익 기대",
+    "summary": "AI 서버 공급망이 부품 재고 확보 단계에 접어들면서 적층세라믹콘덴서(MLCC) 등 고사양 수동부품 공급이 빠듯해지고 있다. 일본·한국 주요 MLCC 업체들의 수주 잔고가 빠르게 쌓이면서 물량을 소화하지 못하는 사이, 대만 부품업체들이 2026년 하반기 반사이익 주문을 확보할 것으로 전망된다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260710PD250/ai-server-taiwan-revenue-mlcc-market.html",
+    "lang": "en",
+    "labels": [
+      "MLCC"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "tech",
+    "title": "POSTECH·KITECH, 초박막 반도체 10겹 적층 성공…HBM보다 집적밀도 4배",
+    "summary": "포스텍 김석 교수팀과 한국생산기술연구원 금호현 박사팀이 머리카락 굵기의 5분의 1 수준인 초박막 반도체 칩을 10겹 이상 오차 없이 쌓아 올리는 적층 기술을 개발했다고 밝혔다. 칩 전사와 금속 접합을 동시에 진행하는 공정으로 180도 이하, 20kPa 이하의 저온·저압 조건에서 작업해 칩 변형을 최소화했으며, 상용 HBM 대비 약 4배 높은 집적밀도를 구현해 AI 메모리 용량 병목을 완화할 차세대 패키징 기술로 주목받는다.",
+    "source": "TechXplore",
+    "url": "https://techxplore.com/news/2026-07-ai-memory-denser-ultrathin-chip.html",
+    "lang": "en",
+    "labels": [
+      "HBM",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "tech",
+    "title": "메타, 자체 AI칩 '아이리스' 9월 양산 돌입…컴퓨팅 능력 2배 확대",
+    "summary": "메타가 브로드컴과 공동 설계한 데이터센터용 AI칩 '아이리스(Iris)'를 9월부터 생산에 투입한다고 내부 메모를 통해 밝혔다. 자체 AI 가속기 4세대 프로젝트 'MTIA'의 일환으로, 내년 전체 컴퓨팅 파워를 14기가와트까지 두 배로 늘리려는 계획의 핵심 축이며 엔비디아 GPU 의존도를 낮추려는 빅테크의 자체 칩 개발 경쟁을 다시 한번 보여준다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260713000121",
+    "lang": "ko",
+    "labels": [
+      "ASIC"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "service",
+    "title": "대만 MA-tek, AI 칩 테스트·CPO 수요로 2분기 매출 사상 최대",
+    "summary": "대만 반도체 분석·테스트 기업 MA-tek(materials Analysis Technology)의 6월 매출이 5억5800만 대만달러로 전월 대비 2.56%, 전년 동월 대비 11.01% 늘며 4개월 연속 최고치를 경신했다. 2분기 매출도 16억4000만 대만달러로 전분기 대비 15.4% 증가해 사상 최고를 기록했는데, 고성능 AI칩 연구개발과 광공동패키징(CPO) 관련 신규 결함 분석 수요가 급증한 것이 성장 동력으로 꼽힌다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260709PD200/ma-tek-testing-revenue-cpo-demand.html",
+    "lang": "en",
     "labels": []
   }
 ]
