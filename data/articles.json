@@ -178,5 +178,55 @@
     "url": "https://www.mt.co.kr/stock/2026/07/07/2026070714033110101",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "SK하이닉스 CEO \"메모리 품귀, 2030년대까지 이어질 것\"",
+    "summary": "곽노정 SK하이닉스 대표이사는 7월 10일 AI 붐이 촉발한 D램·낸드 공급 부족이 2030년대까지 지속될 수 있다고 밝혔다. 이 발언은 테슬라·애플 등 주요 기업들이 메모리 부족으로 생산 차질을 경고한 가운데 나온 것으로, 업계 최상위 공급사조차 병목 해소 시점을 장담하지 못하는 상황을 보여준다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-chief-expects-memory-shortage-to-last-into-next-decade",
+    "lang": "en",
+    "labels": ["메모리"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "bottleneck",
+    "title": "트렌드포스 \"3분기 D램 가격 상승률 13~18%로 둔화 전망\"",
+    "summary": "시장조사기관 트렌드포스는 7월 6일 2분기 58~63% 급등했던 범용 D램 가격이 3분기에는 13~18% 상승에 그칠 것으로 전망했다. PC·스마트폰 등 소비자 시장이 사상 최고 수준 가격을 더 이상 감당하기 어려운 한계에 도달하면서 상승폭이 다소 완만해질 것이라는 분석이다.",
+    "source": "서울경제",
+    "url": "https://www.sedaily.com/article/20064210",
+    "lang": "ko",
+    "labels": ["메모리"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "tech",
+    "title": "앤스로픽, 삼성전자와 2나노 파운드리 기반 커스텀 AI칩 개발 논의",
+    "summary": "앤스로픽이 삼성전자와 자체 AI 반도체 개발을 위한 협력을 논의 중이라고 7월 2일 보도됐다. 오픈AI의 커스텀 칩 프로그램을 이끌었던 인물을 최근 영입한 앤스로픽은 컴퓨팅 비용 절감과 공급 안정성 확보를 위해 삼성 2나노 파운드리·패키징 기술을 활용하는 방안을 검토 중이며, 마이크로소프트·Fractile 등과도 유사한 논의를 진행하고 있다.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "lang": "en",
+    "labels": ["ASIC", "파운드리"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "tech",
+    "title": "GPU 대안 데이터플로우 칩 삼바노바, 11조원 밸류에 1조원 투자 유치",
+    "summary": "AI 반도체 스타트업 삼바노바가 제너럴 애틀랜틱 주도로 10억달러(약 1조3800억원) 규모 시리즈F 첫 클로징을 완료해 기업가치 110억달러를 인정받았다고 7월 9일 밝혔다. GPU가 아닌 자체 재구성형 데이터플로우 유닛(RDU) 아키텍처로 추론 워크로드를 최적화하며, JP모건체이스가 온프레미스 추론용으로 자사 시스템을 도입하기로 하는 등 GPU 공급난 속 대안 칩 채택이 확산되고 있다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260709000011",
+    "lang": "ko",
+    "labels": ["NPU"]
+  },
+  {
+    "date": "2026-07-13",
+    "category": "service",
+    "title": "메디아나, 퓨리오사AI·엑스와이지와 '병원형 피지컬 AI' 플랫폼 구축",
+    "summary": "의료기기 기업 메디아나가 국산 NPU 기업 퓨리오사AI, AI 로봇 기업 엑스와이지와 손잡고 병원 내 환자감시 데이터와 AI 분석, 로봇 물류 자동화를 결합한 '병원형 피지컬 AI' 플랫폼을 공동 구축한다고 7월 7일 밝혔다. 메디아나가 축적한 환자감시장치·의료 데이터 인프라에 국산 AI 반도체와 로봇 기술을 접목해 의료 AI 자립도를 높이는 사례로 주목된다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/stock/2026/07/07/2026070709471525883",
+    "lang": "ko",
+    "labels": []
   }
 ]
