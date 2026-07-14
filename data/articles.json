@@ -425,5 +425,39 @@
     "url": "https://www.digitimes.com/news/a20260709PD200/ma-tek-testing-revenue-cpo-demand.html",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-07-14",
+    "category": "bottleneck",
+    "title": "KB증권 \"삼성전자, 2027년 메모리 공급 '역사상 최악의 절벽'\"",
+    "summary": "KB증권이 7월 13일 보고서에서 내년 범용 메모리 신규 생산능력 확대가 사실상 없는 가운데 빅테크의 장기공급계약(LTA) 물량이 우선 배정되면서, 2027년이 반도체 70년 역사상 가장 타이트한 공급 국면이 될 것이라고 전망했다. 일반 고객이 체감하는 메모리 공급 부족은 사실상 '공급절벽' 수준으로 심화할 것으로 예상되며, 목표주가는 60만원으로 유지됐다.",
+    "source": "뉴시스",
+    "url": "https://www.newsis.com/view/NISX20260713_0003706037",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "category": "tech",
+    "title": "中 베이징대, 전광 인터커넥트로 AI 추론 속도 100배 가속",
+    "summary": "중국 베이징대 연구진이 구리 배선 대신 광통신으로 여러 FPGA를 연결하는 전광(all-optical) 인터커넥트 시스템을 개발해, 분산 AI 추론 속도를 최대 100배 이상 높이면서 연산 자원은 9분의 1 수준으로 줄였다고 발표했다. 5개의 FPGA를 광스위치로 연결해 신경망 각 레이어를 처리하는 방식으로, 칩 간 통신이 분산 AI 연산의 새로운 병목으로 떠오른 가운데 이를 해결할 차세대 인터커넥트 기술로 주목받고 있다.",
+    "source": "South China Morning Post",
+    "url": "https://www.scmp.com/news/china/science/article/3360328/chinas-optical-chip-breakthrough-boosts-ai-speed-100-fold-using-fraction-compute-power",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "category": "service",
+    "title": "후지쓰, 이온푸드스타일과 매장운영 AI 에이전트 현장 실증",
+    "summary": "후지쓰가 일본 슈퍼마켓 체인 이온푸드스타일과 공동으로 매장 전략 수립과 매대 배치 등을 지원하는 AI 에이전트를 개발해 7월 실제 매장에서 현장 실증에 들어갔다고 밝혔다. 약 10일 만에 4종의 AI 에이전트 시제품을 만들어 이 중 2종을 실증에 투입했으며, 결과에 따라 정확도를 높이고 매출 증대를 겨냥한 에이전트로 적용 범위를 넓힐 계획이다.",
+    "source": "Fujitsu Global",
+    "url": "https://global.fujitsu/en-global/pr/news/2026/07/13-02",
+    "lang": "en",
+    "labels": []
   }
 ]
