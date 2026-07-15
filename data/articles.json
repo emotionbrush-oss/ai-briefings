@@ -459,5 +459,78 @@
     "url": "https://global.fujitsu/en-global/pr/news/2026/07/13-02",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-07-15",
+    "category": "bottleneck",
+    "title": "인텔, 아일랜드 팹34에 8.5조원 투자…AI 서버용 제온6 생산 확대",
+    "summary": "인텔이 7월 13일 아일랜드 레이슬립 팹34 현대화에 50억유로(약 8조5000억원)를 투자한다고 밝혔다. 유럽 유일의 EUV 양산 팹인 이곳에서 인텔3 공정 기반 차세대 제온(Xeon) 6 서버용 CPU 생산능력을 늘려 AI·HPC 수요 증가에 대응할 계획이며, 투자금 대부분은 2027년 말까지 집행된다.",
+    "source": "전자신문",
+    "url": "https://www.etnews.com/20260714000499",
+    "lang": "ko",
+    "labels": [
+      "파운드리"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "category": "bottleneck",
+    "title": "SK하이닉스, 中 다롄 2공장 낸드 증설 재개…AI發 SSD 수요 대응",
+    "summary": "SK하이닉스가 미·중 규제로 멈춰있던 중국 다롄 2공장의 낸드플래시 증설을 하반기 재개해 V8 낸드 생산라인을 신규 반입할 것으로 알려졌다. 기업용 SSD 수요 급증과 낸드 업황 회복, 미국 상무부의 장비 반입 규제 완화가 맞물리며 투자 재개가 가능해진 것으로 풀이된다.",
+    "source": "TrendForce",
+    "url": "https://www.trendforce.com/news/2026/07/10/news-sk-hynix-reportedly-revives-dalian-plant-2-expansion-in-2h26-adding-new-v8-nand-capacity/",
+    "lang": "en",
+    "labels": [
+      "낸드",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "category": "bottleneck",
+    "title": "AI 수요 폭증에 전력난 겹쳐…수도권 데이터센터 '희소자산' 부상",
+    "summary": "수도권 전력계통영향평가 신청 물량이 522건, 3만3592MW에 달하지만 최종 공급 승인을 받은 곳은 단 10건으로 승인률이 1.9%에 그쳐 신규 데이터센터 공급이 사실상 막힌 상태다. 전력을 이미 확보한 기존 수도권 데이터센터의 상면 임대료는 6년새 70% 넘게 오르며 희소 자산으로 떠오르고 있다.",
+    "source": "파이낸셜뉴스",
+    "url": "https://www.fnnews.com/news/202607140530463480",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "부지"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "category": "tech",
+    "title": "포톤·엣지큐, 양자정밀제어 기반 차세대 냉각기술 사업화 협약",
+    "summary": "반도체 냉각기업 포톤과 엣지큐가 서울대·기초과학연구원(IBS) 원천기술을 기반으로 한 양자정밀제어 냉각 솔루션의 투자·사업화를 공동 추진하는 협약을 체결했다. 엣지큐는 최근 관련 핵심 특허 3건의 소유권을 확보했으며, 기존 냉매 압축식과 다른 방식의 이 기술을 발열이 심한 AI 서버 등 산업 분야로 확대 적용할 계획이다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260714000915",
+    "lang": "ko",
+    "labels": [
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "category": "tech",
+    "title": "메모리 공급난 속 CXL 기술 부상…삼성·SK하이닉스 고객 확보 경쟁",
+    "summary": "AI發 메모리 공급 부족이 이어지는 가운데 여러 서버가 메모리를 공유할 수 있게 해주는 CXL(Compute Express Link) 인터커넥트 기술이 대안으로 주목받고 있다. 시장조사업체 욜은 CXL 관련 시장이 지난해 1400만달러에서 2026년 21억달러로 급성장할 것으로 내다봤으며, 삼성전자와 SK하이닉스는 이미 CXL 메모리 제품 개발을 마치고 고객사 확보 경쟁에 나섰다.",
+    "source": "디지털투데이",
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=639990",
+    "lang": "ko",
+    "labels": [
+      "CXL",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "category": "service",
+    "title": "알체라, 글로벌 IT기업과 26.6억원 규모 AI 데이터 수집 계약",
+    "summary": "알체라가 글로벌 IT 기업과 AI 학습용 '데이터 팩토리' 데이터 수집 계약을 26억6000만원 규모로 변경 체결했다고 공시했다. 이는 지난해 매출액의 약 18%에 해당하는 규모로, 올해 1월 12억4100만원으로 최초 체결된 계약이 증액된 것이다.",
+    "source": "CBC뉴스",
+    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=589325",
+    "lang": "ko",
+    "labels": []
   }
 ]
