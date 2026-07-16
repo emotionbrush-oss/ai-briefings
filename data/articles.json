@@ -532,5 +532,39 @@
     "url": "https://www.cbci.co.kr/news/articleView.html?idxno=589325",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-07-16",
+    "category": "bottleneck",
+    "title": "메모리 부족 오래간다… 삼전닉스 고점 멀었다",
+    "summary": "글로벌 투자은행들이 삼성전자·SK하이닉스의 실적 전망을 잇따라 상향하며 메모리 공급 부족 장기화에 무게를 싣고 있다. UBS는 D램 공급 부족이 최소 2028년 2분기까지, 낸드는 2027년 4분기까지 이어질 것으로 내다봤으며, AI 서버용 D램과 기업용 SSD는 여전히 타이트한 공급 국면이라고 진단했다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/industry/2026/07/16/2026071519432465239",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "category": "tech",
+    "title": "美 인트린식 파워, AI 데이터센터용 전력 오케스트레이션 플랫폼 시드 투자 유치",
+    "summary": "전력 인프라 스타트업 인트린식 파워가 교세라벤처스·부스트VC 등으로부터 시드 투자를 유치하며 AI 데이터센터용 전력 오케스트레이션 플랫폼의 상용화에 나선다고 밝혔다. 이 플랫폼은 건물·캠퍼스 단위로 전력 흐름을 실시간 감지·예측·최적화해 기존 전력 용량을 최대한 활용하고 분산에너지자원을 통합하는 방식으로, AI 데이터센터의 전력 병목을 완화할 기술로 주목받는다.",
+    "source": "HPCwire (AIwire)",
+    "url": "https://www.hpcwire.com/aiwire/2026/07/15/intrinsic-power-to-accelerate-commercialization-of-ai-power-infrastructure-for-data-centers/",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "category": "service",
+    "title": "TSMC 2분기 순이익 시장 예상 크게 상회…AI 반도체 수요 재확인",
+    "summary": "TSMC가 7월 16일 발표한 2분기 순이익이 시장 예상치 6237억 대만달러를 웃도는 7066억 대만달러(약 220억 달러)를 기록했다고 밝혔다. 매출은 전년 대비 36% 증가한 1조2700억 대만달러였으며, 웨이저자 회장은 AI 관련 수요가 극도로 견조하다며 AI 가속기 매출이 2029년까지 연평균 50~60% 성장할 것이라고 전망했다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260716000882",
+    "lang": "ko",
+    "labels": []
   }
 ]
