@@ -566,5 +566,35 @@
     "url": "https://www.newspim.com/news/view/20260716000882",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-07-19",
+    "category": "bottleneck",
+    "title": "美 최대 전력망 PJM, AI發 수요 폭증에 공급비용 60%↑…비상 백업발전 명령 요청",
+    "summary": "미국 최대 전력망 운영기관 PJM 인터커넥션의 전력 공급비용이 AI 데이터센터發 수요 폭증으로 60% 이상 상승했다. 올여름 폭염으로 20년 만의 최대 수요 기록이 위협받자 PJM은 비상시 데이터센터가 15분 내 백업 발전기로 전환하도록 미 에너지부(DOE)에 명령을 요청해, 전력망 증설이 AI 확장 속도를 따라가지 못하는 현실을 보여줬다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-14/largest-us-grid-misses-power-supply-goal-amid-rampant-ai-surge",
+    "lang": "en",
+    "labels": ["전력", "규제"]
+  },
+  {
+    "date": "2026-07-19",
+    "category": "tech",
+    "title": "첨단 패키징, 전공정 성장률 추월…NPO가 상용 CPO 전환의 가교로 부상",
+    "summary": "생성형 AI發 연산·메모리·대역폭 수요 증가로 반도체 혁신의 축이 전공정에서 첨단 패키징·실리콘포토닉스·CPO(공동패키지광학)로 옮겨가면서, 첨단 패키징 소재 시장이 전공정 소재 시장보다 빠르게 성장할 전망이다. 특히 NPO(근접패키지광학)가 완전한 상용 CPO로 넘어가기 전 업계의 과도기를 잇는 가교 기술로 주목받고 있다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260716PD219/cpo-genai-packaging-growth-commercial.html",
+    "lang": "en",
+    "labels": ["패키징", "광인터커넥트"]
+  },
+  {
+    "date": "2026-07-19",
+    "category": "service",
+    "title": "케이쓰리아이, 삼보모터스와 '뉴로 트윈 엑스' 기반 피지컬 AI 제조 인프라 구축 협약",
+    "summary": "산업용 AI 기업 케이쓰리아이가 자동차 부품업체 삼보모터스와 자체 플랫폼 '뉴로 트윈 엑스' 기반 제조 AI 전환 가속화 업무협약(MOU)을 체결했다. 양사는 공급망관리·품질·설계 등 제조 전반에 적용 가능한 산업용 AI 에이전트 도입과 자율형 공장 구축을 공동 추진하기로 했다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260716000406",
+    "lang": "ko",
+    "labels": []
   }
 ]
