@@ -568,33 +568,72 @@
     "labels": []
   },
   {
-    "date": "2026-07-19",
+    "date": "2026-07-18",
     "category": "bottleneck",
-    "title": "美 최대 전력망 PJM, AI發 수요 폭증에 공급비용 60%↑…비상 백업발전 명령 요청",
-    "summary": "미국 최대 전력망 운영기관 PJM 인터커넥션의 전력 공급비용이 AI 데이터센터發 수요 폭증으로 60% 이상 상승했다. 올여름 폭염으로 20년 만의 최대 수요 기록이 위협받자 PJM은 비상시 데이터센터가 15분 내 백업 발전기로 전환하도록 미 에너지부(DOE)에 명령을 요청해, 전력망 증설이 AI 확장 속도를 따라가지 못하는 현실을 보여줬다.",
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-14/largest-us-grid-misses-power-supply-goal-amid-rampant-ai-surge",
-    "lang": "en",
-    "labels": ["전력", "규제"]
-  },
-  {
-    "date": "2026-07-19",
-    "category": "tech",
-    "title": "첨단 패키징, 전공정 성장률 추월…NPO가 상용 CPO 전환의 가교로 부상",
-    "summary": "생성형 AI發 연산·메모리·대역폭 수요 증가로 반도체 혁신의 축이 전공정에서 첨단 패키징·실리콘포토닉스·CPO(공동패키지광학)로 옮겨가면서, 첨단 패키징 소재 시장이 전공정 소재 시장보다 빠르게 성장할 전망이다. 특히 NPO(근접패키지광학)가 완전한 상용 CPO로 넘어가기 전 업계의 과도기를 잇는 가교 기술로 주목받고 있다.",
-    "source": "DigiTimes",
-    "url": "https://www.digitimes.com/news/a20260716PD219/cpo-genai-packaging-growth-commercial.html",
-    "lang": "en",
-    "labels": ["패키징", "광인터커넥트"]
-  },
-  {
-    "date": "2026-07-19",
-    "category": "service",
-    "title": "케이쓰리아이, 삼보모터스와 '뉴로 트윈 엑스' 기반 피지컬 AI 제조 인프라 구축 협약",
-    "summary": "산업용 AI 기업 케이쓰리아이가 자동차 부품업체 삼보모터스와 자체 플랫폼 '뉴로 트윈 엑스' 기반 제조 AI 전환 가속화 업무협약(MOU)을 체결했다. 양사는 공급망관리·품질·설계 등 제조 전반에 적용 가능한 산업용 AI 에이전트 도입과 자율형 공장 구축을 공동 추진하기로 했다.",
-    "source": "뉴스핌",
-    "url": "https://www.newspim.com/news/view/20260716000406",
+    "title": "반도체 호황에도 가팔라진 고용절벽…정부, AI 인재 20만명 육성",
+    "summary": "반도체 수출 호황에도 불구하고 자본집약적 산업 특성상 청년 고용은 오히려 악화돼, 최근 3년간 15~29세 일자리가 21만개 줄어드는 역설이 심화되고 있다. 정부는 이런 AI發 산업구조 변화에 대응해 2030년까지 첨단산업 전문인력 20만명을 육성하겠다는 대책을 내놨다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/2026071449241",
     "lang": "ko",
+    "labels": [
+      "인재부족"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "category": "bottleneck",
+    "title": "TSMC, 애리조나에 1000억달러 추가 투자…총 2650억달러로 확대",
+    "summary": "TSMC가 2분기 순이익 77% 급증이라는 사상 최대 실적을 발표한 직후 애리조나 반도체 단지에 1000억달러를 추가 투입해 총 투자액을 2650억달러(팹 10곳·첨단 패키징 2곳·R&D센터)로 늘리겠다고 밝혔다. 2026년 설비투자 전망치도 최대 640억달러로 상향하며 AI 칩 수요 폭증에 따른 파운드리·패키징 캐파 부족에 대응하는 모습이다.",
+    "source": "UPI",
+    "url": "https://www.upi.com/Top_News/US/2026/07/16/tsmc-semiconductor-investment-arizona/9791784210133/",
+    "lang": "en",
+    "labels": [
+      "파운드리",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "category": "bottleneck",
+    "title": "中 CXMT, 커촹반 IPO 공모가 확정…역대 최대 12.7조원 조달",
+    "summary": "중국 최대 D램 업체 창신메모리(CXMT)가 상하이 커촹반 상장 공모가를 8.66위안으로 확정하고 7월16일 청약에 들어갔다. 조달 규모가 기본 물량만 약 579억위안(약 12조7000억원)으로 중국 반도체 기업 사상 최대 IPO가 될 전망이며, 조달 자금은 D램 캐파 확충에 투입돼 글로벌 메모리 공급망 구도에 영향을 줄 것으로 보인다.",
+    "source": "전자신문",
+    "url": "https://www.etnews.com/20260715000300",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "category": "tech",
+    "title": "인텔 EMIB 패키징 급부상…구글 9세대 TPU 채택 검토, TSMC CoWoS 대안으로",
+    "summary": "TSMC의 CoWoS 패키징 캐파가 2년 넘게 공급 부족 상태를 지속하자, 실리콘 인터포저 없이 칩 경계에 미세 브릿지를 매립하는 인텔의 EMIB(EMIB-T) 패키징이 대안 기술로 부상하고 있다. 구글이 9세대 TPU 생산에 이를 검토 중이고 SK하이닉스도 HBM-로직 통합을 위한 인텔 EMIB 기판 테스트에 착수한 것으로 알려지며, TSMC 단일 의존 구도에 균열이 생기고 있다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607160639319381fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "category": "service",
+    "title": "ASML, 2분기 순이익 29억유로…AI發 EUV 수주 호조로 연간 전망 상향",
+    "summary": "ASML이 7월15일 발표한 2분기 실적에서 매출 93억유로, 순이익 29억유로를 기록하며 시장 기대를 웃돌았다. AI·메모리 투자 확대로 EUV 노광장비 수주가 견조하자 2026년 연간 매출 전망을 430억~450억유로로 상향했으며, 2027~2028년까지 주문 가시성이 양호하다고 밝혔다.",
+    "source": "ASML",
+    "url": "https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-07-18",
+    "category": "service",
+    "title": "인텔-구글클라우드, AI 기반 전사 업무전환 협력 확대",
+    "summary": "인텔과 구글클라우드가 기존 협력을 확대해 제미나이 엔터프라이즈(Gemini Enterprise)를 인텔의 엔지니어링·공급망·경영 전반에 도입하기로 했다. 인텔 칩 설계 시뮬레이션 등 핵심 개발 워크로드도 구글클라우드 인프라로 최적화하기로 해, AI를 실제 기업 운영에 적용해 생산성 향상을 노리는 사례로 꼽힌다.",
+    "source": "Intel Newsroom",
+    "url": "https://newsroom.intel.com/artificial-intelligence/intel-google-cloud-announce-collaboration-to-accelerate-intel-ai-enabled-enterprise-transformation",
+    "lang": "en",
     "labels": []
   }
 ]
