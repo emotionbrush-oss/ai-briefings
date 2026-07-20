@@ -635,5 +635,52 @@
     "url": "https://newsroom.intel.com/artificial-intelligence/intel-google-cloud-announce-collaboration-to-accelerate-intel-ai-enabled-enterprise-transformation",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-07-20",
+    "category": "bottleneck",
+    "title": "HBM4 하이브리드본딩 늦춰지나…발열관리가 새 변수로",
+    "summary": "삼성전자와 SK하이닉스가 HBM4의 핵심 업그레이드로 꼽히던 하이브리드본딩 공정 적용을 이번 세대에서 보류하고 HBM4E부터 도입하는 방안을 검토 중인 것으로 전해졌다. 발열관리 난도와 수율 문제로 도입이 늦춰지면서, 두 회사는 대신 별도의 방열 장치를 임시 해법으로 채택해 냉각 성능을 확보하려는 것으로 알려졌다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260717PD226/hbm4-hbm-cooling-shipments-nvidia.html",
+    "lang": "en",
+    "labels": [
+      "HBM",
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "category": "bottleneck",
+    "title": "마이크론, 완성차 부품사들과 AI 차량용 메모리 장기 공급계약 잇달아 체결",
+    "summary": "마이크론이 퀄컴, 하만, 현대모비스, 비스테온, 조이넥스트, 덴소, 아스테모 등 완성차 부품사들과 AI 탑재 차량용 메모리·스토리지 장기 공급계약을 잇달아 체결했다고 7월16일 밝혔다. AI 인포테인먼트와 첨단운전자보조시스템(ADAS)에 필요한 메모리 수요가 급증하는 가운데, 완성차 업계가 공급 부족 국면에서 3~5년 단위로 물량과 가격을 미리 확보해두려는 움직임으로 풀이된다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260717000012",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "category": "tech",
+    "title": "中 AI업계, 美 반도체 규제 맞서 '슈퍼노드' 전략으로 전환",
+    "summary": "7월17일 상하이에서 개막한 세계인공지능대회(WAIC) 2026에서 중국 AI 업계는 미국의 첨단 반도체 수출 규제에 대응해 개별 칩 성능 경쟁 대신 자국산 프로세서 수천 개를 하나로 묶는 '슈퍼노드' 시스템 전략으로 방향을 틀었다. 화웨이는 자체 칩 8192개를 연결한 '아틀라스 950 슈퍼포드'를 공개해 엔비디아 대비 성능 우위를 주장했고, 알리바바와 바이두도 슈퍼노드 컴퓨팅 서비스를 선보였다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260718VL200/2026-shanghai-chips.html",
+    "lang": "en",
+    "labels": [
+      "인터커넥트"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "category": "service",
+    "title": "씨메스로보틱스, 서흥과 25억원 규모 AI 로봇 자동화 설비 공급계약",
+    "summary": "AI 기반 로봇 자동화 솔루션 기업 씨메스로보틱스가 건강기능식품 제조사 서흥과 24억7700만원 규모의 로봇 자동화 설비 공급계약을 체결했다고 7월14일 공시했다. 계약금액은 씨메스로보틱스 최근 매출액의 약 19%에 달하는 규모로, 계약기간은 7월13일부터 내년 2월1일까지다.",
+    "source": "CBC뉴스",
+    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=589004",
+    "lang": "ko",
+    "labels": []
   }
 ]
