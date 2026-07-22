@@ -742,5 +742,65 @@
     "url": "https://www.cbci.co.kr/news/articleView.html?idxno=590688",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-07-22",
+    "category": "bottleneck",
+    "title": "AI 경쟁 '칩' 넘어 '인프라 병목' 해소가 패권 가른다",
+    "summary": "K-ASIC 분석에 따르면 글로벌 반도체 경쟁의 축이 개별 칩 성능에서 전력·네트워크·데이터센터를 아우르는 AI 인프라 전체로 이동하고 있다. 전력망 연계 속도가 핵심 병목으로 지목됐고, 기존 구리 기반 전기연결이 대역폭·발열 한계에 다다르며 실리콘 포토닉스 기반 광통신이 차세대 해법으로 부상하고 있다. 엔비디아·AMD·브로드컴 등 팹리스와 구글·아마존·메타·MS 등 빅테크는 각각 시스템 플랫폼 통합과 수직계열화 전략으로 대응 중이다.",
+    "source": "전자신문",
+    "url": "https://www.etnews.com/20260720000224",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "광인터커넥트"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "category": "tech",
+    "title": "China's AI supernode race seeks systems edge through optics, packaging, and cloud scale",
+    "summary": "중국 AI 하드웨어 업계가 개별 가속기 경쟁에서 벗어나 광인터커넥트·첨단 패키징·클라우드 스케일 시스템을 결합한 '슈퍼노드' 경쟁으로 전환하고 있다. BOE 등 디스플레이 업체까지 차세대 패키징 기술에 뛰어들며 광부품부터 제조·검사까지 공급망 전반으로 기회가 확산되고 있다. 1.6T 서버 인터커넥트와 코패키지드옵틱스(CPO) 구현을 위한 고출력 CW 레이저 및 인듐인화물(InP) 대구경 웨이퍼 생산도 전략 경쟁 지점으로 떠올랐다.",
+    "source": "DIGITIMES",
+    "url": "https://www.digitimes.com/news/a20260720VL218/china-ai-chips-hardware-optics-packaging.html",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "category": "bottleneck",
+    "title": "Databricks CEO Says GPU Shortages Are Fueling AI Fundraising",
+    "summary": "데이터브릭스 CEO 알리 고드시가 CNBC 인터뷰에서 한국·일본·미국·인도 등 전 세계 모든 지역에서 GPU가 부족한 상황이라고 밝혔다. 데이터브릭스는 GPU 확보 자금 마련을 위해 코튜 매니지먼트 주도로 약 30억 달러 규모의 투자 유치를 진행 중이며, 기업가치는 5개월 만에 540억 달러 늘어난 1880억 달러로 평가됐다.",
+    "source": "Benzinga",
+    "url": "https://www.benzinga.com/markets/private-markets/26/07/60561744/databricks-ceo-says-gpu-shortages-are-fueling-ai-fundraising",
+    "lang": "en",
+    "labels": [
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "category": "tech",
+    "title": "저가 대체품 AMD는 옛말…엔비디아보다 비싼데도 MS가 택한 이유",
+    "summary": "마이크로소프트가 애저 AI 인프라에 엔비디아 '베라 루빈'보다 비싼 AMD의 랙스케일 시스템 '헬리오스'를 채택하며 GPU 공급망 다변화에 나섰다. 헬리오스는 메타·오라클에 이어 마이크로소프트까지 고객으로 확보하며 '저가 대체품' 이미지를 벗고 있으며, 퓨처럼그룹은 AMD의 데이터센터 GPU 점유율이 현재 4.5%에서 20~25%까지 오를 수 있다고 전망했다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260721000523",
+    "lang": "ko",
+    "labels": [
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "category": "service",
+    "title": "과기정통부, 내년 AI 신약 개발에 2500억 투입…개발기간 90% 단축",
+    "summary": "과학기술정보통신부가 바이오·헬스 분야 게임체인저로 꼽히는 AI 신약 개발 연구에 내년 2500억원대 예산을 투입한다. 2035년까지 AI로 설계한 혁신 신약 후보물질 3종을 임상에 진입시키고 신약 발굴 기간을 90% 단축하는 것이 목표이며, 'AI-자율실험 기반 차세대 신약 연구거점 구축'과 '암 면역 미세환경 파운데이션 모델 구축'이 핵심 과제로 선정됐다.",
+    "source": "전자신문",
+    "url": "https://www.etnews.com/20260722000221",
+    "lang": "ko",
+    "labels": []
   }
 ]
