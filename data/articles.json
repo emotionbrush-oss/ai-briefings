@@ -861,5 +861,60 @@
     "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05057766645516816",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-07-24",
+    "category": "bottleneck",
+    "title": "미국 최대 전력망, 데이터센터發 대규모 전력 이탈로 전압 교란 발생",
+    "summary": "지난 7월 22일 미국 최대 전력망 PJM에서 데이터센터 부하가 갑자기 대규모로 이탈하며 전압 교란 사고가 발생했다. 기가와트급 데이터센터 캠퍼스가 특정 지역에 밀집하면서 이런 급격한 단절이 계통 안정성을 위협하는 새로운 리스크로 떠오르고 있다는 지적이 나온다.",
+    "source": "US News",
+    "url": "https://www.usnews.com/news/us/articles/2026-07-22/massive-disconnect-of-power-roiled-largest-us-electric-grid",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "category": "tech",
+    "title": "AMD, 2나노 서버 CPU '베니스'와 랙스케일 AI 시스템 '헬리오스' 공개",
+    "summary": "AMD가 Advancing AI 2026 행사에서 TSMC 2나노 공정 기반 6세대 EPYC '베니스' CPU와 MI455X GPU 72장을 결합한 랙스케일 시스템 '헬리오스'를 공개했다. 헬리오스는 3분기 말부터 양산 출하되며, 메타·오픈AI가 최대 6GW, 앤스로픽이 최대 2GW 규모의 AMD 컴퓨팅 용량 도입을 약속해 GPU 단일 부품이 아닌 CPU·GPU·네트워킹 풀스택으로 AI 인프라 확장 병목 완화를 시도한다.",
+    "source": "AMD",
+    "url": "https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era",
+    "lang": "en",
+    "labels": [
+      "GPU물량",
+      "인터커넥트"
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "category": "service",
+    "title": "인텔, AI 서버 수요에 힘입어 15년 만에 최대 분기 매출 성장률 기록",
+    "summary": "인텔이 7월 23일 발표한 2분기 실적에서 매출 161억3000만달러(전년 대비 25.4%↑)를 기록하며 시장 예상치를 크게 웃돌았다. 에이전틱 AI 확산에 따른 서버용 CPU 수요 급증으로 데이터센터·AI 부문 매출이 62억6000만달러까지 늘었고, 인텔은 3분기 매출 전망과 연간 설비투자 계획도 상향 조정했다.",
+    "source": "아주경제",
+    "url": "https://www.ajunews.com/view/20260724065239942",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-07-24",
+    "category": "service",
+    "title": "AMD, 앤스로픽에 최대 50억달러 투자하고 수십억달러 규모 AI 서버 공급계약 체결",
+    "summary": "AMD와 앤스로픽이 7월 22일 대규모 AI 서버 구매 계약과 지분 투자를 결합한 전략적 제휴를 발표했다. 앤스로픽은 2027년 상반기부터 AMD Instinct MI450 시스템 최대 2GW를 도입하고, AMD는 배치 마일스톤 달성에 따라 최대 50억달러를 단계적으로 투자한다. 칩 제조사가 최대 고객사에 직접 투자하는 '순환 거래' 구조로, AMD의 엔비디아 대항 전략과 앤스로픽의 공급망 다변화가 맞물린 사례다.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-07-24",
+    "category": "service",
+    "title": "삼성전기, AI 서버용 MLCC 한 달 새 7450억원 규모 추가 수주",
+    "summary": "삼성전기가 7월 23일 글로벌 대형 기업과 2951억원 규모의 AI 서버용 MLCC 공급계약을 새로 체결했다고 공시했다. 지난달 약 4500억원 규모 계약에 이은 추가 수주로 한 달 새 누적 계약 규모가 7450억원에 달하며, AI 데이터센터용 고부가 부품 수요가 실제 매출로 이어지고 있음을 보여준다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260723000508",
+    "lang": "ko",
+    "labels": []
   }
 ]
