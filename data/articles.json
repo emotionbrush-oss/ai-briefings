@@ -1017,5 +1017,70 @@
     "url": "https://biz.heraldcorp.com/article/10819998",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-07-27",
+    "category": "bottleneck",
+    "title": "고동진 의원, '원전 PPA' 허용 전기사업법 개정안 발의…반도체·AI 기업 전력 직접공급 근거 마련",
+    "summary": "고동진 국민의힘 의원이 7월 27일 반도체·AI 데이터센터 등 첨단산업이 원전 전력을 장기계약으로 직접 공급받을 수 있도록 하는 전기사업법 개정안을 발의했다. 원전 PPA 공급가와 산업용 평균 전기요금의 차액을 정부 예산으로 지원해 비용이 다른 소비자에게 전가되지 않도록 하는 내용도 담겨, AI發 전력 수요 급증에 대응한 입법 움직임으로 풀이된다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260727001058",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "규제"
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "category": "tech",
+    "title": "日, 피지컬 AI 승부수…구마모토에 반도체 공동개발 거점",
+    "summary": "일본이 피지컬 AI용 반도체의 조립·저비용 패키징 기술을 공동 개발하는 공동 이용형 클린룸을 구마모토에 구축하기로 했다. TSMC가 구마모토에서 생산하는 AI 반도체를 활용해 시제품을 만드는 방안이 추진되며, 규슈 지역의 로봇·자동차 제조 기반과 연계해 피지컬 AI 반도체 생태계를 키운다는 구상이다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260727000085",
+    "lang": "ko",
+    "labels": [
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "category": "service",
+    "title": "네이버, 엔비디아 대상 1.48조원 유상증자…3대 주주로 'AI 팩토리' 자본동맹",
+    "summary": "네이버가 7월 27일 엔비디아를 대상으로 약 1조4809억원 규모의 제3자배정 유상증자를 결정하며, 엔비디아가 지분 4.5%를 확보해 국민연금·블랙록에 이은 3대 주주로 올라섰다. 네이버는 브룩필드와의 인프라 공급계약까지 더해 총 100억달러 규모의 글로벌 AI 팩토리를 구축한다는 계획이며, 발표 직후 주가는 9%대 강세를 보였다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260727000447",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-07-27",
+    "category": "service",
+    "title": "엔비디아만 보던 삼성·SK하이닉스…오픈AI·앤스로픽과 '직거래'한다",
+    "summary": "삼성전자와 SK하이닉스가 오픈AI에 이어 앤스로픽과도 직접 반도체 공급계약을 체결하며 양대 생성형 AI 기업 모두와 직거래 관계를 구축했다. 공급 품목도 HBM 중심에서 서버용 D램, 기업용 SSD 등으로 확대되며 엔비디아·클라우드 업체를 거치지 않고 장기 메모리 수요를 직접 확보하는 구조로 전환되고 있다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260727000417",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-07-27",
+    "category": "service",
+    "title": "Axe Compute, 15억달러 규모 5년 AI 인프라 전용 계약 체결…2026년 누적 30억달러 돌파",
+    "summary": "AI 인프라 기업 Axe Compute가 15억달러 규모의 5년 전용 AI 인프라 계약을 신규 체결하며 2026년 누적 계약 규모가 30억달러를 넘어섰다고 발표했다. 이번 계약이 가동되면 연간 매출 실행률이 6억9600만달러 이상으로 늘어날 것으로 예상돼, AI 컴퓨팅 수요가 실제 대형 매출 계약으로 이어지는 사례로 꼽힌다.",
+    "source": "GlobeNewswire",
+    "url": "https://www.manilatimes.net/2026/07/27/tmt-newswire/globenewswire/axe-compute-secures-15-billion-five-year-dedicated-ai-infrastructure-contract-surpassing-3-billion-in-2026-signed-contracted-value/2392163",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-07-27",
+    "category": "service",
+    "title": "Rezolve AI, 2026년 상반기 매출 전년 대비 20배 성장 전망",
+    "summary": "AI 상거래 기업 Rezolve AI가 2026년 상반기 잠정 매출이 약 1억2700만달러로 전년 동기(632만달러) 대비 약 20배 성장할 것으로 예상된다고 발표했다. 소매·이커머스 기업에 AI 에이전트 기반 쇼핑 솔루션을 공급하는 사업모델이 실제 매출 급증으로 이어진 사례로 풀이된다.",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/07/27/3333450/0/en/Rezolve-Ai-Delivers-Breakout-First-Half-Performance-Preliminary-H1-2026-Revenue-Expected-to-Reach-Approximately-127-Million-Nearly-20x-H1-2025.html",
+    "lang": "en",
+    "labels": []
   }
 ]
