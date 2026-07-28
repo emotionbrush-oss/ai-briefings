@@ -1082,5 +1082,28 @@
     "url": "https://www.globenewswire.com/news-release/2026/07/27/3333450/0/en/Rezolve-Ai-Delivers-Breakout-First-Half-Performance-Preliminary-H1-2026-Revenue-Expected-to-Reach-Approximately-127-Million-Nearly-20x-H1-2025.html",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-07-28",
+    "category": "tech",
+    "title": "中, 자체 개발 액침 DUV 노광장비 양산 시작…ASML 독점 구도에 도전",
+    "summary": "상하이의 한 중국 국영기업이 액침 DUV 노광장비 양산에 돌입해 올해 5대, 내년 20대를 SMIC·화훙반도체·CXMT 등에 공급할 계획이라고 밝혔다. 부품 대부분을 국산화했지만 일부 핵심 부품은 여전히 일본산에 의존하고 성능도 ASML 제품에는 못 미치는 것으로 알려졌다. 이 소식에 ASML 주가가 8.4% 급락하는 등 글로벌 반도체 장비주가 동반 하락했다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260728000031",
+    "lang": "ko",
+    "labels": [
+      "파운드리",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "category": "service",
+    "title": "엔비디아, '챗GPT 개발 주역' 수츠케버의 SSI에 50억달러 투자…연산능력 10배 확대",
+    "summary": "엔비디아가 오픈AI 공동창업자 일리야 수츠케버가 이끄는 세이프 슈퍼인텔리전스(SSI)와 장기 전략적 제휴를 맺고 약 50억달러를 투자하기로 했다. SSI는 엔비디아의 최신 AI 플랫폼 베라 루빈을 활용해 기존 대비 약 10배 많은 연산 자원을 확보할 계획이다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260728000029",
+    "lang": "ko",
+    "labels": []
   }
 ]
