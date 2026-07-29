@@ -1105,5 +1105,73 @@
     "url": "https://www.newspim.com/news/view/20260728000029",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-07-29",
+    "category": "bottleneck",
+    "title": "[단독]반도체·AI 전력공급 핵심인데…345kV 송전망 70% 아직 미착공",
+    "summary": "2030년까지 준공되어야 할 345kV 송전망 사업 중 70% 이상이 아직 착공조차 되지 못한 것으로 나타났다. 주민 반발과 인허가 지연으로 사업이 늦어지면서 용인·호남권 반도체 산업단지와 AI 데이터센터에 대한 적기 전력 공급 차질 우려가 커지고 있다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/economy/2026/07/27/2026072715124676471",
+    "lang": "ko",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "category": "bottleneck",
+    "title": "TSMC 패키징 병목에 파운드리 수주 지형 변동",
+    "summary": "TSMC의 CoWoS 첨단 패키징 라인이 월 7만5000~8만장 수준에 머물면서 웨이퍼 생산능력보다 후공정 패키징 부족이 AI 칩 출하 지연의 최대 병목으로 지목됐다. 엔비디아, 구글 등 빅테크가 공급망을 다변화하는 가운데 메모리·파운드리·패키징을 모두 갖춘 삼성전자의 턴키 수주 기회가 커지고 있다는 분석이 나왔다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607270953277623fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "category": "tech",
+    "title": "SK하이닉스, HBM4 양산 본격화…10여개 고객과 장기공급계약",
+    "summary": "SK하이닉스가 HBM4의 수율과 품질을 이미 양산 중인 HBM3E 수준까지 끌어올리며 하반기 본격 증산에 나선다고 밝혔다. 핵심 고객 11곳과 통상 5년 단위의 장기공급계약(LTA)을 마무리했으며, 차세대 HBM4E 샘플 공급과 발열 제어를 위한 iHBM 기술 개발도 병행하고 있다고 설명했다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260729000469",
+    "lang": "ko",
+    "labels": [
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "category": "tech",
+    "title": "The AI Boom Is Making Nuclear Power Bankable Again",
+    "summary": "AI 데이터센터의 폭발적 전력 수요에 힘입어 40년간 정체됐던 미국 원자력 발전 산업이 다시 민간 투자를 받고 있다는 분석이다. 마이크로소프트·구글·메타·아마존 등 빅테크가 잇따라 원전·SMR(소형모듈원전) 계약을 체결하며 원자력을 다시 수익성 있는 전력 인프라 사업으로 되살리고 있다는 내용을 담고 있다.",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/kensilverstein/2026/07/26/the-ai-boom-is-making-nuclear-power-bankable-again/",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "category": "service",
+    "title": "엔비디아, 네이버에 1.48조 베팅…지분 4.5% 취득(종합)",
+    "summary": "엔비디아가 제3자 배정 유상증자를 통해 네이버에 10억달러(약 1조4800억원)를 투자하고 지분 4.5%를 확보했다. 네이버는 이번 투자를 포함해 총 100억달러 규모의 AI 인프라 조달 기반을 마련했으며, 2027년 상반기부터 데이터센터를 단계적으로 확장해 기가와트급 AI 팩토리 구축을 추진할 계획이다.",
+    "source": "파이낸셜뉴스",
+    "url": "https://www.fnnews.com/news/202607270821089979",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-07-29",
+    "category": "service",
+    "title": "삼성 파운드리, 2나노 수주 확대…관건은 수율",
+    "summary": "삼성전자 파운드리가 브로드컴, 테슬라 자율주행칩 AI5 등 2나노 공정 고객을 잇따라 확보하며 실적 반등 신호를 보이고 있다. 앤스로픽과도 자체 AI 칩 위탁생산을 위한 협력을 논의 중인 것으로 알려졌으며, 회사는 2028년 파운드리 사업 흑자 전환을 목표로 하고 있다.",
+    "source": "머니투데이방송(MTN)",
+    "url": "https://news.mtn.co.kr/news-detail/2026072816331985252",
+    "lang": "ko",
+    "labels": []
   }
 ]
