@@ -15,6 +15,7 @@
     --amber:#E8A33D;
     --cyan:#4FD1C5;
     --rose:#E88A9A;
+    --violet:#A78BFA;
     --mono:'IBM Plex Mono', ui-monospace, monospace;
   }
   *{box-sizing:border-box;}
@@ -80,6 +81,7 @@
   .tab-btn[data-tab="bottleneck"].active{border-color:var(--amber);}
   .tab-btn[data-tab="tech"].active{border-color:var(--cyan);}
   .tab-btn[data-tab="service"].active{border-color:var(--rose);}
+  .tab-btn[data-tab="other"].active{border-color:var(--violet);}
 
   .panel{display:none;padding-top:8px;}
   .panel.tab-active{display:block;}
@@ -192,6 +194,7 @@
       <button class="tab-btn active" data-tab="bottleneck">병목 <span class="tab-count">0</span></button>
       <button class="tab-btn" data-tab="tech">돌파기술 <span class="tab-count">0</span></button>
       <button class="tab-btn" data-tab="service">서비스·수익화 <span class="tab-count">0</span></button>
+      <button class="tab-btn" data-tab="other">병목(그외) <span class="tab-count">0</span></button>
     </div>
 
     <div class="panel tab-active" id="panel-bottleneck" data-page-size="10" data-category-name="병목">
@@ -209,6 +212,13 @@
     </div>
 
     <div class="panel" id="panel-service" data-page-size="10" data-category-name="서비스·수익화">
+      <div class="item-list"></div>
+      <div class="load-more-wrap">
+        <button class="load-more-btn js-gone">더보기</button>
+      </div>
+    </div>
+
+    <div class="panel" id="panel-other" data-page-size="10" data-category-name="병목(그외)">
       <div class="item-list"></div>
       <div class="load-more-wrap">
         <button class="load-more-btn js-gone">더보기</button>
@@ -286,7 +296,8 @@
   const CATEGORY_TO_PANEL = {
     bottleneck: 'panel-bottleneck',
     tech: 'panel-tech',
-    service: 'panel-service'
+    service: 'panel-service',
+    other: 'panel-other'
   };
 
   async function init() {
@@ -454,6 +465,7 @@
         });
       });
       document.getElementById('panel-service').classList.remove('tab-active');
+      document.getElementById('panel-other').classList.remove('tab-active');
     }
 
     render();
