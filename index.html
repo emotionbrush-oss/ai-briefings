@@ -78,7 +78,6 @@
 
   .tabs{
     display:flex;gap:2px;
-    border-bottom:1px solid var(--line);
     margin-top:14px;padding:0;
   }
   .tab-btn{
@@ -93,10 +92,7 @@
     display:block;margin:6px 0 0;
   }
   .tab-btn.active{color:var(--text);}
-  .tab-btn[data-tab="bottleneck"].active{border-color:var(--amber);}
-  .tab-btn[data-tab="tech"].active{border-color:var(--cyan);}
-  .tab-btn[data-tab="service"].active{border-color:var(--rose);}
-  .tab-btn[data-tab="other"].active{border-color:var(--violet);}
+  .tab-btn.active{border-color:var(--amber);}
 
   .panel{display:none;padding-top:8px;}
   .panel.tab-active{display:block;}
