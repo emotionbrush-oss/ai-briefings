@@ -44,7 +44,18 @@
   h1{font-size:clamp(24px,5vw,36px);line-height:1.2;margin:0 0 6px;font-weight:700;}
   .subtitle{color:var(--muted);font-size:14px;margin:0;line-height:1.6;}
 
-  .label-cloud{display:flex;flex-wrap:wrap;gap:8px;padding:10px 0 2px;}
+  .label-cloud{display:none;flex-wrap:wrap;gap:8px;padding:10px 0 2px;}
+  .label-cloud.expanded{display:flex;}
+
+  .label-toggle{
+    display:flex;align-items:center;gap:6px;
+    margin-top:10px;padding:6px 0;
+    background:none;border:none;cursor:pointer;
+    font-family:var(--mono);font-size:12px;color:var(--muted);
+  }
+  .label-toggle:hover{color:var(--text);}
+  .label-toggle .chevron{transition:transform 0.15s ease;display:inline-block;}
+  .label-toggle.expanded .chevron{transform:rotate(180deg);}
   .label-chip{
     font-family:var(--mono);font-size:12px;padding:5px 11px;border-radius:20px;
     border:1px solid var(--line);color:var(--muted);
@@ -76,7 +87,11 @@
     cursor:pointer;border-bottom:2px solid transparent;
     transition:color 0.15s ease, border-color 0.15s ease;
   }
-  .tab-btn .tab-count{font-family:var(--mono);font-weight:400;font-size:10.5px;color:var(--muted);margin-left:4px;opacity:0.7;}
+  .tab-btn .tab-count{
+    font-family:var(--mono);font-weight:600;font-size:15px;
+    color:var(--cyan);opacity:0.9;
+    display:block;margin:6px 0 0;
+  }
   .tab-btn.active{color:var(--text);}
   .tab-btn[data-tab="bottleneck"].active{border-color:var(--amber);}
   .tab-btn[data-tab="tech"].active{border-color:var(--cyan);}
@@ -172,7 +187,6 @@
 
   @media (max-width:520px){
     .tab-btn{font-size:15px;padding:12px 4px;}
-    .tab-btn .tab-count{display:block;margin-left:0;}
   }
 </style>
 </head>
@@ -182,6 +196,9 @@
       <div class="eyebrow"><span class="dot"></span><span id="lastUpdated">최종 업데이트 : 불러오는 중...</span></div>
       <h1>오늘의 브리핑</h1>
 
+      <button class="label-toggle" id="labelToggle">
+        레이블 필터 <span id="labelToggleCount"></span> <span class="chevron">▾</span>
+      </button>
       <div class="label-cloud" id="labelCloud"></div>
     </header>
 
@@ -193,7 +210,7 @@
     <div class="tabs" id="tabBar">
       <button class="tab-btn active" data-tab="bottleneck">병목 <span class="tab-count">0</span></button>
       <button class="tab-btn" data-tab="tech">돌파기술 <span class="tab-count">0</span></button>
-      <button class="tab-btn" data-tab="service">서비스·수익화 <span class="tab-count">0</span></button>
+      <button class="tab-btn" data-tab="service">수익화 <span class="tab-count">0</span></button>
       <button class="tab-btn" data-tab="other">병목(그외) <span class="tab-count">0</span></button>
     </div>
 
@@ -211,7 +228,7 @@
       </div>
     </div>
 
-    <div class="panel" id="panel-service" data-page-size="10" data-category-name="서비스·수익화">
+    <div class="panel" id="panel-service" data-page-size="10" data-category-name="수익화">
       <div class="item-list"></div>
       <div class="load-more-wrap">
         <button class="load-more-btn js-gone">더보기</button>
@@ -351,6 +368,13 @@
       chip.dataset.label = label;
       chip.innerHTML = `#${escapeHtml(label)}<span class="count">×${count}</span>`;
       labelCloud.appendChild(chip);
+    });
+
+    const labelToggle = document.getElementById('labelToggle');
+    document.getElementById('labelToggleCount').textContent = `(${sortedLabels.length}개)`;
+    labelToggle.addEventListener('click', () => {
+      labelCloud.classList.toggle('expanded');
+      labelToggle.classList.toggle('expanded');
     });
 
     setupInteractions();
