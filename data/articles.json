@@ -1401,5 +1401,183 @@
     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260731010011728",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-03",
+    "category": "bottleneck",
+    "title": "AI server demand revives long-term MLCC supply agreements as shortages intensify",
+    "summary": "AI 서버 수요 급증으로 고성능 MLCC(적층세라믹콘덴서) 공급이 다시 빠듯해지면서, 글로벌 고객사들이 3~5년 단위의 장기공급계약(LTSA)을 통해 향후 물량을 선점하려는 움직임이 확산되고 있다. AI 서버 한 대에는 최대 2만8000개의 MLCC가 들어가는 것으로 알려져 있으며, 일본 업체들이 초소형 고용량 MLCC 공급망에서 핵심적인 역할을 하고 있다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260731PD228/demand-mlcc-passive-capacity-2026.html",
+    "lang": "en",
+    "labels": [
+      "MLCC"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "category": "bottleneck",
+    "title": "Samsung chip engineers eye SK hynix as AI-driven bonus gap fuels talent war",
+    "summary": "HBM 호황으로 SK하이닉스의 성과급이 삼성전자 대비 크게 앞서면서, 최근 4개월간 200명 이상의 삼성전자 반도체 엔지니어가 SK하이닉스로 이직한 것으로 나타났다. 두 회사 간 성과급 격차가 3억원 이상으로 벌어지면서 AI 메모리 인재를 둘러싼 인력 쟁탈전이 심화되고 있다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260731PD214/samsung-sk-hynix-hbm-talent-salary.html",
+    "lang": "en",
+    "labels": [
+      "인재부족",
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "category": "bottleneck",
+    "title": "AI infrastructure orders extend PCB expansion race",
+    "summary": "AI 인프라 수요 확대로 고사양 PCB 주문이 늘면서 관련 업체들이 대대적인 증설 경쟁에 나서고 있지만, 상류 소재인 동박적층판(CCL)과 T-글라스 유리섬유 원단의 공급이 여전히 빠듯해 새로운 병목으로 지목되고 있다. 이미 고급 ABF 기판 시장을 흔들었던 유리섬유 공급 부족이 PCB 공급망 전반으로 번지는 양상이다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260803PD217/pcb-demand-capacity-expansion.html",
+    "lang": "en",
+    "labels": [
+      "소재",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "category": "bottleneck",
+    "title": "Samsung Electro-Mechanics deepens AI supply-chain bet with new contracts, eyes glass substrate production in 2027",
+    "summary": "삼성전기가 AI 반도체용 부품의 장기공급계약 확대와 설비투자 증액을 통해 AI 공급망 베팅을 강화하고 있으며, 스미토모화학과 설립한 유리기판 합작사 '글라셈'을 통해 2027년 유리기판 양산을 목표로 하고 있다고 밝혔다. 유리기판은 기존 유기 기판보다 평탄도·내열성·신호 전달 특성이 우수해 차세대 AI 칩 패키징의 핵심 소재로 주목받고 있다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260803VL200/semco-glass-substrate-2027-production-earnings.html",
+    "lang": "en",
+    "labels": [
+      "유리기판",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "category": "tech",
+    "title": "TSMC Reportedly Develops EMIB-like Packaging with Kinsus to Prevent Potential Customer Shift to Intel",
+    "summary": "TSMC가 대만 기판업체 킨서스(Kinsus)와 손잡고 인텔의 EMIB(임베디드 멀티다이 인터커넥트 브리지)와 유사한 신규 첨단 패키징 기술을 개발 중인 것으로 전해졌다. 인텔의 EMIB-T가 수율 98%로 TSMC의 CoWoS와 맞먹는 수준에 도달하자, CoWoS 캐파 부족에 지친 고객들의 이탈을 막기 위한 대응 카드로 풀이된다.",
+    "source": "TrendForce",
+    "url": "https://www.trendforce.com/news/2026/07/31/news-tsmc-reportedly-develops-emib-like-packaging-with-kinsus-to-prevent-potential-customer-shift-to-intel/",
+    "lang": "en",
+    "labels": [
+      "패키징",
+      "파운드리"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "category": "tech",
+    "title": "삼성전자 AI 병목 해법..GPU 위 HBM 쌓는 '3D 메모리' 기술 제시",
+    "summary": "삼성전자가 8월 4일 개막하는 메모리·스토리지 컨퍼런스 'FMS 2026'에서 GPU 등 로직 칩 바로 위에 HBM을 수직으로 적층하는 차세대 메모리 'zHBM' 기술을 공개할 예정이다. 인터포저 우회 경로 없이 신호 이동 거리를 최소화해 지연시간을 줄이고 대역폭은 최대 4배 늘리며 전력효율도 크게 개선해, AI 반도체의 고질적 메모리 병목을 해소한다는 구상이다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/industry/2026/08/03/2026080311540663495",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "메모리",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "category": "service",
+    "title": "\"챗GPT·클로드 모두 한 곳에서\"…마인드로직 올들어 매출 55억 달성",
+    "summary": "AI 스타트업 마인드로직이 멀티 AI 에이전트 플랫폼 '팩트챗'을 통해 올해 7월까지 누적 매출 55억원을 기록하며 전년 동기 대비 약 12배 성장했다. 대학, 초중고, 지자체 등 437개 기관에 솔루션을 공급하며 공공·교육 부문 생성형 AI 시장에서 실질적 매출을 창출한 사례다.",
+    "source": "유니콘팩토리(머니투데이)",
+    "url": "https://www.unicornfactory.co.kr/article/2026080310255524572",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-03",
+    "category": "service",
+    "title": "AI 크리에이터 개발사 언엑스, 카카오벤처스 주도로 시드 투자 유치",
+    "summary": "AI 엔터테크 스타트업 언엑스가 카카오벤처스 주도로 슈미트, 마크앤컴퍼니가 참여한 시드 투자를 유치했다. 실시간 개입 없이 스스로 방송하는 'AI 크리에이터'와 팬덤엔진 기술을 통해 캐릭터 IP 수익화 사업을 확장할 계획으로, AI 콘텐츠 산업에 대한 벤처투자 시장의 관심을 보여주는 사례다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/future/2026/07/30/2026073008425567671",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-03",
+    "category": "service",
+    "title": "아크릴-퓨리오사AI, 소버린 AI 시장 공략 협력",
+    "summary": "AX 인프라 기업 아크릴과 AI 반도체 기업 퓨리오사AI가 국산 LLM과 NPU를 결합한 '한국형 AI 풀스택' 상용 플랫폼을 공동 개발하기로 협약했다. 병원·공공기관 등 폐쇄망 온프레미스 시장을 우선 공략해 소버린 AI 수요에 대응하며 사업화를 추진한다는 점에서 국산 AI 기술의 실질적 상업화 사례로 평가된다.",
+    "source": "ZDNet Korea",
+    "url": "https://zdnet.co.kr/view/?no=20260803181357",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-03",
+    "category": "service",
+    "title": "\"AI·데이터센터 철강재 수주 봇물\"…현대제철, 2분기 영업이익 577억 원 달성",
+    "summary": "현대제철이 2분기 매출 6조1073억원, 영업이익 577억원을 기록하며 전분기 대비 실적이 개선됐다. 올해 초 신설한 전력 인프라 전담 조직을 통해 데이터센터 프로젝트 7건의 철강재 공급을 수주했으며, 하반기 AI·에너지 산업을 신성장동력으로 삼아 관련 매출을 확대할 계획이다.",
+    "source": "더페어",
+    "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84012",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-03",
+    "category": "service",
+    "title": "AI 타고 우뚝 선 전력기기 3사…역대급 수주잔고에 하반기도 파란불",
+    "summary": "효성중공업, HD현대일렉트릭, LS일렉트릭 등 국내 전력기기 3사의 합산 수주잔고가 37조4000억원대로 집계돼 지난해 말 대비 8조원 가까이 늘었다. AI 데이터센터 확산과 미국 전력망 교체 수요가 맞물려 초고압 변압기·차단기 등 전력기기 주문이 급증한 결과로, 업계는 연내 40조원 돌파를 전망하고 있다.",
+    "source": "이데일리",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04286966645543712",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-03",
+    "category": "other",
+    "title": "폭우 뒤 폭염 덮쳤다…채솟값 치솟고 가공식품까지 '물가쇼크'",
+    "summary": "장마 이후 이어진 기록적 폭염으로 상추 등 잎채소 가격이 급등하고 배추(전월비 46%)·열무(34%) 등 채소 공급이 크게 줄었다. 중동 정세 불안에 따른 원자재·포장재·물류비 상승까지 겹치며 가공식품 업체들도 잇달아 출고가를 올려 밥상물가 전반에 충격이 확산되고 있다.",
+    "source": "파이낸셜뉴스",
+    "url": "https://www.fnnews.com/news/202607290601555992",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-03",
+    "category": "other",
+    "title": "가뭄에 쌀값 오르고 산불에 가축 죽고…폭염 청구서, 전세계 식탁 덮친다",
+    "summary": "전 세계적인 기록적 폭염과 가뭄으로 태국 등 주요 쌀 생산국의 수출 가격이 연초 대비 27% 이상 오르는 등 곡물·축산 공급이 타격을 받고 있다. 폭염이 노동생산성과 물류·건설 활동까지 위축시키면서 세계 식량 공급망 전반에 부담을 주고 있다는 분석이다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/world/2026/07/29/2026072823084130965",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-03",
+    "category": "other",
+    "title": "전쟁에 폭염…다시 뛰는 곡물가격",
+    "summary": "러시아·우크라이나 전쟁에 따른 곡물 수출 차질과 유럽·미국의 폭염·가뭄, 호르무즈 해협 봉쇄에 따른 비료 공급 차질이 겹치며 밀·옥수수·대두 등 국제 곡물 가격이 연초 대비 최대 40%까지 급등해 3년 만에 최고 수준을 기록했다. 국내 식품업계도 원가 부담으로 잇달아 제품 가격을 올리고 있다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/2026080200541",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-03",
+    "category": "other",
+    "title": "내일부터 라면·콜라·빵 가격 오른다…8월부터 먹거리 '줄인상'",
+    "summary": "원재료·물류비 상승 압박을 견디지 못한 농심, CJ제일제당, 뚜레쥬르, 코카콜라음료 등이 8월 1일부터 라면, 즉석밥, 빵, 음료 등 주요 제품 가격을 평균 5~8%대 인상한다. 국제 곡물가 급등과 중동발 원자재난이 가공식품 원가에 직접적인 부담을 주고 있음을 보여주는 사례다.",
+    "source": "이투데이",
+    "url": "https://www.etoday.co.kr/news/view/2609455",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-03",
+    "category": "other",
+    "title": "전국 연일 극한폭염…인명·가축 피해에 가뭄까지 확산",
+    "summary": "낮 최고기온이 40도를 넘나드는 극한 폭염이 이어지면서 온열질환 피해와 함께 가축 폐사가 속출하고, 강수 부족으로 저수지·댐 수위가 낮아져 농업·생활용수 공급에도 비상이 걸렸다. 폭염 장기화로 농축산물 공급 감소와 물가 상승 압력이 더욱 커질 것으로 우려된다.",
+    "source": "파이낸셜뉴스",
+    "url": "https://www.fnnews.com/news/202608031624170670",
+    "lang": "ko",
+    "labels": []
   }
 ]
