@@ -1405,7 +1405,7 @@
   {
     "date": "2026-08-03",
     "category": "bottleneck",
-    "title": "AI server demand revives long-term MLCC supply agreements as shortages intensify",
+    "title": "AI 서버 수요로 MLCC 공급 부족 심화…장기 공급계약 부활",
     "summary": "AI 서버 수요 급증으로 고성능 MLCC(적층세라믹콘덴서) 공급이 다시 빠듯해지면서, 글로벌 고객사들이 3~5년 단위의 장기공급계약(LTSA)을 통해 향후 물량을 선점하려는 움직임이 확산되고 있다. AI 서버 한 대에는 최대 2만8000개의 MLCC가 들어가는 것으로 알려져 있으며, 일본 업체들이 초소형 고용량 MLCC 공급망에서 핵심적인 역할을 하고 있다.",
     "source": "DigiTimes",
     "url": "https://www.digitimes.com/news/a20260731PD228/demand-mlcc-passive-capacity-2026.html",
@@ -1417,7 +1417,7 @@
   {
     "date": "2026-08-03",
     "category": "bottleneck",
-    "title": "Samsung chip engineers eye SK hynix as AI-driven bonus gap fuels talent war",
+    "title": "삼성 반도체 엔지니어들, AI發 성과급 격차에 SK하이닉스로 눈길…인재 쟁탈전 심화",
     "summary": "HBM 호황으로 SK하이닉스의 성과급이 삼성전자 대비 크게 앞서면서, 최근 4개월간 200명 이상의 삼성전자 반도체 엔지니어가 SK하이닉스로 이직한 것으로 나타났다. 두 회사 간 성과급 격차가 3억원 이상으로 벌어지면서 AI 메모리 인재를 둘러싼 인력 쟁탈전이 심화되고 있다.",
     "source": "DigiTimes",
     "url": "https://www.digitimes.com/news/a20260731PD214/samsung-sk-hynix-hbm-talent-salary.html",
@@ -1430,7 +1430,7 @@
   {
     "date": "2026-08-03",
     "category": "bottleneck",
-    "title": "AI infrastructure orders extend PCB expansion race",
+    "title": "AI 인프라 수요, PCB 증설 경쟁 부추겨",
     "summary": "AI 인프라 수요 확대로 고사양 PCB 주문이 늘면서 관련 업체들이 대대적인 증설 경쟁에 나서고 있지만, 상류 소재인 동박적층판(CCL)과 T-글라스 유리섬유 원단의 공급이 여전히 빠듯해 새로운 병목으로 지목되고 있다. 이미 고급 ABF 기판 시장을 흔들었던 유리섬유 공급 부족이 PCB 공급망 전반으로 번지는 양상이다.",
     "source": "DigiTimes",
     "url": "https://www.digitimes.com/news/a20260803PD217/pcb-demand-capacity-expansion.html",
@@ -1443,7 +1443,7 @@
   {
     "date": "2026-08-03",
     "category": "bottleneck",
-    "title": "Samsung Electro-Mechanics deepens AI supply-chain bet with new contracts, eyes glass substrate production in 2027",
+    "title": "삼성전기, 신규 계약으로 AI 공급망 투자 확대…2027년 유리기판 생산도 검토",
     "summary": "삼성전기가 AI 반도체용 부품의 장기공급계약 확대와 설비투자 증액을 통해 AI 공급망 베팅을 강화하고 있으며, 스미토모화학과 설립한 유리기판 합작사 '글라셈'을 통해 2027년 유리기판 양산을 목표로 하고 있다고 밝혔다. 유리기판은 기존 유기 기판보다 평탄도·내열성·신호 전달 특성이 우수해 차세대 AI 칩 패키징의 핵심 소재로 주목받고 있다.",
     "source": "DigiTimes",
     "url": "https://www.digitimes.com/news/a20260803VL200/semco-glass-substrate-2027-production-earnings.html",
@@ -1456,7 +1456,7 @@
   {
     "date": "2026-08-03",
     "category": "tech",
-    "title": "TSMC Reportedly Develops EMIB-like Packaging with Kinsus to Prevent Potential Customer Shift to Intel",
+    "title": "TSMC, 인텔로의 고객 이탈 가능성 막기 위해 킨수스(Kinsus)와 EMIB 유사 패키징 기술 개발한다는 보도",
     "summary": "TSMC가 대만 기판업체 킨서스(Kinsus)와 손잡고 인텔의 EMIB(임베디드 멀티다이 인터커넥트 브리지)와 유사한 신규 첨단 패키징 기술을 개발 중인 것으로 전해졌다. 인텔의 EMIB-T가 수율 98%로 TSMC의 CoWoS와 맞먹는 수준에 도달하자, CoWoS 캐파 부족에 지친 고객들의 이탈을 막기 위한 대응 카드로 풀이된다.",
     "source": "TrendForce",
     "url": "https://www.trendforce.com/news/2026/07/31/news-tsmc-reportedly-develops-emib-like-packaging-with-kinsus-to-prevent-potential-customer-shift-to-intel/",
@@ -1533,16 +1533,6 @@
   {
     "date": "2026-08-03",
     "category": "other",
-    "title": "폭우 뒤 폭염 덮쳤다…채솟값 치솟고 가공식품까지 '물가쇼크'",
-    "summary": "장마 이후 이어진 기록적 폭염으로 상추 등 잎채소 가격이 급등하고 배추(전월비 46%)·열무(34%) 등 채소 공급이 크게 줄었다. 중동 정세 불안에 따른 원자재·포장재·물류비 상승까지 겹치며 가공식품 업체들도 잇달아 출고가를 올려 밥상물가 전반에 충격이 확산되고 있다.",
-    "source": "파이낸셜뉴스",
-    "url": "https://www.fnnews.com/news/202607290601555992",
-    "lang": "ko",
-    "labels": []
-  },
-  {
-    "date": "2026-08-03",
-    "category": "other",
     "title": "가뭄에 쌀값 오르고 산불에 가축 죽고…폭염 청구서, 전세계 식탁 덮친다",
     "summary": "전 세계적인 기록적 폭염과 가뭄으로 태국 등 주요 쌀 생산국의 수출 가격이 연초 대비 27% 이상 오르는 등 곡물·축산 공급이 타격을 받고 있다. 폭염이 노동생산성과 물류·건설 활동까지 위축시키면서 세계 식량 공급망 전반에 부담을 주고 있다는 분석이다.",
     "source": "머니투데이",
@@ -1557,26 +1547,6 @@
     "summary": "러시아·우크라이나 전쟁에 따른 곡물 수출 차질과 유럽·미국의 폭염·가뭄, 호르무즈 해협 봉쇄에 따른 비료 공급 차질이 겹치며 밀·옥수수·대두 등 국제 곡물 가격이 연초 대비 최대 40%까지 급등해 3년 만에 최고 수준을 기록했다. 국내 식품업계도 원가 부담으로 잇달아 제품 가격을 올리고 있다.",
     "source": "한국경제",
     "url": "https://www.hankyung.com/article/2026080200541",
-    "lang": "ko",
-    "labels": []
-  },
-  {
-    "date": "2026-08-03",
-    "category": "other",
-    "title": "내일부터 라면·콜라·빵 가격 오른다…8월부터 먹거리 '줄인상'",
-    "summary": "원재료·물류비 상승 압박을 견디지 못한 농심, CJ제일제당, 뚜레쥬르, 코카콜라음료 등이 8월 1일부터 라면, 즉석밥, 빵, 음료 등 주요 제품 가격을 평균 5~8%대 인상한다. 국제 곡물가 급등과 중동발 원자재난이 가공식품 원가에 직접적인 부담을 주고 있음을 보여주는 사례다.",
-    "source": "이투데이",
-    "url": "https://www.etoday.co.kr/news/view/2609455",
-    "lang": "ko",
-    "labels": []
-  },
-  {
-    "date": "2026-08-03",
-    "category": "other",
-    "title": "전국 연일 극한폭염…인명·가축 피해에 가뭄까지 확산",
-    "summary": "낮 최고기온이 40도를 넘나드는 극한 폭염이 이어지면서 온열질환 피해와 함께 가축 폐사가 속출하고, 강수 부족으로 저수지·댐 수위가 낮아져 농업·생활용수 공급에도 비상이 걸렸다. 폭염 장기화로 농축산물 공급 감소와 물가 상승 압력이 더욱 커질 것으로 우려된다.",
-    "source": "파이낸셜뉴스",
-    "url": "https://www.fnnews.com/news/202608031624170670",
     "lang": "ko",
     "labels": []
   },
