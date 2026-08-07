@@ -1801,5 +1801,75 @@
     "url": "https://www.etnews.com/20260806000235",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-07",
+    "category": "bottleneck",
+    "title": "AI發 급변동 전력수요, 데이터센터 핵심설비 수명 단축시킨다",
+    "summary": "AI 워크로드가 만드는 급격한 전력수요 변동 때문에 배터리·발전기·냉각시스템 등 데이터센터 핵심 설비가 예상보다 빨리 마모되거나 고장 나는 사례가 늘고 있다고 블룸버그가 보도했다. 단 몇 분의 가동 중단도 매출 손실로 직결되는 만큼, 이런 설비 신뢰성 문제가 AI 데이터센터 운영의 숨은 비용 부담으로 떠오르고 있다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/data-centers-are-being-damaged-by-ai-s-volatile-power-demand",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "category": "bottleneck",
+    "title": "美 데이터센터 업체들, 전력망 부담 리스크 줄이려 은행 지급보증 확보 나서",
+    "summary": "AI發 전력 수요로 이미 한계에 다다른 미국 전력회사들은 데이터센터 개발업체가 프로젝트를 중도 포기해 그 비용 부담이 일반 가정에 전가될 위험을 우려하고 있다. 이를 해소하기 위해 데이터센터 운영사들이 은행으로부터 AI 인프라 건설비용 전액을 보증받아 전력회사를 안심시키는 방식으로 대규모 자금을 조달하고 있다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/ai-power-demands-spur-builders-to-seek-billions-in-bank-pledges",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "category": "bottleneck",
+    "title": "AI發 패키징 캐파 부족에 STATS칩팩도 가격 인상 채비",
+    "summary": "대만 OSAT(외주 반도체 조립·테스트) 업체 STATS칩팩이 AI 칩發 패키징 수요 폭증을 반영해 하반기 광범위한 가격 인상을 준비 중인 것으로 전해졌다. 앞서 경쟁사 ASE도 CoWoS·FoCoS 등 첨단 패키징 견적을 20% 이상 올린 바 있어, 패키징 가격 인상이 업계 전반으로 확산되는 모습이다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260807PD226/packaging-osat-demand-stats-chippac-price.html",
+    "lang": "en",
+    "labels": [
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "category": "bottleneck",
+    "title": "AI 서버發 MLCC 품귀에 中 상류 공급망도 증산 총력",
+    "summary": "AI 서버·전기차 수요 급증으로 적층세라믹콘덴서(MLCC) 품귀가 심화되자 중국 상류 공급망 업체들이 앞다퉈 증산에 나서고 있다. MLCC 유전체 분말 주요 공급사인 산둥시노세라는 올 상반기 매출이 전년 대비 17% 늘었다고 밝혔으며, 골드만삭스는 이번 MLCC 호황 사이클이 역대 가장 크고 긴 국면이 될 것으로 전망했다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260807VL206/china-mlcc-ceramic-capacitor-demand-supply-chain.html",
+    "lang": "en",
+    "labels": [
+      "MLCC"
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "category": "tech",
+    "title": "대만 패널업체들, LCD 구형 팹을 AI 첨단 패키징 거점으로 전환",
+    "summary": "대만 이노룩스 등 패널업체들이 5.5세대 이하 구형 LCD 생산라인을 파운드리·OSAT에 매각하거나 자체적으로 팬아웃 패널레벨패키징(FOPLP)·유리관통전극(TGV) 등 첨단 패키징 기술 개발에 투입하며 사업 전환을 가속화하고 있다. 이노룩스는 남대만과학단지 4공장을 TSMC에 5억3760만달러에 매각해 CoWoS 캐파 확장을 지원했고, 파워텍도 AUO의 L3C 팹을 인수해 AI·HPC용 FOPLP 개발에 나섰다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260807PD224/packaging-panel-demand-capacity-innolux.html",
+    "lang": "en",
+    "labels": [
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "category": "service",
+    "title": "네이버, 2분기 실적 컨콜서 AI 팩토리 매출 로드맵 공개…2027년 상반기부터 매출 발생",
+    "summary": "네이버가 8월 7일 2분기 실적 컨퍼런스콜에서 엔비디아와 함께 구축 중인 'AI 팩토리'가 2027년 상반기 세종 데이터센터 기반 55MW 규모로 서비스를 시작해 매출을 내기 시작한다고 밝혔다. 2027년 말 100MW, 2028년 200MW로 단계적으로 확장해 궁극적으로 기가와트(GW)급 AI 인프라를 구축한다는 목표다.",
+    "source": "아시아투데이",
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260807010002347",
+    "lang": "ko",
+    "labels": []
   }
 ]
