@@ -1871,5 +1871,51 @@
     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260807010002347",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-08",
+    "category": "bottleneck",
+    "title": "AI 데이터센터 건설 자재까지 병목…페인트·베어링도 품귀",
+    "summary": "블룸버그가 8월 7일 보도한 바에 따르면 AI 데이터센터 건설 수요가 급증하면서 전기설비·냉각장비 같은 첨단 부품뿐 아니라 페인트, 볼베어링 같은 기초 산업자재까지 공급이 빠듯해지고 있다. 공급망 전문가들은 이제 공급망 관리 능력 자체가 AI 인프라 구축 속도를 좌우하는 핵심 경쟁력이 됐다고 진단했다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-07/ai-data-center-buildout-stretches-deeper-into-manufacturing-supply-chain",
+    "lang": "en",
+    "labels": [
+      "부품",
+      "공급망"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "category": "tech",
+    "title": "삼성전자, FMS 2026서 400단 V10 낸드 공개…적층한계 다시 돌파",
+    "summary": "삼성전자가 미국 플래시메모리서밋(FMS) 2026에서 웨이퍼 본딩과 3단 적층 기술을 적용해 400단 이상을 구현한 10세대 V낸드 'V10 BV-NAND'를 공개했다. 이전 세대 대비 집적도를 약 58% 높여, AI發 스토리지 수요 급증에 대응할 차세대 낸드 기술로 주목받는다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260806000569",
+    "lang": "ko",
+    "labels": [
+      "낸드",
+      "저장장치"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "category": "service",
+    "title": "씨이랩, 307억원 규모 엔비디아 '베라루빈' AI 소프트웨어 공급계약 체결",
+    "summary": "씨이랩이 AI 인프라 솔루션 기업 비엔아이엔씨와 307억원 규모의 '2026년 NIPA 엔비디아 베라루빈 소프트웨어 공급' 계약을 체결했다고 공시했다. 계약금액은 지난해 매출액의 약 299%에 달하는 규모로, 계약기간은 8월 4일부터 내년 3월 31일까지다.",
+    "source": "CBC뉴스",
+    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=594429",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-08",
+    "category": "other",
+    "title": "헝가리 폭염·가뭄에 배터리공장 비상…삼성SDI·SK온 전력·용수 감축",
+    "summary": "유럽을 강타한 폭염과 다뉴브강 가뭄 여파로 헝가리에 진출한 삼성SDI·SK온 배터리 공장이 피크시간대 전력 사용량을 최대 30% 줄이고 용수 사용량도 절반가량 감축하기로 했다. 헝가리 환경당국은 현지 배터리 기업들을 대상으로 운영 전반에 대한 점검에도 착수해, 인프라 준비 없이 추진된 배터리 산업 육성이 자원 위기에 직면했다는 지적이 나온다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/08/2026080709341956592bd56fbc3c_1",
+    "lang": "ko",
+    "labels": []
   }
 ]
