@@ -2200,5 +2200,226 @@
     "url": "https://www.ajunews.com/view/20260811135915525",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-13",
+    "category": "bottleneck",
+    "title": "AI 데이터센터 몸값 가른다…부동산보다 귀해진 '전력권'",
+    "summary": "AI·클라우드 투자 확대로 국내 데이터센터 시장에서 '전력 확보 여부'가 자산가치를 좌우하는 핵심 변수로 떠올랐다. 서울 수도권 코로케이션 공실률이 지난해 하반기 6.9%에서 올 상반기 1.1%까지 급락해 사실상 완전 임대 상태가 됐고, IB업계는 향후 투자의 초점이 건물 자체가 아니라 '전력 인프라가 확보된 부지'의 희소성으로 옮겨갈 것으로 보고 있다.",
+    "source": "파이낸셜뉴스",
+    "url": "https://www.fnnews.com/news/202608101112318064",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "부지"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "category": "bottleneck",
+    "title": "데이터센터, 전력 고갈 위기…자체 발전 설비가 대안으로 부상",
+    "summary": "AI 데이터센터의 전력 수요가 급증하는 반면 기존 송전망 접속에는 수년이 걸리면서, 병목이 칩이 아니라 전력 자체에 있다는 진단이 나왔다. 국제에너지기구(IEA)는 세계 데이터센터 전력 소비가 2025년 485TWh에서 2030년 약 950TWh로 두 배 가까이 늘어날 것으로 전망했으며, 가스터빈·배터리·연료전지 등을 이용한 '온사이트(자가) 발전'을 그리드 접속 지연의 대안으로 제시한다.",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/08/11/3342843/0/en/data-centers-are-running-out-of-power-and-behind-the-meter-generation-could-be-the-answer.html",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "category": "bottleneck",
+    "title": "美 데이터센터 건설 붐, 죽은 게 아니라 부품·전력 대기 중",
+    "summary": "데이터센터 분석업체 IIR에너지와 SynMax에 따르면 2027년 가동 예정 용량 중 상당수가 아직 부지 정지작업조차 시작하지 못해 실제 완공량은 업계 전망치를 크게 밑돌 전망이다. 미국 내 제안된 데이터센터 프로젝트 약 600GW 중 전력 공급 계약을 맺은 곳은 183GW에 불과하고, 승압용 변압기 리드타임이 평균 3년을 넘는 데다 숙련 전기인력·가스터빈 부족까지 겹쳐 오지 지역 공사비가 최대 30% 상승했다.",
+    "source": "Baton Rouge Business Report",
+    "url": "https://www.businessreport.com/article/the-us-data-center-boom-isnt-dying-its-just-stuck-waiting-for-parts-and-power",
+    "lang": "en",
+    "labels": [
+      "전력",
+      "변압기",
+      "인재부족"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "category": "bottleneck",
+    "title": "TSMC, CoWoS 병목은 완화되지만 ABF 기판이 다음 병목으로",
+    "summary": "대만 OCP APAC 2026 행사에서 TSMC는 CoWoS·SoIC 첨단 패키징 캐파를 매년 두 배씩 늘려 수율이 98~99%에 달하고 공급이 수요에 근접했다고 밝혔다. 다만 유리섬유 등 상류 원자재 공급 확대 속도가 더뎌 ABF 기판 수급 격차는 오히려 벌어지고 있어, 병목의 중심이 패키징 공정에서 기판 소재 쪽으로 옮겨가고 있다고 진단했다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260811VL213/tsmc-cowos-capacity-packaging-demand.html",
+    "lang": "en",
+    "labels": [
+      "패키징",
+      "소재"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "category": "bottleneck",
+    "title": "ASE \"공동패키지광학(CPO) 생태계, 아직 AI 인프라 확산 준비 안 됐다\"",
+    "summary": "OCP APAC 2026에서 ASE의 니콜 티엔 수석매니저는 공동패키지광학(CPO)이 AI 시스템 확장의 변곡점이 되고 있지만 업계 공통의 테스트 표준과 시뮬레이션 기반이 아직 마련되지 않았다고 경고했다. 광인터커넥트가 차세대 AI 서버의 핵심 부품으로 떠오르는 가운데, 표준화 지연이 상용화 속도를 늦추는 새로운 병목으로 지목됐다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260812VL227/optics-ase-testing-infrastructure-data.html",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "category": "bottleneck",
+    "title": "HBM 선점의 역설…SK하이닉스, 장기계약 탓에 가격 상승분 못 누려",
+    "summary": "SK하이닉스가 HBM 시장을 가장 먼저 선점했음에도 사전에 가격을 고정한 장기공급계약(LTA) 비중이 높아 최근 메모리 가격 급등의 수혜를 경쟁사보다 덜 누리고 있다는 분석이 나왔다. 회사는 현재 엔비디아와 2027년 HBM4 공급가격을 포함한 신규 장기계약을 협상 중인 것으로 알려졌으며, 이는 HBM 공급이 여전히 타이트한 상태임을 보여준다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Industry/2026/08/2026081316044696523084322ec9_1",
+    "lang": "ko",
+    "labels": [
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "category": "tech",
+    "title": "삼성전자 HBM4 수율 80% 달성…양산 반년 만에 '골든 수율' 확보",
+    "summary": "삼성전자의 6세대 HBM(HBM4) 수율이 양산 시작 반년 만에 80% 안팎까지 상승한 것으로 알려졌다. 올해 2월 세계 최초로 HBM4를 양산 출하할 당시 60%를 밑돌던 수율이 업계 예상보다 반년가량 앞당겨 안정화되면서, 3분기 HBM4 매출은 전 분기 대비 3배 이상 늘어날 전망이다. HBM 패키징 공정(TC-NCF)의 난제를 조기에 해결했다는 의미로, SK하이닉스와의 HBM4 경쟁 구도에 변화를 줄 것으로 예상된다.",
+    "source": "서울경제",
+    "url": "https://www.sedaily.com/article/20077383",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "메모리",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "category": "tech",
+    "title": "무라타, OCP APAC서 AI 데이터센터용 전력·광 부품 신제품 대거 공개",
+    "summary": "일본 무라타제작소가 2026 OCP APAC 서밋에서 AI 데이터센터 인프라 부담 증가에 대응한 업그레이드된 전력 컨버터와 광 부품을 공개했다. 랙당 전력밀도가 기존 클라우드용 15~30kW에서 AI 워크로드용 135kW 수준까지 치솟으면서, 800V DC 등 고전압 다상 전력공급 시스템과 고속 광연결 부품의 필요성이 커지고 있다는 점을 강조했다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260811PD247/murata-data-optical-components-worldwide-2026.html",
+    "lang": "en",
+    "labels": [
+      "전력",
+      "광인터커넥트",
+      "부품"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "category": "tech",
+    "title": "엔비디아, 공동패키지광학(CPO) 스위치 출하 시작…생태계 표준화는 아직 과제",
+    "summary": "엔비디아가 TSMC와 협력한 공동패키지광학(CPO) 스위치 실제 출하를 시작하며 AI 데이터센터의 인터커넥트 병목 해소에 나섰다. 다만 업계 관계자들은 CPO 대량 조달을 위한 공통 테스트·검증 표준이 아직 마련되지 않았다고 지적하며, 실제 인프라 구매자들이 안심하고 도입하기까지는 시간이 더 필요하다고 진단했다.",
+    "source": "Tech Times",
+    "url": "https://www.techtimes.com/articles/324160/20260812/nvidia-ships-co-packaged-optics-switch-ecosystem-testing-gap-widens.htm",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "인터커넥트"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "category": "tech",
+    "title": "디스커버드 머티리얼스, AI 반도체 발열 잡을 신소재 발굴에 900만 달러 시드 투자 유치",
+    "summary": "반도체 소재 스타트업 디스커버드 머티리얼스가 라이트스피드 인디아 파트너스, 피크 XV 파트너스 등으로부터 900만 달러 규모 시드 투자를 유치했다. AI 기반 멀티에이전트 시스템으로 대량의 후보 소재를 생성한 뒤 자체 물리 시뮬레이션으로 선별하는 방식으로 AI 칩의 발열·방열 문제 해결에 초점을 맞춘 신소재를 발굴하고 있으며, 향후 특허 출원 후 GPU 제조사에 라이선스를 제공할 계획이다.",
+    "source": "와우테일",
+    "url": "https://wowtale.net/2026/08/11/262708/",
+    "lang": "ko",
+    "labels": [
+      "소재",
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "category": "service",
+    "title": "라이엇 플랫폼, 앤스로픽과 20년간 91억 달러 규모 AI 컴퓨팅 공급계약 체결",
+    "summary": "비트코인 채굴업체 라이엇 플랫폼스가 텍사스 록데일 데이터센터 캠퍼스의 컴퓨팅 용량 191MW를 앤스로픽에 공급하는 20년 장기 계약을 체결했다고 공시했다. 계약 기간 동안 예상 매출은 91억 달러이며, 연장 옵션 행사 시 최대 161억 달러까지 늘어날 수 있어 비트코인 채굴 기업이 AI 인프라 사업으로 빠르게 전환하는 흐름을 보여준다.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-13",
+    "category": "service",
+    "title": "엘리스그룹, 153억원 규모 정부 AI 연구용 GPU 공급사업 공급사로 선정",
+    "summary": "엘리스그룹이 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 '2026년 AI 연구용 컴퓨팅 지원 프로젝트'의 복수 GPU 공급사 중 하나로 선정됐다고 밝혔다. 총 사업 규모는 153억원으로, 국내 대학·연구기관 연구자들에게 클라우드 기반 고성능 GPU 인프라와 AI 학습·운영 지원을 제공하게 된다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/future/2026/08/11/2026081116122249178",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-13",
+    "category": "service",
+    "title": "코어위브, 2분기 매출 두 배 급증하며 백로그 1040억 달러로 확대",
+    "summary": "AI 클라우드 기업 코어위브가 2분기 매출 25억8000만 달러(전년 대비 112% 증가)를 발표하며 시장 예상치를 상회했고, 향후 수주 잔고(백로그)는 전년 대비 246% 늘어난 1040억 달러에 달했다. 메타와의 210억 달러 규모 AI 클라우드 공급계약과 앤스로픽과의 다년 컴퓨팅 계약이 실적 성장을 뒷받침했으며, 회사는 연간 매출 가이던스도 상향 조정했다.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-13",
+    "category": "service",
+    "title": "네비우스, AI 클라우드 매출 전년 대비 454% 급증하며 어닝서프라이즈",
+    "summary": "AI 클라우드 기업 네비우스 그룹이 2분기 매출 5억8230만 달러를 기록해 시장 전망치를 웃돌았으며, 이는 전년 동기 대비 454% 늘어난 수치다. 분기 중 평균 계약 규모가 10억 달러를 넘는 대형 AI 클라우드 계약 4건을 새로 체결했고, 마이크로소프트·메타 등 우량 고객사로부터 확보한 계약 잔여 매출만 400억 달러를 넘는다고 밝혔다.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nebius-q2-2026-earnings-beat-130010966.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-13",
+    "category": "service",
+    "title": "노타, 메타엠과 차세대 AI 상담체계(AICC) 공동개발 계약 체결",
+    "summary": "AI 모델 경량화 전문기업 노타가 AI 컨택센터(AICC) 선도기업 메타엠과 차세대 AI 상담체계 구축을 위한 공동개발 계약을 체결했다고 공시했다. 계약 기간은 2026년 7월 말부터 1년간이며, 이번 계약으로 노타는 모델 최적화 기술을 앞세워 AI 에이전트 운영 시장에 진출하게 됐다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260813000475",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-13",
+    "category": "other",
+    "title": "유럽 천연가스 가격, 이란전쟁 이후 최고치 근접…폭염·일식 겹쳐 저장률 역대 최저",
+    "summary": "유럽 폭염과 가뭄, 개기일식으로 냉방·발전용 에너지 수요가 급증하면서 네덜란드 TTF 천연가스 선물 가격이 미국·이란 전쟁 이후 최고치에 근접했다. EU의 가스 저장률은 8월 초 기준 57.1%로 최근 5년 평균(74%)을 크게 밑돌며 2009년 통계 작성 이후 최저치를 기록해 겨울철 에너지 수급 불안 우려가 커지고 있다.",
+    "source": "한국일보",
+    "url": "https://www.hankookilbo.com/news/article/A2026081208020001857",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-13",
+    "category": "other",
+    "title": "미국 소고기값 사상 최고치…목장주는 함박웃음, 비육농가는 비명",
+    "summary": "75년 만에 최저 수준으로 줄어든 미국 소 사육두수와 멕시코 국경의 나사벌레(스크루웜) 확산에 따른 생우 수입 중단이 겹치며 미국 소고기 소매가격이 파운드당 8.90달러로 사상 최고치를 기록했다. 송아지를 파는 목축농가는 사상 최대 수익을 거두는 반면, 비싼 값에 소를 사와 살찌워 파는 사육농가는 마진이 붕괴되며 타이슨푸드 등 육가공업체도 대규모 영업손실을 냈다.",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/11/record-beef-cow-calf-ranchers-feedlot-farmers/",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-13",
+    "category": "other",
+    "title": "폭염에 돼지·가금류 100만 마리 폐사…정부, 축산 공급망 선제 대응",
+    "summary": "기록적인 폭염이 이어지면서 국내에서 돼지와 가금류 등 가축 100만 마리가 폐사한 것으로 집계됐다. 땀샘이 발달하지 않아 체온 조절이 어려운 가금류 피해가 특히 커 산란계 폐사로 계란 생산성이 떨어졌고, 정부는 육류·계란 수급 불안에 대비해 비축물량 확보와 모니터링 강화 등 선제 대응에 나섰다.",
+    "source": "파이낸셜뉴스",
+    "url": "https://www.fnnews.com/news/202608130831345838",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-13",
+    "category": "other",
+    "title": "폭염에 채솟값 급등, 가공식품도 줄줄이 인상…8월 장바구니 물가 비상",
+    "summary": "40도에 육박하는 폭염이 지속되며 시금치 소매가격이 한 달 새 85% 넘게 뛰고 배추, 깻잎, 상추 등 잎채소 가격도 30~40%대 급등했다. 여기에 원재료·포장재 비용 상승을 이유로 농심, CJ제일제당 등 식품업체들이 잇달아 제품 출고가를 5~8%대 인상하면서 채소와 가공식품 가격이 동시에 오르는 '이중 물가 부담'이 커지고 있다.",
+    "source": "세계일보",
+    "url": "https://segye.com/newsView/20260812507671",
+    "lang": "ko",
+    "labels": []
   }
 ]
