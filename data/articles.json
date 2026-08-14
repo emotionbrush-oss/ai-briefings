@@ -2421,5 +2421,174 @@
     "url": "https://segye.com/newsView/20260812507671",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-14",
+    "category": "bottleneck",
+    "title": "삼성·SK 메모리 주도권 확실…D램 가격 폭등",
+    "summary": "AI 데이터센터發 메모리 수요 폭증으로 D램 계약가격이 전분기 대비 최대 101%, 낸드플래시도 약 70% 급등한 것으로 나타났다. 공급자 우위 시장이 굳어지면서 삼성전자·SK하이닉스의 협상력과 수익성이 한층 강화되고 있다는 분석이다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/08/202608091047198752fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "낸드"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "category": "bottleneck",
+    "title": "HBM 12단서 8단으로 후퇴 검토…삼성·SK하이닉스 수율이 승부처",
+    "summary": "엔비디아가 차세대 가속기 '루빈 울트라'용 HBM4E 사양을 기존 12단에서 8단으로 낮추는 방안까지 검토 중인 것으로 전해졌다. 2027년 D램 공급난으로 HBM에 돌릴 웨이퍼 여력이 줄어든 데다 12단 제품의 검증 일정과 수율 확보가 지연되고 있는 점이 배경으로 꼽힌다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/08/202608101555456998fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "category": "bottleneck",
+    "title": "애플, 中산 반도체 도입 검토…AI發 메모리 대란 파급효과",
+    "summary": "AI 데이터센터 붐으로 촉발된 메모리 반도체 공급 부족과 가격 급등에 대응해 애플이 중국산 반도체 도입을 서두르고 있는 것으로 알려졌다. 빅테크조차 기존 공급망만으로는 물량을 확보하기 어려워지면서 공급망 다변화에 나서는 모습이다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/world/2026/08/10/2026081005031736681",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "공급망"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "category": "bottleneck",
+    "title": "텍사스, 데이터센터 전력망 접속 일시중단 후 전력수요 전망치 하향",
+    "summary": "텍사스주가 신규 데이터센터의 전력망 접속을 일시 중단하고 감사에 나서면서, 주 정부의 향후 전력 수요 증가 전망치가 크게 낮아졌다. AI 데이터센터의 '유령 프로젝트'가 실제 전력망 계획에 왜곡된 신호를 줬다는 우려가 배경으로 꼽힌다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/texas-power-demand-forecast-trimmed-after-data-center-pause",
+    "lang": "en",
+    "labels": [
+      "전력",
+      "규제"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "category": "bottleneck",
+    "title": "美 데이터센터 요청 전력, 실제론 28%만 공급될 듯",
+    "summary": "블룸버그 분석에 따르면 미국 내 데이터센터가 전력망에 신청한 총 1066GW 규모 전력 수요 중 실제로 공급될 물량은 약 28%에 그칠 전망이다. 중복·과장 신청된 '유령 프로젝트'가 많아 전력회사들의 투자 판단을 어렵게 만들고 있다는 지적이다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/most-electricity-sought-for-ai-data-centers-in-us-will-never-materialize",
+    "lang": "en",
+    "labels": [
+      "전력",
+      "부지"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "category": "bottleneck",
+    "title": "데이터센터업체 EdgeConneX, 전력 확보 위해 25억달러 은행보증 요청",
+    "summary": "EQT 산하 데이터센터 업체 EdgeConneX가 전력 조달 비용을 감당하기 위해 최대 25억달러 규모의 은행 지급보증을 요청한 것으로 전해졌다. 데이터센터 업계가 부족한 전력을 확보하려 전통적 대출을 넘어선 새로운 금융기법까지 동원하고 있음을 보여준다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/edgeconnex-seeks-2-5-billion-bank-pledge-for-data-center-power",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "category": "bottleneck",
+    "title": "구리값 톤당 1.4만달러 고공행진…AI·전력망 수요가 밀어올려",
+    "summary": "국제 구리 가격이 사상 최고치 부근에서 유지되며 현물과 선물 간 백워데이션 폭도 확대되고 있다. JP모건은 AI 데이터센터·전기차·전력망 현대화라는 3대 수요와 광산 투자 부족이 겹쳐 2026년 정제구리 적자가 약 33만톤에 달할 것으로 전망했다.",
+    "source": "더구루",
+    "url": "https://www.theguru.co.kr/news/article.html?no=105624",
+    "lang": "ko",
+    "labels": [
+      "구리",
+      "소재"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "category": "tech",
+    "title": "SK하이닉스, 샌디스크와 HBF 첫 표준 규격 공개…HBM·SSD 사이 병목 해소",
+    "summary": "SK하이닉스가 미국 FMS 2026에서 샌디스크와 함께 낸드 기반 신규 메모리 계층 'HBF(고대역폭플래시)'의 첫 표준 규격을 공개했다. 낸드 다이를 8~16단 적층해 최대 512GB 용량을 구현하면서도 HBM급 대역폭을 내는 구조로, HBM과 SSD 사이의 용량·속도 격차를 메울 차세대 AI 메모리로 주목받는다.",
+    "source": "디지털데일리",
+    "url": "https://www.ddaily.co.kr/page/view/2026081313031923204",
+    "lang": "ko",
+    "labels": [
+      "HBF",
+      "낸드"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "category": "tech",
+    "title": "SK이노베이션, 테라파워와 '나트륨' SMR 협력 확대…AI 데이터센터 전력난 대응",
+    "summary": "SK이노베이션이 테라파워와 차세대 소형모듈원자로(SMR) '나트륨' 사업 협력을 확대하는 합의서를 8월 14일 서울에서 체결했다. 미국 실증·상용 SMR 프로젝트 참여를 넓히고 국내 공급망을 활용한 'K-나트륨' 모델을 구체화해, AI 데이터센터發 급증하는 전력 수요에 신규 원전 기술로 대응한다는 전략이다.",
+    "source": "전자신문",
+    "url": "https://www.etnews.com/20260814000215",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "원전"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "category": "tech",
+    "title": "정기선-빌 게이츠 서울서 회동…HD현대, 美 SMR 시장 공략 속도",
+    "summary": "정기선 HD현대 회장과 빌 게이츠 테라파워 창업자가 8월 14일 서울에서 회동해 나트륨 원자로 기술 협력을 심화하기로 했다. 지난 5월 HD현대·테라파워·현대건설이 맺은 3자 협약을 넘어 상업용 원자로 제조 공급망 참여까지 논의되며, AI 데이터센터용 전력 인프라 확보 경쟁에 조선·건설업계까지 가세하는 모습이다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260814000918",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "원전"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "category": "service",
+    "title": "TSMC, 7월 매출 전년比 45% 급증…AI 수요 강세 재확인",
+    "summary": "TSMC의 7월 매출이 전년 동기 대비 45% 급증한 것으로 집계됐다. AI 가속기向 주문이 지속적으로 강세를 보이며 빅테크들의 파운드리 발주가 늘고 있음을 실제 매출 지표로 재확인시켰다.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-14",
+    "category": "service",
+    "title": "中 SMIC·화홍반도체, AI 수요 힘입어 순이익 세 자릿수 급증",
+    "summary": "중국 파운드리 기업 SMIC와 화홍반도체의 2분기 순이익이 각각 262%, 386% 급증하며 분기 매출 사상 최고치를 기록했다. 양사 경영진은 AI 관련 보조칩 수요 급증을 실적 견인 요인으로 직접 언급했다.",
+    "source": "South China Morning Post",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-14",
+    "category": "service",
+    "title": "어플라이드머티어리얼즈, AI發 반도체 장비 수요로 분기 매출 사상 최대",
+    "summary": "반도체 장비업체 어플라이드머티어리얼즈가 2026회계연도 3분기 매출 91.2억달러로 사상 최대치를 기록하며 시장 예상치를 상회했다. D램·첨단패키징向 장비 수주 가속에 힘입어 다음 분기 가이던스도 상향 조정했다.",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-q3-2026-earnings-114815272.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-14",
+    "category": "other",
+    "title": "커피 선물가격 폭등…이상기후發 원두 공급 차질에 AI 대신 투자 대안으로",
+    "summary": "브라질 등 주요 산지의 이상기후로 원두 수확이 지연되면서 커피 선물가격이 큰 폭으로 뛰었다. 일부 투자자들이 AI 관련주 대신 커피를 대안 투자처로 주목하는 등 기후발 농산물 공급 차질이 원자재 시장 전반에 파급되고 있다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/08/2026081405464685012bd56fbc3c_1",
+    "lang": "ko",
+    "labels": []
   }
 ]
