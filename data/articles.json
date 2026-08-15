@@ -2590,5 +2590,49 @@
     "url": "https://www.g-enews.com/article/Global-Biz/2026/08/2026081405464685012bd56fbc3c_1",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-15",
+    "category": "bottleneck",
+    "title": "정부, 반도체 산단 전력 공급 방안 논의 착수…12차 전력수급기본계획 토론회",
+    "summary": "기후에너지환경부와 제12차 전력수급기본계획 총괄위원회가 오는 20일 국회의원회관에서 AI·반도체 등 첨단산업 확대에 따른 전력수요 급증 대응을 주제로 정책토론회를 개최한다. 반도체 산업단지에 필요한 전력을 어떻게 채울지가 핵심 의제로 논의될 예정이다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260815000052",
+    "lang": "ko",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "category": "tech",
+    "title": "키옥시아·샌디스크, 9세대 QLC 3D낸드 공개…AI 스토리지 성능 33% 향상",
+    "summary": "키옥시아와 샌디스크가 AI·데이터 집약적 워크로드를 겨냥한 9세대 2Tb QLC 3D 낸드플래시 기술을 공개했다. CMOS를 메모리 어레이에 직접 접합하는 CBA 구조와 6-플레인 설계를 적용해 낸드 인터페이스 속도를 전 세대 대비 33% 끌어올린 4.8Gb/s로 높였다.",
+    "source": "Kioxia",
+    "url": "https://www.kioxia.com/en-jp/about/news/2026/20260812-1.html",
+    "lang": "en",
+    "labels": [
+      "낸드"
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "category": "service",
+    "title": "인도 L&T, 투게더AI와 15억7000만달러 규모 AI 팩토리 구축 계약",
+    "summary": "인도 대형 인프라 기업 L&T가 미국 AI 클라우드 기업 투게더AI와 전략적 파트너십을 맺고, 첸나이 캠퍼스에 엔비디아 B300 GPU 1만개 규모의 인도 최대 AI 팩토리를 구축하는 최대 150억 루피(약 15억7000만달러) 규모 수주를 확보했다. L&T의 AI 인프라 자회사 LTN컴퓨트가 시설을 구축·운영하며, 투게더AI는 이를 자사 클라우드의 학습·추론 용도로 활용할 계획이다.",
+    "source": "Larsen & Toubro",
+    "url": "https://www.larsentoubro.com/pressreleases/2026/2026-08-13-larsen-toubro-secures-mega-order-as-part-of-a-strategic-partnership-with-together-ai-to-build-india-s-largest-nvidia-b300-ai-factory",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-15",
+    "category": "other",
+    "title": "중국 희토류 대일 수출 반토막…미국행도 14% 감소",
+    "summary": "올해 1~6월 중국의 대일본 희토류 수출이 전년 동기 대비 약 51% 줄었고, 6월 한 달만 보면 81% 급감했다. 같은 기간 미국행 수출도 14%, 전 세계 수출은 16% 감소했으며 전기차 모터 등에 쓰이는 디스프로슘·터븀은 1월 이후 대일 수출 실적이 전무해 반도체·디스플레이·전기차 등 비AI 산업의 공급망 리스크로 번지고 있다.",
+    "source": "이투데이",
+    "url": "https://www.etoday.co.kr/news/view/2612483",
+    "lang": "ko",
+    "labels": []
   }
 ]
