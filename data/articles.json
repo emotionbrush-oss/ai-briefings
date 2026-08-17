@@ -2634,5 +2634,50 @@
     "url": "https://www.etoday.co.kr/news/view/2612483",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-17",
+    "category": "bottleneck",
+    "title": "빅테크 메모리 기근 심화…만드는 족족 팔려도 공급 부족 여전",
+    "summary": "삼성전자와 SK하이닉스가 생산라인을 최대로 가동해도 빅테크의 메모리 수요를 따라가지 못하고 있다. AI 가속화로 메모리 소비가 폭발적으로 늘어난 가운데 HBM 생산 집중에 따른 범용 D램용 웨이퍼 잠식과 팹 증설 시차 등 구조적 요인이 겹치며 서버 D램·HBM·eSSD 등 메모리 전 분야에서 공급 불균형이 확산되고 있다.",
+    "source": "디지털데일리",
+    "url": "https://www.ddaily.co.kr/page/view/2026081414071629300",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "category": "tech",
+    "title": "\"GPU를 HBM 위로\"…'HBM의 아버지' 김정호 교수, 발열 해법 'tHBM' 첫 공개",
+    "summary": "KAIST 김정호 교수가 FMS 2026에서 삼성 zHBM·SK하이닉스 HBF 발표에 이어, GPU를 HBM 위에 쌓는 역발상 구조의 신개념 메모리 'tHBM'을 처음 공개했다. 메모리를 GPU 위에 얹는 기존 적층 방식은 발열로 메모리가 손상될 위험이 있어, 적층 순서를 뒤집어 열 문제를 해결하려는 시도다.",
+    "source": "티타임즈",
+    "url": "https://www.ttimes.co.kr/article/2026081415027768811",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "category": "service",
+    "title": "하이브 디지털 자회사 BUZZ HPC, 3억5000만달러 규모 5년 AI GPU 클라우드 계약 체결",
+    "summary": "비트코인 채굴기업 하이브 디지털 테크놀로지스의 자회사 BUZZ HPC가 투자등급 기업 고객과 5년간 3억5000만달러 규모의 AI GPU 클라우드 서비스 계약을 체결했다. 엔비디아 블랙웰 울트라 GPU 2016개로 구성된 전용 클러스터를 캐나다 브리티시컬럼비아주 데이터센터에 구축하며, 연간 약 7000만달러의 매출이 추가로 발생할 전망이다. 계약 발표 이후 나스닥 시장에서 하이브 주가는 11% 급등했다.",
+    "source": "Investing News Network",
+    "url": "https://investingnews.com/hive-s-buzz-hpc-signs-350-million-ai-cloud-services-agreement-with-investment-grade-enterprise-customer/",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-17",
+    "category": "other",
+    "title": "인도네시아 그레식 구리 제련소 가동 중단…글로벌 구리 공급 차질 확산",
+    "summary": "프리포트 인도네시아가 운영하는 그레식 제련소가 보일러 누출 사고로 지난 8일 가동을 멈추면서 구리 출하가 수주간 지연될 전망이다. 프리포트는 공급 차질을 줄이기 위해 당초 9월로 예정됐던 마냐르 제련소 재가동을 이달 말로 앞당기는 방안을 추진 중이며, 이번 사고로 글로벌 구리 공급 부족 우려가 한층 커지고 있다.",
+    "source": "더구루",
+    "url": "https://www.theguru.co.kr/news/article.html?no=105699",
+    "lang": "ko",
+    "labels": []
   }
 ]
