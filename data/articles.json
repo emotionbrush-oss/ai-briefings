@@ -2679,5 +2679,40 @@
     "url": "https://www.theguru.co.kr/news/article.html?no=105699",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-18",
+    "category": "bottleneck",
+    "title": "엔비디아, 오픈AI 오하이오 데이터센터 채무보증 반토막으로 축소",
+    "summary": "엔비디아가 오픈AI의 오하이오주 10GW 규모 데이터센터 임차 사업에 제공하려던 금융보증 규모를 기존 2500억달러에서 1200억달러 미만으로 축소하는 방안을 추진 중이다. 엔비디아가 고객사 자금조달을 지원하고 그 자금으로 다시 자사 GPU를 사게 하는 '순환금융' 구조에 시장 경계가 커진 데 따른 것으로, 보증 대상도 전체 10GW 중 약 5GW로 줄어들 전망이다.",
+    "source": "SBS Biz",
+    "url": "https://biz.sbs.co.kr/article/20000328954",
+    "lang": "ko",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "category": "bottleneck",
+    "title": "AI 서버 랙 1대 메모리 값 118억원…한 세대 만에 2배 폭등",
+    "summary": "웰스파고 분석에 따르면 엔비디아 차세대 AI 서버 랙 '베라 루빈(VR200) NVL72'의 부품 비용이 834만달러(약 118억원)에 달해, 전 세대 '그레이스 블랙웰(GB300) NVL72'의 423만달러 대비 거의 두 배로 뛰었다. AI 가속기 성능 경쟁이 치열해지면서 탑재되는 HBM·LPDDR 용량이 늘고 가격도 오르면서 메모리가 AI 인프라 원가의 핵심 병목으로 떠오르고 있다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/industry/2026/08/16/2026081416184426163",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "category": "service",
+    "title": "앤스로픽, IPO 앞두고 연환산 매출 650억달러 돌파…1년새 7배 급증",
+    "summary": "앤스로픽의 연환산 매출이 지난 7월 말 기준 650억달러(약 92조원)를 넘어서며 지난해 말 대비 7배 넘게 증가했다. 최근 분기 잠정 매출도 115억달러를 넘어 전년 동기 7억8700만달러에서 급증했으며, 회사는 올가을 기업공개(IPO)를 목표로 모건스탠리 등 주관사와 함께 상장을 준비 중이다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
+    "lang": "en",
+    "labels": []
   }
 ]
