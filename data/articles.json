@@ -2714,5 +2714,75 @@
     "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-08-19",
+    "category": "bottleneck",
+    "title": "빅테크 4곳 2028년 HBM 요구량, 시장 전망치의 1.8배…\"벌써 동났다\"",
+    "summary": "메리츠증권이 8월 채널체크를 근거로 브로드컴·엔비디아·구글·AMD 등 빅테크 4곳의 2028년 HBM 수요 계획을 합산한 결과 950억~1000억Gb에 달해, 가트너 등이 전망한 2028년 전체 HBM 시장 규모(약 550억Gb)의 1.7~1.8배에 이른다고 분석했다. 4개사만으로 시장 전망치를 초과하면서 HBM은 물론 범용 D램 공급 부족도 장기화할 것이란 우려가 나온다.",
+    "source": "아이뉴스24",
+    "url": "http://inews24.com/view/1995940",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "category": "bottleneck",
+    "title": "변압기 품귀, 걸프 지역 AI 데이터센터 건설까지 위협",
+    "summary": "전 세계적인 대형 변압기 공급 부족과 확보 경쟁이 심화되면서 걸프 지역의 AI 데이터센터 건설 계획까지 흔들리고 있다고 업계 분석가들이 밝혔다. 걸프 지역 수요를 대던 서구·동아시아 공급업체들이 미국·유럽 하이퍼스케일러의 수년치 선주문을 먼저 처리하고 있는 데다, 재생에너지 프로젝트의 계통 연결에도 같은 변압기가 필요해 데이터센터가 청정에너지 업계와 장비를 놓고 경쟁하는 상황이다.",
+    "source": "AGBI",
+    "url": "https://www.agbi.com/analysis/tech/2026/08/transformer-shortage-threatens-gulf-ai-data-centre-plans/",
+    "lang": "en",
+    "labels": [
+      "전력",
+      "변압기"
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "category": "bottleneck",
+    "title": "메모리값 폭등 여파, MS \"윈도11, 8GB 램에서도 가볍게\"",
+    "summary": "AI發 D램 공급 부족으로 램 가격이 급등해 저가 노트북들이 다시 8GB 메모리로 회귀하자, 마이크로소프트가 8GB 사양에서도 윈도11이 원활히 구동되도록 메모리 사용량을 줄이는 최적화 작업에 나섰다. 초기 설정 단순화와 기능 경량화를 연내 업데이트로 배포할 계획으로, 이미 8GB PC를 쓰는 기존 이용자에게도 영향을 줄 전망이다.",
+    "source": "ZDNet Korea",
+    "url": "https://zdnet.co.kr/view/?no=20260818160722",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "category": "tech",
+    "title": "AI 칩 액체냉각 채택률, 올해 53%로 급증 전망",
+    "summary": "트렌드포스는 엔비디아·AMD·구글의 고성능 AI 칩 개별 발열량(TDP)이 1kW를 넘어서고 랙 단위 전력소비도 수백kW에 달하면서, AI 칩의 액체냉각 채택률이 2025년 약 33%에서 2026년 53%로, 2027년에는 60%에 근접할 것으로 전망했다. 구글은 이미 AI 서버의 80% 이상에 액체냉각을 적용하고 있으며 엔비디아의 랙 단위 솔루션 출하량도 올해 2배로 늘어날 전망이다.",
+    "source": "TrendForce",
+    "url": "https://www.trendforce.com/presscenter/news/20260817-13183.html",
+    "lang": "en",
+    "labels": [
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "category": "service",
+    "title": "낸드 5대 브랜드 2분기 매출 77% 급증…마이크론 3위 도약",
+    "summary": "트렌드포스에 따르면 삼성전자·SK하이닉스·마이크론·키오시아·SanDisk 등 낸드플래시 5대 브랜드의 2026년 2분기 합산 매출이 전분기 대비 77% 급증했다. 특히 마이크론이 순위를 끌어올려 3위로 올라섰는데, AI 서버·SSD向 수요 폭증이 실제 매출 증가로 확인된 사례로 꼽힌다.",
+    "source": "TrendForce",
+    "url": "https://www.trendforce.com/presscenter/news/20260818-13186.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-19",
+    "category": "other",
+    "title": "칠레, 광산 부진에 구리 생산 전망 또 하향…공급 부족 우려 커져",
+    "summary": "세계 최대 구리 생산국 칠레의 국영 구리위원회 코칠코가 올해 구리 생산량 전망치를 전년 대비 2.6% 감소한 527만톤으로 재차 하향 조정했다. 코델코·BHP 등 주요 광산의 상반기 생산 부진이 배경으로, 전력망 확충과 데이터센터 건설 등에 따른 수요는 1.9% 늘어날 것으로 예상돼 코칠코는 올해 평균 구리 가격 전망치도 파운드당 5.55달러에서 5.95달러로 올려 잡았다.",
+    "source": "The Guru",
+    "url": "https://www.theguru.co.kr/news/article.html?no=105678",
+    "lang": "ko",
+    "labels": []
   }
 ]
