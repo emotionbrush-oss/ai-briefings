@@ -2784,5 +2784,40 @@
     "url": "https://www.theguru.co.kr/news/article.html?no=105678",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-20",
+    "category": "bottleneck",
+    "title": "모건스탠리 \"美 AI 데이터센터, 2028년까지 전력 38GW 부족\"",
+    "summary": "모건스탠리가 2026~2028년 미국 데이터센터에 필요한 전력이 약 68GW에 달하지만, 이미 건설 중인 물량과 확보된 전력망 용량을 합쳐도 30GW에 그쳐 최대 38GW의 공급 격차가 발생할 것으로 전망했다. 가스터빈·연료전지 신속 배치, 가동 중인 원전 인근 입지, 비트코인 채굴장 부지 전환 등이 대안으로 제시됐다.",
+    "source": "The Motley Fool",
+    "url": "https://www.fool.com/investing/2026/08/20/morgan-stanley-says-ai-data-centers-face-a-38-giga/",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "category": "tech",
+    "title": "구글, 10세대 TPU 개발에 AMD 영입…브로드컴 독점 구도 흔들",
+    "summary": "반도체 분석업체 세미애널리시스에 따르면 구글이 10세대 TPU(v10) 설계에 AMD를 파트너로 영입한 것으로 8월 17일 알려졌다. CPU 코어를 온패키지로 통합해 강화학습 등 에이전틱 워크로드에 최적화하는 하이브리드 설계가 핵심으로, 그동안 브로드컴·미디어텍이 맡아온 구글 TPU 설계 공급망에 균열이 생기고 있다. 세미애널리시스는 CoWoS-S 첨단 패키징 캐파 확보 어려움으로 올 하반기 TPU 출하량이 기존 전망을 밑돌 것이라고도 지적했다.",
+    "source": "DataCenterDynamics",
+    "url": "https://www.datacenterdynamics.com/en/news/google-rumored-to-have-partnered-with-amd-on-tpu-v10-as-shipments-of-current-generations-revised-down-report/",
+    "lang": "en",
+    "labels": [
+      "ASIC",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "category": "service",
+    "title": "아크릴, KHF 2026서 병원용 '의료 AI 풀스택' 공개",
+    "summary": "AI 기업 아크릴이 8월19일부터 21일까지 서울 코엑스에서 열리는 국제병원및헬스테크박람회(KHF) 2026에서 병원용 'AI-Native Healthcare Stack'을 공개했다. 병원 데이터를 AI가 이해하도록 연결하는 데이터 계층(나디아-ANE), 한국어 의료 용어와 임상맥락을 이해하는 헬스케어 특화 모델(ALLM.H), AI 에이전트 개발·운영 인프라(Jonathan.H)로 구성돼, 범용 LLM 도입만으로는 풀리지 않던 병원 현장의 AI 적용 문제를 통합 솔루션으로 공략한다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260820000959",
+    "lang": "ko",
+    "labels": []
   }
 ]
