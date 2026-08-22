@@ -2875,5 +2875,49 @@
     "url": "https://www.newspim.com/news/view/20260819000881",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-22",
+    "category": "bottleneck",
+    "title": "AI 데이터센터 전력 아키텍처, 800VDC로 전환 가속…전력반도체 수요 재편",
+    "summary": "차세대 AI 데이터센터에서 기존 48V 체계보다 변환 단계가 적은 800VDC 전력 아키텍처 채택이 빠르게 확산되고 있다. 엔비디아를 비롯한 업계가 이를 랙·시설 단위 표준으로 밀면서 인피니언, 온세미, 나비타스, TI 등 전력반도체 업체들의 SiC·GaN 기반 고전압 변환 부품 수요가 새롭게 재편되고 있다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260821PD204/data-gan-demand-adoption-sic.html",
+    "lang": "en",
+    "labels": [
+      "전력반도체"
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "category": "tech",
+    "title": "TSMC, 칩 뒷면에 전력선 배치한 1.6나노 'A16' 공정 개발…전력·데이터 병목 동시 해결",
+    "summary": "TSMC가 후면 전력공급(Super Power Rail) 방식을 세계 최초로 적용한 A16(1.6나노급) 공정 개발과 검증을 마쳤다. 기존 설계 호환성을 유지하면서도 동일 전력에서 속도를 8~10% 높이거나 동일 속도에서 소비전력을 15~20% 줄일 수 있어 AI 반도체의 전력·성능 병목을 완화할 전망이며, 4분기 양산에 들어간다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/2026082021647",
+    "lang": "ko",
+    "labels": [
+      "파운드리"
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "category": "service",
+    "title": "英 AI칩 스타트업 프랙타일, 앤스로픽 공급계약 힘입어 몸값 65억달러로 급등",
+    "summary": "영국 AI 반도체 스타트업 프랙타일이 앤스로픽에 약 2억5000만달러 규모의 칩을 공급하는 초기 계약을 확보한 데 힘입어, 6억달러를 조달하며 기업가치 65억달러를 인정받는 방안을 협상 중이다. 3개월 전 2억2000만달러 투자 유치 당시 몸값 약 10억달러에서 6배 넘게 뛴 수준으로, 칩은 2027년에야 출하될 예정이어서 미래 수요에 대한 베팅 성격이 크다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-chip-startup-fractile-in-talks-for-6-5-billion-value-after-anthropic-deal",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-22",
+    "category": "other",
+    "title": "호르무즈 해협 해운 차질 장기화…유럽, 겨울철 천연가스 공급 리스크 지속",
+    "summary": "호르무즈 해협을 통한 해상 운송 마비가 이어지면서 유럽 천연가스 가격이 저장량 부족 우려와 맞물려 강세를 보이고 있다. 글로벌 채권시장 안정에 따른 일시적 안도감에도 불구하고, 겨울철을 앞둔 유럽의 LNG 수급 불안은 당분간 해소되기 어려울 전망이다.",
+    "source": "Investing.com",
+    "url": "https://kr.investing.com/news/commodities-news/article-2068899",
+    "lang": "ko",
+    "labels": []
   }
 ]
