@@ -2919,5 +2919,54 @@
     "url": "https://kr.investing.com/news/commodities-news/article-2068899",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-23",
+    "category": "bottleneck",
+    "title": "메모리값 폭등에 엔비디아 AI 서버 가격도 15%↑…내년 초 출하분부터 적용",
+    "summary": "블룸버그에 따르면 엔비디아가 주요 고객사들에 베라 루빈, 그레이스 블랙웰 등이 탑재된 AI 서버 가격을 15% 넘게 인상한다고 통보했다. 메모리 반도체 가격 급등이 원가에 그대로 반영된 결과로, 인상분은 내년 초 출하되는 시스템부터 적용된다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+    "lang": "en",
+    "labels": [
+      "메모리",
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "category": "bottleneck",
+    "title": "ST마이크로, 올해 세 번째 가격 인상…전력반도체 리드타임 52주까지 급증",
+    "summary": "ST마이크로일렉트로닉스가 8월 23일부로 올해 세 번째 가격 인상을 단행한다고 밝혔다. 자동차용 MCU 가격이 최대 20% 누적 인상됐고, 전력반도체 제품 일부는 납기가 52주까지 늘어나면서 대기 수요가 가격 재조정의 배경이 됐다.",
+    "source": "TrendForce",
+    "url": "https://www.trendforce.com/news/2026/08/21/news-stmicroelectronics-plans-third-2026-price-hike-for-august-23-power-device-lead-times-reportedly-hit-52-weeks/",
+    "lang": "en",
+    "labels": [
+      "전력반도체",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "category": "tech",
+    "title": "삼성·SK하이닉스 출신 모인 iHW, 초저전력 AI반도체로 520억원 시리즈A 유치",
+    "summary": "초저전력 AI 반도체 팹리스 iHW가 코오롱인베스트먼트 주도로 520억원 규모 시리즈A 투자를 유치해 누적 조달액 640억원을 기록했다. 이 회사가 개발 중인 '인퍼트론'은 뉴로모픽 연산 구조를 적용한 아날로그 인메모리 컴퓨팅(ACiM) 방식으로 데이터 이동을 줄여 전력 소모와 지연시간을 동시에 낮추는 것이 특징이다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/future/2026/08/19/2026081909164378071",
+    "lang": "ko",
+    "labels": [
+      "저전력",
+      "NPU"
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "category": "service",
+    "title": "제조기업 84% \"피지컬 AI 도입했거나 도입 예정\"…생산성 32% 향상 기대",
+    "summary": "한국경영자총협회가 종사자 500인 이상 제조기업 100곳을 조사한 결과 84.0%가 피지컬 AI를 도입했거나 도입할 계획이라고 답했다. 현재 도입 기업은 무인운반차·자율이동로봇(AGV·AMR) 활용이 가장 많았고, 향후에는 휴머노이드형에 대한 기대가 컸으며 생산성은 평균 31.9% 향상될 것으로 응답했다.",
+    "source": "전자신문",
+    "url": "https://www.etnews.com/20260820000166",
+    "lang": "ko",
+    "labels": []
   }
 ]
