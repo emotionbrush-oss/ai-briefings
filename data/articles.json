@@ -2968,5 +2968,323 @@
     "url": "https://www.etnews.com/20260820000166",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-24",
+    "category": "bottleneck",
+    "title": "AI 서버 시장 연 40% 성장, 랙당 전력밀도 100배 폭증에 전력망 비상",
+    "summary": "대만 AI 아카데미 콘퍼런스에서 폭스콘 비전베이닷ai와 델타 파워시스템 관계자들은 AI 서버 출하량이 연평균 40%에 육박하는 성장을 이어가는 반면 랙당 전력밀도는 과거 대비 100배 가까이 치솟아 전력망에 큰 부담을 주고 있다고 밝혔다. 서버 전력 수요 증가 속도가 전력 인프라 확충 속도를 크게 앞지르고 있다는 경고다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260819PD228/ai-server-power-supply-taiwan-2026.html",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "bottleneck",
+    "title": "AI가 견인하는 네트워크 장비 수요, 부품 공급난은 더 심화",
+    "summary": "AI 데이터센터 확장과 기업용 네트워크 장비 수요 증가로 관련 업체들의 수주는 늘고 있지만, 메모리·PCB 등 핵심 부품 가격 급등과 빅테크의 공급망 선점으로 다른 전자제품용 부품 확보가 더욱 어려워지고 있다. AI 서버가 부품 공급망 전반을 빨아들이는 현상이 심화되고 있다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260820PD214/network-equipment-expansion-materials-demand.html",
+    "lang": "en",
+    "labels": [
+      "부품",
+      "공급망"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "bottleneck",
+    "title": "AI가 몰고 온 전력반도체 품귀, 최소 2년은 간다",
+    "summary": "클라우드 AI 데이터센터 붐이 꺾일 기미가 보이지 않는 가운데 전력반도체를 포함한 아날로그 IC 공급이 향후 수년간 빠듯할 것이라는 전망이 나왔다. 업계 관계자들은 가격 인상이 계속될 것이라며 전력반도체 부족이 최소 2년 이상 지속될 것으로 내다봤다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260818PD212/cloud-ai-power-semiconductors-demand-data-center-price.html",
+    "lang": "en",
+    "labels": [
+      "전력반도체"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "bottleneck",
+    "title": "치솟는 전력 수요, 꽉 찬 가스터빈 공장…AI 인프라 병목 장기화",
+    "summary": "AI 데이터센터 증설 속도를 발전설비 공급망이 따라가지 못해 병목이 심화되고 있다. GE버노바의 가스터빈 수주잔고가 2026년 2분기 기준 116GW에 달해 신규 주문 물량의 납품 시점이 2031년까지 밀렸으며, 전력망 구축 지연이 초고압 변압기·배전 시스템을 수출하는 한국 전력기기 업계에도 영향을 미칠 전망이다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/08/202608231408359943fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "bottleneck",
+    "title": "AI 데이터센터도 '대기표' 받는다…빨라진 투자에 걸린 제동",
+    "summary": "미국을 중심으로 AI 데이터센터 투자 속도는 빨라졌지만 부지 확보와 전력망 연결 지연으로 실제 가동까지는 순서를 기다려야 하는 상황이다. 블룸버그NEF는 지역 규제 여파로 미국 데이터센터 개발 파이프라인의 약 20%인 49.8GW가 지연 위험에 노출될 수 있다고 추정했으며, 변압기·개폐장치·배터리 등 핵심 전력 부품의 공급 부족이 주요 지연 원인으로 지목됐다.",
+    "source": "아시아경제",
+    "url": "https://view.asiae.co.kr/article/2026082114311158888",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "부지"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "bottleneck",
+    "title": "D램 급등세 꺾이자 이번엔 낸드 병목…범용 시장 파고드는 中 YMTC",
+    "summary": "D램 가격 급등세가 한풀 꺾인 사이 이번엔 낸드플래시 공급 병목이 본격화하고 있다. AI 데이터센터용 기업용 SSD 수요가 급증했지만 업체들이 낸드 증설에는 소극적이었던 탓에 PC·스마트폰용 범용 낸드까지 공급이 빠듯해졌고, 이 틈을 타 중국 YMTC가 가격 경쟁력을 앞세워 범용 낸드 시장 점유율을 확대하고 있다.",
+    "source": "한국일보",
+    "url": "https://www.hankookilbo.com/news/article/A2026081915300000695",
+    "lang": "ko",
+    "labels": [
+      "낸드",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "bottleneck",
+    "title": "AI·전력망·전기차가 동시에 찾는다…구리, '전기 시대 핵심 금속' 부상",
+    "summary": "AI 데이터센터, 전력망, 전기차, 재생에너지 투자가 동시에 확대되면서 구리가 전략 원자재로 부상하고 있다. 국제에너지기구는 2040년까지 구리 수요가 약 700만 톤 늘어나 핵심광물 중 최대 증가폭을 기록할 것으로 전망했는데, 광산 개발부터 생산까지 오랜 시간이 걸려 변압기·송전망·데이터센터용 구리 공급 부족이 장기화될 수 있다는 우려가 나온다.",
+    "source": "베타뉴스",
+    "url": "https://www.betanews.net/article/view/beta202608210021",
+    "lang": "ko",
+    "labels": [
+      "구리",
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "bottleneck",
+    "title": "테라파워 원자로, AI 데이터센터 전력난의 '비밀병기' 될까",
+    "summary": "빌 게이츠가 설립한 원자력 스타트업 테라파워가 자사의 나트륨 원자로를 AI 데이터센터 전력원으로 활용하는 첫 프로젝트를 올해 안에 발표할 계획이다. 메타는 이미 테라파워의 나트륨 발전소 8기를 구매하기로 계약했으며, 해당 데이터센터 프로젝트는 2027년 착공이 예상돼 급증하는 AI 전력 수요에 빅테크가 차세대 원전으로 눈을 돌리고 있음을 보여준다.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "lang": "en",
+    "labels": [
+      "원전",
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "bottleneck",
+    "title": "54조 쏟아붓는 SK하이닉스, 공급난 해소는 2028년 넘긴다",
+    "summary": "SK하이닉스가 54조원 규모의 신규 투자를 발표하며 HBM 및 서버용 D램 증설에 나섰지만, 실제 공급 부족 해소는 2028년 이후에나 가능할 것으로 전망된다. 신규 팹 완공과 풀가동까지 3년 이상 걸리는 데다 HBM 생산에는 일반 D램보다 3배 이상의 웨이퍼가 필요해 공급 확대에 근본적 한계가 있다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/08/202608180916051092fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "tech",
+    "title": "삼성 zHBM, 전력효율 70% 개선 주장…SK하이닉스는 인텔 EMIB 평가",
+    "summary": "삼성전자가 핫칩스 2026에서 인터포저 없이 XPU 위에 직접 D램을 3D 적층하는 차세대 HBM 구조 'zHBM'을 공개했다. 기존 HBM4e 대비 대역폭은 최대 8배, 전력효율은 70%까지 개선된다고 주장했으며, SK하이닉스는 같은 행사에서 인텔의 EMIB 패키징 기술 도입 검토 사실을 밝혔다.",
+    "source": "TrendForce",
+    "url": "https://www.trendforce.com/news/2026/08/24/news-hot-chips-2026-samsungs-zhbm-claims-70-power-efficiency-gain-sk-hynix-evaluates-intel-emib/",
+    "lang": "en",
+    "labels": [
+      "HBM",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "tech",
+    "title": "첨단 패키징 기판 한계 봉착…세라믹 코어, 유리기판에 도전장",
+    "summary": "AI 반도체용 첨단 패키징 기판이 대형화·다층화 요구로 물리적 한계에 부딪히면서 업계가 유리기판 외에 세라믹 코어 소재를 차세대 대안으로 검토하고 있다. 기존 ABF 기판과 실리콘 인터포저가 휨과 비용 문제로 병목이 커지자 새로운 코어 소재 경쟁이 본격화되는 양상이다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260824PD221/ceramic-substrate-glass-substrate-packaging-materials-hardware-manufacturing.html",
+    "lang": "en",
+    "labels": [
+      "패키징",
+      "유리기판"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "tech",
+    "title": "라피더스 2나노 양산 로드맵 순항…日 1500억엔 추가 투자 준비",
+    "summary": "일본 파운드리 라피더스의 최고경영자가 AI 반도체 수요 급증에 힘입어 2027년 하반기 2나노 양산 목표가 계획대로 진행되고 있다고 밝혔다. 일본 정부는 2나노 및 1.4나노 공정 연구·설비를 위해 1500억엔 규모의 추가 자금 투입을 준비 중이다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260824VL207/rapidus-2nm-investment-production-chips.html",
+    "lang": "en",
+    "labels": [
+      "파운드리"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "tech",
+    "title": "고대역폭 플래시(HBF), FMS 2026에서 기술 진전 공개",
+    "summary": "HBM과 낸드플래시 사이의 새로운 메모리 카테고리인 HBF가 FMS 2026 컨퍼런스에서 추가 기술 진전을 선보였다. SK하이닉스·샌디스크가 주도한 HBF 개방형 규격을 바탕으로 구글, 텐스토렌트 등이 참여하며 AI 추론용 메모리 병목 해소 대안으로 주목받고 있다.",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/tomcoughlin/2026/08/21/high-bandwidth-flash-advances-at-the-2026-fms-conference/",
+    "lang": "en",
+    "labels": [
+      "HBF",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "tech",
+    "title": "삼성전자, 초미세 배선 저항 45% 낮춘 기술 세계 최초 구현",
+    "summary": "삼성종합기술원이 미량의 탄소로 차세대 배선 소재인 루테늄의 결정 크기와 방향을 제어해 초미세 금속 배선의 저항을 기존 대비 약 45% 낮추는 기술을 세계 최초로 구현했다. 국제학술지 '사이언스'에 게재된 이 연구는 AI 가속기·HPC용 반도체의 성능과 전력효율을 높이는 원천기술로 주목된다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/202608215323i",
+    "lang": "ko",
+    "labels": [
+      "소재",
+      "저전력"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "tech",
+    "title": "유럽 스타트업 TekSiC, 반절연 SiC 웨이퍼에 GaN 에피층 성장 성공",
+    "summary": "스웨덴 딥테크 스타트업 TekSiC가 유럽에 상업 생산 기반이 없던 반절연 실리콘카바이드(SI-SiC) 웨이퍼 위에 GaN 에피층 성장에 성공했다. 이 소재는 위성통신·레이더용 RF 전력소자뿐 아니라 차세대 AI 데이터센터용 전력반도체의 핵심 기판으로도 주목받고 있다.",
+    "source": "Semiconductor Today",
+    "url": "https://www.semiconductor-today.com/news_items/2026/aug/teksic-200826.shtml",
+    "lang": "en",
+    "labels": [
+      "전력반도체",
+      "소재"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "tech",
+    "title": "프라이메마스, 마이크론과 CXL 풀드 메모리 양산 임박",
+    "summary": "국내 반도체 스타트업 프라이메마스가 FMS 2026에서 CXL 3.0 풀스택 제품을 공개하고, 마이크론과 함께 미 에너지부 산하 PNNL 연구소용 100TB급 CXL 메모리 시스템 '아바코 프로젝트'를 추진한다고 밝혔다. 9월 카드 출하 후 4분기부터 양산 매출이 발생할 것으로 예상돼 HBM 대체·보완재로서 CXL 풀드 메모리 상용화가 한층 가까워졌다.",
+    "source": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10847286",
+    "lang": "en",
+    "labels": [
+      "CXL",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "tech",
+    "title": "SK하이닉스, HBM 하이브리드본딩 HBM5로 연기…775마이크론 두께 한계 봉착",
+    "summary": "SK하이닉스가 핫칩스 2026에서 하이브리드본딩 공정이 HBM4E에는 시기상조이며 HBM5 도입이 유력하다고 밝혔다. HBM 적층체가 300mm 웨이퍼 두께 기준인 775마이크론 한계에 부딪히면서, 그때까지는 기존 MR-MUF 공정을 엔비디아 루빈 세대까지 계속 활용한다는 방침이다.",
+    "source": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling",
+    "lang": "en",
+    "labels": [
+      "HBM",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "category": "service",
+    "title": "SK하이닉스, 40조원 규모 자사주 매입·소각 결정…AI 메모리 호황 반영",
+    "summary": "SK하이닉스가 이사회에서 보통주 2407만주(발행주식의 약 3.3%)를 40조43억원에 매입해 전량 소각하기로 결정했다고 공시했다. HBM 등 AI 메모리 수요 호황에 따른 현금흐름 확대를 반영한 조치로, 국내 상장사 사상 최대 규모 자사주 소각이다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/industry/2026/08/19/2026081915561591398",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-24",
+    "category": "service",
+    "title": "삼성전자, HBM 호황 업고 최대 800억 달러 주주환원 발표",
+    "summary": "삼성전자가 이사회를 열어 최대 800억 달러(약 100조~110조원) 규모의 사상 최대 주주환원 프로그램을 승인했다. HBM 등 AI 반도체 호황으로 인한 기록적 이익을 배당과 특별배당 형태로 환원하는 것으로, SK하이닉스가 며칠 전 발표한 자사주 매입 계획에 이어 국내 양대 메모리 기업이 나란히 대규모 환원에 나섰다.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-24",
+    "category": "service",
+    "title": "엔비디아, AI 스타트업 풀사이드에 60억 달러 라이선스 계약…핵심 인력도 영입",
+    "summary": "엔비디아가 AI 코딩 모델 개발 스타트업 풀사이드의 모델 개발 소프트웨어 'Model Factory'와 오픈소스 모델 'Laguna'에 대한 라이선스 대가로 60억 달러를 지급하기로 했다. 여기에 10억 달러 규모 지분 투자까지 더해 풀사이드의 기업가치는 120억 달러로 평가됐으며, 모델 개발에 참여한 직원 109명에게 채용 제안도 함께 진행한다.",
+    "source": "Bloomberg (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-pay-poolside-6-billion-181448803.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-24",
+    "category": "service",
+    "title": "알리바바, AI 투자로 설비투자 75% 급증…AI 클라우드 매출은 45% 성장",
+    "summary": "알리바바가 발표한 2027 회계연도 1분기 실적에서 AI 인프라 투자 확대로 순이익이 전년 대비 76% 급감했지만, 매출은 시장 예상치를 웃돌았다. AI 클라우드·컴퓨팅 서비스 매출은 45% 성장했고 AI 제품 매출은 12분기 연속 세자릿수 성장세를 이어가는 등 AI 사업의 실질적 수익화가 진행 중임을 보여줬다.",
+    "source": "TechNode",
+    "url": "https://technode.com/2026/08/21/alibabas-ai-spending-lifts-capex-75-as-quarterly-profit-falls-76/",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-24",
+    "category": "service",
+    "title": "딥노이드, 포항세명기독병원과 의료 AI 3종 공급계약 체결",
+    "summary": "딥노이드가 포항세명기독병원과 생성형 AI 기반 흉부 엑스레이 예비 소견서 솔루션 'M4CXR', 뇌동맥류 판독보조 '딥뉴로', 다중 폐질환 검출 '딥체스트' 등 의료 AI 솔루션 3종의 공급 계약을 체결했다고 밝혔다. 특히 M4CXR이 정부 지원사업이 아닌 병원의 자체 예산으로 민간 종합병원에 공급되는 것은 이번이 처음으로, 의료 AI의 실질적 상용화 사례로 평가된다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/tech/2026/08/24/2026082408580467365",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-24",
+    "category": "other",
+    "title": "트럼프, 미-멕시코 소 국경 재개방...쇠고기 가격은 사상 최고치",
+    "summary": "신충증(나사파리매) 확산으로 폐쇄됐던 애리조나주 더글러스 국경 통과지점을 통해 미국이 멕시코산 소 수입을 재개했다. 미국 내 소 사육두수가 70여 년 만에 최저치로 줄며 쇠고기 가격이 사상 최고치를 찍자 나온 조치이나, 경제 전문가들은 단기간 내 가격 하락 효과는 크지 않을 것으로 본다.",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/08/24/trump-beef-mexico-screwworm/",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-24",
+    "category": "other",
+    "title": "곡물가 급등...올겨울 세계 식량 공급에 '퍼펙트 스톰' 우려",
+    "summary": "러시아와 우크라이나가 흑해 항만시설을 서로 공격하면서 세계 곡물 수출의 약 4분의 1을 차지하는 양국의 곡물 선적이 막히고 있다. 중동발 비료 공급 차질과 이상기후로 인한 유럽·미국 작황 부진까지 겹치며, 옥스퍼드이코노믹스는 2026년 세계 식품가격이 12% 오를 것으로 전망했다.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-24",
+    "category": "other",
+    "title": "브라질 수확 지연에 커피 가격 급등...재고는 2.75년 만에 최저",
+    "summary": "브라질의 2026/27 시즌 커피 수확이 예년보다 크게 지연되면서 아라비카 가격이 7.5개월 만에 최고치로 상승했다. 8월 12일 기준 브라질 아라비카 수확률은 86%로 작년 동기(95%)를 밑돌았고, ICE 아라비카 재고는 22만6242백으로 2.75년 만에 최저치를 기록했다.",
+    "source": "Barchart",
+    "url": "https://www.barchart.com/story/news/4007323/coffee-prices-soar-as-supplies-tighten",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-08-24",
+    "category": "other",
+    "title": "구리 품귀 조짐...칠레발 공급 차질에 가격 무섭게 상승",
+    "summary": "세계 최대 구리 생산국 칠레 아타카마 지역에 잇단 겨울 폭풍이 몰아치면서 캐나다 룬딘마이닝의 카세로네스 구리·몰리브덴 광산이 가동을 중단하는 등 생산 차질이 이어지고 있다. 칠레 국영 구리위원회 코칠코는 올해 자국 구리 생산 전망치를 하향 조정했고, 전력망·건설·국방 등 전방위 수요 증가와 맞물려 구리 품귀 우려가 커지고 있다.",
+    "source": "한경매거진",
+    "url": "https://magazine.hankyung.com/business/article/202608247737b",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-08-24",
+    "category": "other",
+    "title": "정부, 요소수 매점매석 금지 10월 말까지 연장",
+    "summary": "정부가 차량용 요소수와 요소에 대한 매점매석 금지 조치를 당초 8월 말에서 10월 31일까지 두 달 추가 연장했다. 중국의 요소 수출 통제가 해제돼 수입 여건은 개선됐고 국내 재고도 평시 수준이지만, 중동 정세 불안이 이어지는 만큼 예방적 조치를 유지하기로 했다.",
+    "source": "헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10846003",
+    "lang": "ko",
+    "labels": []
   }
 ]
