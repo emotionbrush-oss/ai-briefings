@@ -3487,5 +3487,65 @@
       "HBM",
       "메모리"
     ]
+  },
+  {
+    "date": "2026-08-29",
+    "category": "bottleneck",
+    "title": "SK하이닉스, 美 인디애나 HBM 패키징 공장 착공…2028년 미국산 HBM 양산",
+    "summary": "SK하이닉스가 8월 27일 미국 인디애나주에서 약 5조5000억원을 투입하는 첨단 패키징 공장 착공식을 열고 2028년 하반기부터 HBM 등 AI 메모리를 현지 양산하겠다고 밝혔다. 국내에서 만든 웨이퍼를 미국에서 패키징해 곧바로 공급하는 구조로, 미국 내 AI 메모리 공급망 병목을 완화하려는 조치다. 퍼듀대와도 첨단 패키징 공동연구 협약을 맺었다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/2026082881467",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "category": "bottleneck",
+    "title": "MS-크로노스케일, 50MW AI 인프라 구축 제휴…전력이 새로운 병목",
+    "summary": "마이크로소프트가 스타트업 크로노스케일과 2년간 북미에 엔비디아 GB300 NVL72 시스템 기반 AI 컴퓨팅 50MW를 구축하는 파트너십을 체결했다. 업계에서는 이번 계약이 GPU 확보보다 전력 용량 확보가 더 큰 제약으로 떠오른 사례로 보고 있으며, 배치는 2027년 1분기 완료가 목표지만 자금조달은 아직 확정되지 않았다.",
+    "source": "GlobeNewswire",
+    "url": "https://www.manilatimes.net/2026/08/27/tmt-newswire/globenewswire/chronoscale-announces-ai-infrastructure-partnership-with-microsoft-for-50-mw-ai-compute-deployment-in-north-america/2413329",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "category": "bottleneck",
+    "title": "엔비디아, 아마존에 GPU 200만개 추가 공급 계약",
+    "summary": "엔비디아가 아마존에 GPU 200만개를 추가로 공급하기로 했다고 8월 26일 발표했다. 엔비디아는 실적발표에서 AI 칩 수요가 전혀 꺾이지 않았으며 반도체 공급이 더 원활해진다면 매출 성장률이 한층 높아질 수 있다고 밝혀, 여전히 GPU 공급이 수요를 따라가지 못하는 상황임을 시사했다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260827000043",
+    "lang": "ko",
+    "labels": [
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "category": "tech",
+    "title": "보스반도체, 칩렛 기반 차량용 AI 반도체 '이글-N' 공개",
+    "summary": "국내 스타트업 보스반도체가 미국 반도체 컨퍼런스 '핫칩스 2026'에서 칩렛 구조를 적용한 차량용 AI 가속기 '이글-N'을 공개했다. 메모리와 연산 유닛 간 데이터 이동 효율을 높이는 설계로 2000TOPS 이상까지 성능 확장이 가능하며, 자율주행·인포테인먼트용 멀티모달 AI 추론 수요에 대응한다. 2026년 양산이 목표다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/future/2026/08/26/2026082616595533239",
+    "lang": "ko",
+    "labels": [
+      "ASIC",
+      "인터커넥트"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "category": "service",
+    "title": "세일즈포스, AI 에이전트 'Agentforce' 연매출 1.5조원 돌파",
+    "summary": "세일즈포스가 8월 26일 발표한 2027 회계연도 2분기 실적에서 AI 에이전트 플랫폼 'Agentforce'의 연간반복매출(ARR)이 전년 대비 240% 이상 늘어난 15억달러를 넘어섰다고 밝혔다. AI·데이터 관련 ARR은 40억달러에 육박하며, 이에 힘입어 세일즈포스는 연간 매출 가이던스를 상향 조정했다.",
+    "source": "Salesforce",
+    "url": "https://www.salesforce.com/news/press-releases/2026/08/26/fy27-q2-earnings/",
+    "lang": "en",
+    "labels": []
   }
 ]
