@@ -3616,5 +3616,40 @@
     "url": "https://www.hankyung.com/article/202608288440i",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-08-31",
+    "category": "bottleneck",
+    "title": "AI칩 패키징 새 병목 '마이크로솔더볼'…공급이 수요 못 따라가",
+    "summary": "AI 인프라 투자가 예상보다 빠르게 확대되면서 AI 가속기용 FC-BGA 기판에 쓰이는 초미세 접합 소재 마이크로솔더볼(MSB) 수급이 타이트해지고 있다. IBK투자증권은 메모리와 고성능 기판 수요가 동시에 늘면서 솔더볼·마이크로솔더볼 모두 공급이 수요를 따라가지 못하는 상황이라고 진단했다.",
+    "source": "파이낸셜뉴스",
+    "url": "https://www.fnnews.com/news/202608271444004097",
+    "lang": "ko",
+    "labels": [
+      "패키징",
+      "소재"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "category": "bottleneck",
+    "title": "엔비디아 투자사 람다, GPU 확보용 사모채 10억달러 추가 조달…한달새 20억달러",
+    "summary": "AI 클라우드 업체 람다가 마이크로소프트에 임대할 엔비디아 GPU를 사들이기 위해 JP모건 주관으로 약 10억달러 규모의 사모 단기채를 추가 조달했다. 이달 초 마무리된 9억2600만달러 대출에 이은 것으로, 한 달 새 GPU·인프라 구매 자금으로만 20억달러를 끌어모은 셈이다. GPU 확보 경쟁이 치열해지면서 신용도가 높지 않은 AI 클라우드 업체들까지 대규모 부채로 물량을 선점하는 흐름이 뚜렷해지고 있다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/nvidia-backed-lambda-inks-1-billion-private-debt-for-chip-deal",
+    "lang": "en",
+    "labels": [
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "category": "service",
+    "title": "AI 에이전트 도입 기업 40%…매출 10억달러 이상 기업서 가장 빨라",
+    "summary": "맥킨지가 발표한 '2026년 AI 현황' 보고서에 따르면 연매출 10억달러를 넘는 기업 중 AI 에이전트를 하나 이상 사용 중이라고 답한 비율이 40%에 달했다. 대형 기업일수록 AI 에이전트 도입 속도가 빨라지면서 기업 규모별 AI 활용 양극화가 커지고 있다는 분석이다.",
+    "source": "아주경제",
+    "url": "https://www.ajunews.com/view/20260831143222865",
+    "lang": "ko",
+    "labels": []
   }
 ]
