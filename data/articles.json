@@ -3651,5 +3651,53 @@
     "url": "https://www.ajunews.com/view/20260831143222865",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-09-01",
+    "category": "bottleneck",
+    "title": "어플라이드머티리얼즈 \"HBM 장비 납기 지연, 해소까지 2~3년 더 걸린다\"",
+    "summary": "어플라이드머티리얼즈코리아가 8월 31일 서울에서 연 미디어 브리핑에서 HBM 생산장비 납기 지연이 해소되기까지 앞으로 2~3년이 더 걸릴 것이라고 밝혔다. 회사 측은 하이브리드 본딩 상용화 시점은 장비가 아니라 삼성전자·SK하이닉스 등 고객사의 결정에 달려 있다고 설명했다.",
+    "source": "헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10857714",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "category": "tech",
+    "title": "SK하이닉스, 차세대 HBM 베이스 다이 생산 인텔 파운드리에도 맡긴다",
+    "summary": "SK하이닉스가 그동안 TSMC에 전량 위탁해온 HBM 베이스 다이 생산을 7세대 HBM4E부터 인텔 파운드리에도 맡기는 방안을 검토 중인 것으로 8월 31일 전해졌다. 특정 파운드리에 대한 의존도를 낮춰 원가와 공급 안정성을 확보하려는 멀티 벤더 전략으로, TSMC 패키징 병목에 대응하는 공급망 다변화 움직임으로 풀이된다.",
+    "source": "헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10857004",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "파운드리"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "category": "bottleneck",
+    "title": "AI 클라우드 아이렌, 2026년 컴퓨팅 용량 대부분 매진…확정매출 4조원대",
+    "summary": "미국 AI 클라우드 인프라 기업 아이렌(IREN)이 2026년 제공 가능한 GPU 컴퓨팅 용량 대부분이 이미 계약으로 소진됐으며, 확정 연간반복매출(ARR)이 40억달러에 달한다고 밝혔다. 코히어, 퍼플렉시티, 피규어AI 등과 다년 계약을 맺으며 대규모 GPU 확보 경쟁 속에 컴퓨팅 자원 자체가 품귀 상태임을 보여준다.",
+    "source": "CBC뉴스",
+    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=601940",
+    "lang": "ko",
+    "labels": [
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "category": "service",
+    "title": "전 국민 무료 AI 서비스 '모두의 AI', SKT·카카오·KT 최종 사업자 선정",
+    "summary": "과학기술정보통신부가 8월 28일 국민 누구나 쓸 수 있는 AI 에이전트 서비스 '모두의 AI' 사업자로 SK텔레콤·카카오·KT 3개 컨소시엄을 최종 선정했다고 밝혔다. 응모한 6개 컨소시엄 중 절반이 관문을 통과했으며, 정부는 선정된 사업자에 올해 GPU B200 512장을 지원해 연내 대국민 서비스를 시작할 계획이다.",
+    "source": "한국일보",
+    "url": "https://www.hankookilbo.com/news/article/A2026082809270004818",
+    "lang": "ko",
+    "labels": []
   }
 ]
