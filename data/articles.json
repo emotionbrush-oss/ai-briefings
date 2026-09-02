@@ -3699,5 +3699,184 @@
     "url": "https://www.hankookilbo.com/news/article/A2026082809270004818",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-09-02",
+    "category": "bottleneck",
+    "title": "TSMC, CoWoS 장비 발주 늦추면서도 차세대 CoPoS 패키징 준비 착수",
+    "summary": "TSMC가 2027년분 CoWoS 첨단 패키징 장비 발주를 늦춘 것으로 알려지며 일각에서는 CoWoS 공급 과잉 신호로 해석했지만, 장비업체들은 실제 수요는 줄지 않았다고 반박했다. 업계에서는 TSMC의 진짜 과제가 단순 캐파 확장을 넘어 차세대 CoPoS 패키징 전환 준비로 옮겨가고 있다는 분석이 나온다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260901PD219/tsmc-cowos-equipment-packaging-capacity.html",
+    "lang": "en",
+    "labels": [
+      "패키징",
+      "파운드리"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "category": "bottleneck",
+    "title": "\"데이터센터 막으면 표도 없다\"…美 건설노조, 중간선거 앞두고 정치권에 경고",
+    "summary": "미국 건설노조들이 데이터센터 규제·모라토리엄을 추진하는 정치인들에게 중간선거에서 지지를 철회하겠다고 경고하고 나섰다. 데이터센터가 지역 주민 반발과 노동계 일자리 이해관계가 충돌하는 뜨거운 선거 쟁점으로 부상하면서, 곳곳의 건설 인허가·규제 리스크가 커지고 있다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/202608312991i",
+    "lang": "ko",
+    "labels": [
+      "규제",
+      "인재부족"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "category": "bottleneck",
+    "title": "美 일리노이 레이크카운티, 데이터센터 8개월 건설 모라토리엄 최종 승인 목전",
+    "summary": "일리노이주 레이크카운티에서 비법인 지역 내 신규 데이터센터 건설을 8개월간 중단하는 모라토리엄 안건이 위원회를 통과해 9월 8일 카운티 의회 최종 표결만 남겨두게 됐다. 전력·수자원 인프라와 환경 영향에 대한 평가 기준이 마련될 때까지 신규 부지 확보를 사실상 막는 조치로, 시카고 등 인근 지역의 데이터센터 반대 확산 흐름과 맞닿아 있다.",
+    "source": "Daily Herald",
+    "url": "https://www.dailyherald.com/20260902/news/data-center-moratorium-set-to-advance-in-lake-county/",
+    "lang": "en",
+    "labels": [
+      "부지",
+      "규제"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "category": "bottleneck",
+    "title": "GPU·HBM 품귀 이어 이번엔 CPU 씨가 말랐다…에이전틱 AI가 부른 새 병목",
+    "summary": "GPU, HBM에 이어 서버의 핵심 부품인 CPU까지 품귀 현상을 빚고 있다는 분석이 나왔다. 챗봇 시대에는 GPU 4~8개당 CPU 1개면 충분했지만, AI가 스스로 판단하고 행동하는 '에이전틱 AI' 시대로 넘어가며 CPU 수요가 급증해 공급이 이를 따라가지 못하고 있다.",
+    "source": "디지털데일리",
+    "url": "https://www.ddaily.co.kr/page/view/2026090212154312805",
+    "lang": "ko",
+    "labels": [
+      "부품",
+      "공급망"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "category": "tech",
+    "title": "삼성전자, 세미콘 타이완서 'C.U.B.E' 메모리 전략 공개…HBM5·zNAND-O 로드맵 제시",
+    "summary": "삼성전자가 세미콘 타이완 2026에서 용량·최적화·대역폭·효율을 축으로 한 'C.U.B.E' 메모리 전략을 공개했다. HBM5 성능을 기존 대비 2배로 끌어올리고 2028년 zNAND-O 샘플링을 목표로 제시하며 차세대 AI 메모리 병목 해소 로드맵을 밝혔다.",
+    "source": "헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10859156",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "HBM",
+      "낸드"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "category": "tech",
+    "title": "트룸프, 초단펄스 레이저로 AI 칩 내장형 냉각 채널 양산기술 공개",
+    "summary": "독일 트룸프가 세미콘 타이완에서 초단펄스 레이저로 실리콘카바이드·다이아몬드에 미세 냉각 채널을 새기는 신기술을 최초 공개했다. 기존 에칭 방식보다 최소 5배 빠른 속도로 정밀한 냉각 구조를 칩 스택에 직접 통합할 수 있어 차세대 AI 프로세서의 발열 병목 해소가 기대된다.",
+    "source": "Electronics Journal",
+    "url": "https://electronics-journal.com/news/114248-trumpf-showcases-integrated-ai-chip-cooling-technology-at-semicon-taiwan",
+    "lang": "en",
+    "labels": [
+      "냉각",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "category": "tech",
+    "title": "삼성전기, 세미콘 타이완 첫 참가…AI용 유리기판 청사진 공개",
+    "summary": "삼성전기가 세미콘 타이완 2026에 처음 참가해 유리기판 전문가 강두안 부사장을 기조연사로 내세워 AI용 대면적·다층 유리기판 기술 로드맵을 공개했다. 빅테크 고객사와 데이터센터용 유리기판을 공동 개발 중이며 2028년 양산을 목표로 한다.",
+    "source": "헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10855763",
+    "lang": "ko",
+    "labels": [
+      "유리기판",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "category": "tech",
+    "title": "한화세미텍, 세미콘 타이완서 패널레벨패키징·하이브리드 본더 신제품 공개",
+    "summary": "한화세미텍이 세미콘 타이완 2026에서 600×600㎜ 사각 패널을 활용하는 팬아웃 패널레벨패키징(FO-PLP) 장비 'SFM5 스퀘어'를 처음 공개했다. 기존 웨이퍼 기반 공정 대비 원가를 절감·생산 효율을 높이며, 하이브리드 본더 'SHB2 나노' 등 HBM용 첨단 패키징 장비 라인업도 함께 선보였다.",
+    "source": "아시아경제",
+    "url": "https://www.asiae.co.kr/article/2026090214113097498",
+    "lang": "ko",
+    "labels": [
+      "패키징",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "category": "tech",
+    "title": "한미반도체, 세미콘 타이완서 AI 반도체용 2.5D 패키징 장비 5종 공개",
+    "summary": "한미반도체가 세미콘 타이완 2026에서 AI 시스템반도체용 2.5차원(2.5D) TC 본더와 HBM용 TC 본더 등 첨단 패키징 장비 5종을 공개했다. 고대역폭메모리와 로직칩을 정밀 접합하는 본딩 기술로 AI 칩 패키징 병목 해소에 대응한다.",
+    "source": "헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10860302",
+    "lang": "ko",
+    "labels": [
+      "패키징",
+      "HBM",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "category": "service",
+    "title": "Maase Inc., 광저우 촹옌과 RMB1476만 규모 AI 컴퓨팅 서비스 계약 체결",
+    "summary": "나스닥 상장사 Maase Inc.의 자회사 화룽퓨처(쓰촨)가 광저우 촹옌정보기술과 12개월간 90P급 FP16 컴퓨팅 파워를 제공하는 컴퓨팅 서비스 계약을 체결했다. 총 계약금액은 RMB1476만원(월 RMB123만원)이며, 회사는 이번 계약으로 엔터프라이즈 AI 인프라 서비스 사업을 추가로 확장한다고 밝혔다.",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/09/01/3354200/0/en/maase-inc-signs-rmb14-76-million-ai-computing-services-contract-further-expanding-enterprise-ai-infrastructure-services.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-09-02",
+    "category": "service",
+    "title": "리졸브AI, 상반기 매출 21배 급증한 1억3080만달러 기록…구글이 인프라 전략 검증",
+    "summary": "리졸브AI(RZLV)가 2026년 상반기 매출로 전년 동기(630만달러) 대비 약 1970% 증가한 1억3080만달러를 기록했다고 발표했다. 구글이 자사 클라우드 인프라에 리졸브의 분산 데이터베이스 기술을 도입하며 전략을 검증했고, 고객사 수는 1640곳 이상으로 늘었으며 회사는 연간 매출 3억6000만달러 가이던스를 재확인했다.",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/09/01/3354074/0/en/rezolve-ai-reports-130-8-million-h1-revenue-up-nearly-21-fold-as-google-validates-its-infrastructure-strategy-for-the-agentic-economy.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-09-02",
+    "category": "service",
+    "title": "인도 E2E네트웍스, 소버린 AI 고객과 1050억원 규모 AI 인프라 계약 체결",
+    "summary": "인도 클라우드 기업 E2E네트웍스가 국내 소버린 AI 기업과 2029년 6월까지 유효한 100억루피(약 1050억원) 규모의 구속력 있는 텀시트를 체결했다고 공시했다. 이번 계약으로 지난 5월부터 종량제로 제공하던 엔비디아 블랙웰 GPU 용량이 장기 계약 형태로 전환된다.",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/markets/capital-market-news/e2e-networks-rises-after-signing-rs-1-000-crore-ai-infrastructure-term-sheet-126090100220_1.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-09-02",
+    "category": "service",
+    "title": "\"자율주행 트럭에 휴머노이드 로봇까지\"…물류업계, AI 전환 가속",
+    "summary": "국내 물류업계가 운송부터 물류센터 운영까지 전 과정에 AI를 접목하며 체질 전환에 속도를 내고 있다. 한진은 국내 최초로 25톤 자율주행 트럭을 활용한 유상운송 서비스를 전북 군산항~대전 메가허브 구간(약 118km)에서 실제로 시작했고, CJ대한통운은 로보티즈와 AI 휴머노이드 로봇의 물류 현장 실증을 진행하는 등 피지컬 AI 도입이 본격화되고 있다.",
+    "source": "이데일리",
+    "url": "https://www.edaily.co.kr/News/Read?newsId=03627686645575856",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-09-02",
+    "category": "other",
+    "title": "폭염·가뭄에 배추·사과 등 추석 성수품 가격 급등",
+    "summary": "추석을 앞두고 기록적인 폭염과 가뭄으로 배추 소매가격이 한 달 전보다 26% 넘게 뛰고 사과(후지)도 22% 이상 오르는 등 성수품 가격이 급등했다. 정부는 물가 안정을 위해 역대 최대 규모의 농축산물 할인 지원과 배추·무·사과 등 19개 품목 18만3000톤 공급 계획을 발표했다.",
+    "source": "헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10859894",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-09-02",
+    "category": "other",
+    "title": "중동 전쟁과 폭염 겹쳐 빵·설탕·코코아 국제가격 급등",
+    "summary": "국제 농산물 가격지수가 한 달 새 13% 올라 14년 만에 최대 월간 상승폭을 기록했다. 서아프리카 폭염·가뭄으로 코코아, 브라질 이상고온으로 커피, 우크라이나·러시아 전쟁으로 밀·옥수수 등 곡물 공급이 차질을 빚으며 설탕·코코아 가격이 약 20% 뛰는 등 전 세계 식품 물가에 부담을 주고 있다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/202608314801i",
+    "lang": "ko",
+    "labels": []
   }
 ]
