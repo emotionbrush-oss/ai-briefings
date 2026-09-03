@@ -3878,5 +3878,82 @@
     "url": "https://www.hankyung.com/article/202608314801i",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-09-03",
+    "category": "bottleneck",
+    "title": "마이크론 대만 HBM 공장 파업 위기…보너스 격차에 노조 80% 파업 찬성",
+    "summary": "마이크론의 대만 타오위안·타이중 HBM 생산기지에서 노조원 약 1만명 중 80%가 예비조사에서 파업에 찬성한 것으로 나타났다. 삼성전자·SK하이닉스가 영업이익의 10% 안팎을 성과급으로 지급하는 것과 달리 마이크론의 인센티브 제도는 불투명하고 실제 지급액이 낮다는 불만이 배경으로, 9월 중순까지 조정이 결렬되면 정식 파업 투표로 이어질 수 있어 AI 메모리 공급망에 차질 우려가 커지고 있다.",
+    "source": "Tech Times",
+    "url": "https://www.techtimes.com/articles/326311/20260902/micron-taiwan-strike-risk-hbm-workers-claim-share-ai-memory-supercycle.htm",
+    "lang": "en",
+    "labels": [
+      "HBM",
+      "인재부족"
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "category": "tech",
+    "title": "스페인 아이프로닉스, 엔비디아 참여로 1250억원 시리즈B 유치…광회로 스위칭으로 AI 인터커넥트 병목 공략",
+    "summary": "실리콘 포토닉스 기반 광회로 스위칭(OCS) 기술을 개발하는 스페인 스타트업 아이프로닉스가 매버릭실리콘·라이트스트리트캐피털 주도로 1억2500만달러 규모 시리즈B를 유치했으며 엔비디아도 투자자로 참여했다. 랙 단위로 AI 데이터센터 내 광연결을 밀리초 이하로 재구성할 수 있는 제품으로, GPU 클러스터가 커질수록 심화되는 칩 간 통신 병목을 해결할 기술로 주목받는다.",
+    "source": "GlobeNewswire (HPCwire)",
+    "url": "https://www.globenewswire.com/news-release/2026/09/02/3355203/0/en/ipronics-raises-125-million-to-scale-programmable-optical-networking-for-ai-data-centers.html",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트"
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "category": "tech",
+    "title": "에쓰오일, KTNF·GST와 AI 데이터센터용 액침냉각 밸류체인 구축",
+    "summary": "에쓰오일이 서버 제조사 KTNF, 냉각장비 전문기업 GST와 손잡고 AI 데이터센터용 액침냉각 기술의 성능·안정성을 검증하는 실증에 나선다고 밝혔다. 에쓰오일이 액침냉각유 'e_Cooling Solution'과 기술 컨설팅을, KTNF가 서버와 실증 환경을, GST가 냉각 장비 운영을 맡아 KTNF 본사 마이크로 데이터센터에서 테스트를 진행하며, 향후 국산 서버·냉각유·장비를 잇는 공급망으로 확장할 계획이다.",
+    "source": "아시아경제",
+    "url": "https://view.asiae.co.kr/article/2026090311423680651",
+    "lang": "ko",
+    "labels": [
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "category": "service",
+    "title": "LS일렉트릭, KT클라우드와 AI 데이터센터 전력 인프라 공급 MOU",
+    "summary": "LS일렉트릭이 KT클라우드와 AI 데이터센터 확장에 대응하는 전략적 파트너십 MOU를 체결했다. LS일렉트릭은 KT클라우드의 신규 AI 데이터센터에 초고압 변압기·가스절연개폐장치(GIS)·배전반을 공급하고 향후 UPS·냉방설비까지 공급 범위를 넓힐 계획이며, 두 회사는 모듈형 데이터센터에 최적화한 전력 솔루션도 공동 연구하기로 했다.",
+    "source": "아시아경제",
+    "url": "https://view.asiae.co.kr/article/2026090307474340291",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-09-03",
+    "category": "service",
+    "title": "美 육군, 팔란티어·안두릴에 AI 표적지휘체계 'TITAN' 양산 발주 1억9200만달러",
+    "summary": "미 육군이 AI 기반 전술정보표적화노드(TITAN) 체계를 시제품 단계에서 양산 단계로 전환하며 팔란티어에 1억2700만달러, 안두릴에 6500만달러 규모 발주를 냈다. 어드밴스드 4대·베이직 4대 등 총 8개 체계를 18개월에 걸쳐 납품하는 계약으로, 팔란티어는 L3해리스·시에라네바다 등과 함께 생산을, 안두릴은 차량 탑재형 체계의 전력·열관리 통합을 맡는다.",
+    "source": "DefenseScoop",
+    "url": "https://defensescoop.com/2026/09/01/army-titan-platform-production-awards-palantir-anduril/",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-09-03",
+    "category": "other",
+    "title": "우크라이나 드론 공격으로 러시아 정제시설 타격…글로벌 정유 부족 2027년까지 지속 전망",
+    "summary": "우크라이나의 드론 공격으로 러시아 정유설비의 약 20% 이상이 가동 중단되면서 러시아의 원유 처리량이 하루 550만 배럴에서 350만 배럴 수준으로 줄었다. 러시아의 경유 수출 금지 조치와 맞물려 전 세계 경유·휘발유·항공유 공급이 빠듯해지고 있으며, 다른 지역의 여유 정제능력도 부족해 2027년까지 높은 연료 가격이 이어질 것으로 전망된다.",
+    "source": "The National (OilPrice.com 인용)",
+    "url": "https://www.thenationalnews.com/business/energy/2026/09/03/global-refining-crunch-to-keep-fuel-prices-high-into-2027/",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-09-03",
+    "category": "other",
+    "title": "유럽, 15년 만에 최저 가스 재고로 겨울 진입…호르무즈 해협 봉쇄 여파",
+    "summary": "유럽연합의 천연가스 재고율이 65%까지 떨어져 15년 만에 최저 수준으로 겨울을 맞이하게 됐다. 카타르산 LNG 도입을 기대하며 구매를 미뤄온 유럽 유틸리티들이 이란-미국 충돌로 호르무즈 해협 통행이 제한되면서 물량 확보에 차질을 빚은 것이 원인으로, 겨울철 가스 가격이 2022년 에너지 위기 이후 처음으로 메가와트시당 100유로를 넘길 수 있다는 우려가 나온다.",
+    "source": "Seoul Economic Daily",
+    "url": "https://en.sedaily.com/international/2026/09/03/europe-enters-winter-with-gas-storage-at-15-year-low",
+    "lang": "en",
+    "labels": []
   }
 ]
