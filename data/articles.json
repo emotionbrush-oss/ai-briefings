@@ -3955,5 +3955,51 @@
     "url": "https://en.sedaily.com/international/2026/09/03/europe-enters-winter-with-gas-storage-at-15-year-low",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-09-04",
+    "category": "bottleneck",
+    "title": "TSMC, AI 수요에 장비 발주 1.9배로 확대…신규 팹 건설 현장은 숙련 인력 부족 여전",
+    "summary": "TSMC가 AI 반도체 수요 폭증에 대응해 올해 장비 발주 규모를 지난해 12월 전망치의 약 1.9배로 늘렸다. 그러나 세계 곳곳에서 짓고 있는 20여개 신규 팹 건설 현장에서는 숙련 건설 인력 부족으로 조달·인력 계획이 기존 주기를 벗어나는 등 병목이 계속되고 있다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20260903PD217/tsmc-equipment-demand-supply-chain-taiwan.html",
+    "lang": "en",
+    "labels": [
+      "장비",
+      "인재부족"
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "category": "tech",
+    "title": "TSMC, 칩 내장형 '마이크로채널 냉각' 로드맵 공개…5년 내 AI 시스템 전력 6배 증가 전망",
+    "summary": "TSMC 첨단패키징 연구개발 책임자가 향후 5년간 AI 시스템의 전체 소비 전력이 최대 6배까지 늘어날 수 있다며, 칩 내부에 냉각 유로를 새기는 '마이크로채널 냉각' 기술을 차세대 연구개발 로드맵에 포함시켰다고 밝혔다. 기존 공랭·콜드플레이트 방식으로는 감당하기 어려운 발열 문제를 첨단 패키징 단계에서부터 해결하겠다는 전략이다.",
+    "source": "TrendForce",
+    "url": "https://www.trendforce.com/news/2026/09/02/news-tsmc-eyes-chip-level-microchannel-cooling-as-ai-system-power-could-rise-6x-in-five-years/",
+    "lang": "en",
+    "labels": [
+      "냉각",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "category": "service",
+    "title": "네이버클라우드 컨소시엄, 정부 '사이버보안 특화 AI' 개발사업자로 최종 선정",
+    "summary": "과학기술정보통신부가 사이버보안 특화 AI 파운데이션 모델 개발 공모에서 SK텔레콤과 경쟁한 네이버클라우드 컨소시엄을 최종 사업자로 선정했다. 산·학·연·공공기관 33곳이 참여해 국가 핵심시설 보안에 특화된 AI 모델을 구축하며, 네이버클라우드는 GPU B200 256장을 지원받아 사업을 수행한다.",
+    "source": "아시아경제",
+    "url": "https://view.asiae.co.kr/article/2026090310522726561",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-09-04",
+    "category": "service",
+    "title": "美 오클라호마 데이터센터, AI 임차 계약으로 최대 15년간 32억달러 수익 확보",
+    "summary": "호스트 디지털 인프라스트럭처가 오클라호마주 43메가와트 규모 데이터센터에 대해 세계 최대 비상장 클라우드 인프라 기업 중 한 곳과 15년 장기 임대차 계약을 체결했다. 기본 계약기간 확정 매출만 12억5000만달러이며, 갱신 옵션을 모두 행사하면 30년간 최대 32억달러까지 늘어난다. 이번 계약은 AI 데이터센터의 새 병목이 반도체가 아니라 '전력이 확보된 부지'임을 보여주는 사례로 꼽힌다.",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/08/31/3353118/0/en/hcwc-announces-host-digital-secures-1-25-billion-15-year-ai-data-center-lease.html",
+    "lang": "en",
+    "labels": []
   }
 ]
