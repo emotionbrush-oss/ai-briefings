@@ -4780,5 +4780,98 @@
     "url": "https://www.g-enews.com/article/Global-Biz/2026/09/202609171908328800fda4f5ab74_1",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-09-19",
+    "category": "bottleneck",
+    "title": "HBM 우선순위 밀린 게이밍 GPU…RTX 5090 품귀에 암시장가 1300만원 육박",
+    "summary": "엔비디아가 한정된 HBM 물량을 수익성 높은 AI 가속기에 우선 배정하면서 게이밍용 RTX 5090의 공급이 급격히 줄었다. 미국 주요 온라인 리테일에서 정식 재고가 일주일 만에 소진됐고, 서드파티 마켓 호가는 대당 최대 9500달러(약 1281만원)까지 치솟았다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/09/20260915092807623fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "GPU물량",
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "category": "bottleneck",
+    "title": "초대형 대신 '미니 데이터센터'…오픈AI·앤스로픽, 20~30MW 소규모 용량 물색",
+    "summary": "CNBC는 오픈AI와 앤스로픽이 기가와트급 초대형 시설 대신 20~30MW 규모의 소형 컴퓨팅 용량 확보 계약을 물색하고 있다고 보도했다. 대형 부지와 전력 확보가 지연되면서 우선 가동 가능한 소규모 용량으로 수요를 분산시키려는 움직임으로 풀이된다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20260918001161",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "부지"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "category": "bottleneck",
+    "title": "두산, AI 데이터센터용 동박적층판(CCL)에 9700억원 역대 최대 투자",
+    "summary": "두산이 AI 가속기·광모듈·네트워크스위치용 고사양 동박적층판(CCL) 생산라인 증설에 국내 4200억원, 중국 5500억원 등 총 9700억원을 투자한다. 기존 충북 증평·경북 김천 공장 가동률이 이미 100%를 넘어선 상황으로, 신규 라인은 2028년 하반기부터 순차 가동된다.",
+    "source": "파이낸셜뉴스",
+    "url": "https://www.fnnews.com/news/202609171824078916",
+    "lang": "ko",
+    "labels": [
+      "소재"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "category": "tech",
+    "title": "기가라이트, 액체냉각 없이 구동되는 1.6T급 AI 광트랜시버 공개",
+    "summary": "기가라이트가 ECOC 2026에서 공랭만으로 구동 가능한 1.6T OSFP224-HRO 실리콘포토닉스 트랜시버를 시연한다고 밝혔다. 최대 소비전력이 18W로 동급 3나노 풀-DSP 모듈 대비 28~35% 낮아, AI·HPC 데이터센터의 발열 부담과 냉각 비용을 줄일 수 있다.",
+    "source": "GIGALIGHT",
+    "url": "https://www.gigalight.com/news-events/news-10875.html",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "category": "tech",
+    "title": "SK·GS·HD현대·S-OIL '정유 4사', AI 데이터센터 액침냉각 시장 공략 가속",
+    "summary": "SK이노베이션, GS칼텍스, S-OIL, HD현대오일뱅크 등 국내 정유 4사가 AI 데이터센터용 액침냉각유 실증 사업을 잇달아 확대하고 있다. HD현대오일뱅크는 네이버클라우드에 전용 냉각유를 공급 중이며, SK엔무브는 LG전자·美 GRC와 손잡고 냉각수분배장치(CDU)·냉각액·침지탱크를 결합한 통합 솔루션 실증에 나섰다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/industry/2026/09/18/2026091714423641090",
+    "lang": "ko",
+    "labels": [
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "category": "service",
+    "title": "노보노디스크, 앤트로픽과 손잡고 'AI 신약개발' 가속화",
+    "summary": "위고비 제조사 노보노디스크가 앤트로픽과 협력해 신약 연구개발에 클로드 사이언스를 도입한다고 발표했다. 노보 소속 과학자와 데이터팀이 지목한 핵심 난제를 대상으로 생물학적 추론을 지원하는 맞춤형 워크플로를 우선 시범 적용하며, 데이터 거버넌스와 인적 검토 체계를 병행해 컴플라이언스를 준수한다는 계획이다.",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/09/16/3363106/0/en/novo-and-anthropic-will-collaborate-to-advance-drug-discovery-with-claude.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-09-19",
+    "category": "other",
+    "title": "2030년 유럽 배터리 공급 40% 부족 전망…K배터리 반사이익 기대",
+    "summary": "업계 분석에 따르면 2030년 중국의 배터리 공급 여력은 91%에 달하는 반면 유럽은 오히려 40%가 부족할 것으로 전망된다. 폴란드·헝가리 등에 현지 생산기지를 선제적으로 구축한 LG에너지솔루션·삼성SDI·SK온 등 국내 배터리 3사가 전기차 시장 회복과 맞물려 신규 수주 확대의 기회를 잡을 것으로 기대된다.",
+    "source": "아시아투데이",
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260916010006301",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-09-19",
+    "category": "other",
+    "title": "EU 핵심광물 전략 프로젝트 40%, 자금 확보 못해 좌초 위기",
+    "summary": "싱크탱크 ODI 분석 결과 EU가 신속 승인 대상으로 지정한 핵심광물 전략 프로젝트 중 약 40%가 구체적인 자금 조달 계획을 확보하지 못한 것으로 나타났다. 지정 후 18개월이 지난 현재 23개 프로젝트가 '즉각적인 좌초 위기'에 처했으며, 재원이 여러 부서에 파편화돼 있는 것이 근본 원인으로 지목됐다.",
+    "source": "Global Trade Review",
+    "url": "https://www.gtreview.com/news/europe/eu-still-lacks-financing-for-critical-minerals-projects-report/",
+    "lang": "en",
+    "labels": []
   }
 ]
