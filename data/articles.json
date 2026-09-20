@@ -4873,5 +4873,51 @@
     "url": "https://www.gtreview.com/news/europe/eu-still-lacks-financing-for-critical-minerals-projects-report/",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-09-20",
+    "category": "tech",
+    "title": "코히런트, ECOC 2026서 AI 데이터센터용 광학 신기술 대거 공개",
+    "summary": "코히런트가 스페인 말라가에서 열린 광통신 전시회 ECOC 2026에서 CPO·NPO, 차세대 광트랜시버, 광회로스위치 등 AI 인프라용 광인터커넥트 기술을 대거 선보였다. 다이아몬드 기반 신소재 '써마다이트' 등을 활용한 열관리 솔루션도 함께 공개해 고밀도 랙에서 커지는 발열·전력밀도 문제에 대응했다.",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/09/20/3365104/11543/en/coherent-showcases-optical-innovations-to-scale-ai-infrastructure-at-ecoc-2026.html",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "category": "tech",
+    "title": "온세미, AI 데이터센터용 전력·냉각 통합 플랫폼 'EPP' 공개",
+    "summary": "온세미가 전기·기계·열 설계를 초기 단계부터 통합한 확장형 전력 플랫폼 '임베디드 파워 플랫폼(EPP)'을 공개했다. 고객사가 AI 데이터센터에서 요구되는 높은 전력밀도와 발열 관리를 동시에 구현하도록 지원하며, 온세미는 AI 데이터센터 매출을 2026년 5억 달러대에서 2030년 25억 달러 이상으로 5배 이상 늘리겠다는 목표를 제시했다.",
+    "source": "테크월드",
+    "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407119",
+    "lang": "ko",
+    "labels": [
+      "전력반도체",
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "category": "service",
+    "title": "삼성전기, AI 서버용 MLCC 7000억원 추가 수주 눈앞…4개월새 4조원 육박",
+    "summary": "삼성전기가 글로벌 빅테크와 AI 서버용 적층세라믹커패시터(MLCC) 약 7000억원 규모의 장기공급계약을 막바지 조율 중이다. 지난 5월 이후 확보한 관련 수주에 이번 계약을 더하면 4조원에 육박하게 되며, GPU·HBM에 집중됐던 AI 특수가 전력·신호 제어용 수동부품까지 번지고 있음을 보여준다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/industry/2026/09/20/2026092015574728315",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-09-20",
+    "category": "other",
+    "title": "美 희토류 기업, 양자컴퓨팅·AI로 중국 의존 희토류 분리 기술 개발 나서",
+    "summary": "미국 희토류 기업 USA Rare Earth가 프랑스 양자컴퓨팅 기업 파스칼, 산업용 AI 기업 리븐 시스템즈와 손잡고 희토류 원소 분리를 위한 차세대 기술 개발 파트너십을 발표했다. 양자 머신러닝으로 기존보다 분리 효율이 높은 신소재를 찾아 소규모·저비용·저에너지 처리시설 구현을 목표로 하며, 중국이 독점한 희토류 공급망에서 벗어나려는 서방권의 노력 중 하나다.",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/09/17/3363836/0/en/usa-rare-earth-pasqal-and-riven-systems-partner-to-advance-next-generation-technologies-for-critical-mineral-production.html",
+    "lang": "en",
+    "labels": []
   }
 ]
