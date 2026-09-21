@@ -4919,5 +4919,51 @@
     "url": "https://www.globenewswire.com/news-release/2026/09/17/3363836/0/en/usa-rare-earth-pasqal-and-riven-systems-partner-to-advance-next-generation-technologies-for-critical-mineral-production.html",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-09-21",
+    "category": "bottleneck",
+    "title": "AI 슈퍼사이클, 1조5100억달러 반도체 시장 이면의 공급망 뇌관",
+    "summary": "세계반도체무역통계기구(WSTS)가 2026년 글로벌 반도체 매출을 전년 대비 89.9% 증가한 1조5100억 달러로 상향 전망했으며, AI 데이터센터 수요가 성장을 견인하고 메모리 부문 매출은 약 250% 늘어 8000억 달러를 넘어설 전망이다. 다만 중국이 희토류·핵심광물 통제를 강화하거나 거시경제가 위축될 경우 소재·부품·장비 공급망이 다시 흔들릴 수 있다는 우려도 함께 제기됐다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/09/202609201603158060fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "공급망",
+      "소재"
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "category": "tech",
+    "title": "中, EUV 없이 DUV 장비로 차세대 GAA 트랜지스터 구현",
+    "summary": "중국 연구진이 첨단 EUV 노광장비 없이 기존 심자외선(DUV) 장비만으로 3나노급 이하 공정에 필요한 게이트올어라운드(GAA) 트랜지스터 구조를 구현하는 데 성공했다고 밝혔다. 대중 수출통제로 EUV 장비 도입이 막힌 상황에서 노광 장비 병목을 우회하려는 시도로, 첨단 파운드리 공정의 대안 경로로 주목받는다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/09/2026092022130686930c8c1c064d_1",
+    "lang": "ko",
+    "labels": [
+      "파운드리",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "category": "service",
+    "title": "코어위브, 3분기 250억 달러 신규 계약 확보…전환사채도 37억 달러로 증액",
+    "summary": "AI 클라우드 기업 코어위브가 3분기 들어 250억 달러 이상의 순신규 고객 계약을 확보해 총 계약 전력 규모를 4.2기가와트로 늘렸다고 밝혔다. 회사는 AI 인프라 확장 자금을 조달하기 위해 2033년 만기 전환사채 발행 규모를 37억 달러로 늘리는 등 공격적인 투자를 이어가고 있다.",
+    "source": "AI매터스",
+    "url": "https://aimatters.co.kr/news-report/52601/",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-09-21",
+    "category": "other",
+    "title": "사우디 파이프라인 피격 여파…유조선 부족이 유가 떠받친다",
+    "summary": "사우디아라비아의 동서 송유관이 드론 공격과 바브엘만데브 해협 위협으로 가동을 멈추면서 초대형 유조선 하루 대여료가 100만 달러를 넘어서는 등 해상 운임이 사상 최고 수준으로 치솟았다. 월스트리트저널은 선박 부족이 심화되며 국제유가가 하락해도 소비자 연료 가격은 높은 수준을 유지할 것이라고 분석했다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/09/202609211330396526fbbec65dfb_1",
+    "lang": "ko",
+    "labels": []
   }
 ]
