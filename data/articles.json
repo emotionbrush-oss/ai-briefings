@@ -5550,5 +5550,41 @@
     "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026100107050940882bd56fbc3c_1",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-10-02",
+    "category": "bottleneck",
+    "title": "도시바, AI 메모리 공급난 속 필리핀 HDD 생산능력 2배 증설",
+    "summary": "HBM·낸드플래시 공급 부족과 가격 급등이 이어지면서 도시바가 필리핀의 HDD 생산 능력을 두 배로 늘리고 있다. 읽기·쓰기 속도는 느리지만 가격이 약 20배 저렴한 대용량 니어라인 HDD로 AI 데이터센터의 스토리지 병목을 완화하겠다는 구상이다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026100208311117620c8c1c064d_1",
+    "lang": "ko",
+    "labels": [
+      "저장장치",
+      "낸드"
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "category": "bottleneck",
+    "title": "디램값 폭등에 엔비디아, 메모리 용량 절반으로 줄인 모델 동일 가격 투입",
+    "summary": "D램 가격이 급등하자 엔비디아가 기존 128기가바이트 모델의 메모리를 절반인 64기가바이트로 줄인 구성을 같은 출고가에 대체 투입했다. 메모리 품귀가 최종 제품 사양 축소로까지 이어지고 있음을 보여준다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610030646309624fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "category": "service",
+    "title": "LS일렉트릭, 1812억원 규모 북미 변압기 공급 계약 체결",
+    "summary": "LS일렉트릭이 1812억원 규모의 북미 지역 변압기 공급 계약을 공시했다. AI 데이터센터 확산 등으로 전력 인프라 수요가 커지는 가운데 북미 변압기 시장에서의 수주 성과로 읽힌다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Securities/2026/10/20261001110508834044093b5d4e_1",
+    "lang": "ko",
+    "labels": []
   }
 ]
