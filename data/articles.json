@@ -5586,5 +5586,67 @@
     "url": "https://www.g-enews.com/article/Securities/2026/10/20261001110508834044093b5d4e_1",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-10-03",
+    "category": "bottleneck",
+    "title": "칩·기판·전력까지…2028년까지 이어질 하드웨어 공급 대란",
+    "summary": "AI 수요 폭증으로 반도체 칩, 기판, 전력 설비가 줄줄이 '없어서 못 파는' 상황이 2028년까지 이어질 것이라는 진단이 나왔다. 병목이 GPU에서 메모리·패키징 기판·전력 인프라 전반으로 번지고 있음을 보여준다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/2026100210181",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "패키징",
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "category": "bottleneck",
+    "title": "공급난 틈탄 삼성전자, HBM4 가격 3배 베팅…파운드리 적자 탈출 노린다",
+    "summary": "HBM 공급 부족이 이어지는 가운데 삼성전자가 HBM4를 높은 가격에 공급해 파운드리 부문의 적자 턴어라운드를 노린다는 분석이다. 공급자 우위 시장이 메모리 업체의 수익 구조를 바꾸고 있다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610031136088018fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "파운드리"
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "category": "tech",
+    "title": "무라타, 전기·광학·열 통합 CPO 로드맵 공개…AI 인터커넥트 정조준",
+    "summary": "무라타가 AI 데이터센터용 공동패키징광학(CPO) 기술 로드맵을 구체화했다. 광변조기, 패키지기판, 배선 기술 3개 축으로 2032년까지 전기·광학·열 기능을 통합하며, PIC와 EIC를 집적하는 기판 소재로는 열전도율이 높고 흡습이 적은 세라믹을 택했다.",
+    "source": "디일렉",
+    "url": "https://www.thelec.kr/news/articleView.html?idxno=63059",
+    "lang": "ko",
+    "labels": [
+      "광인터커넥트",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "category": "tech",
+    "title": "마이디어, 데이터센터 월드 아시아 2026서 고밀도 AI용 냉각 기술 공개",
+    "summary": "마이디어가 싱가포르에서 열린 데이터센터 월드 아시아 2026에서 고밀도 AI 데이터센터용 냉각 솔루션을 선보였다. 자기 베어링 CDU, 공랭식 자기 베어링 원심식 칠러, 산업용 CDU 등이 포함된다.",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/kr/news-releases/uB9C8uC774uB514uC5B4u002Cu002DuB370uC774uD130u002DuC13CuD130u002DuC6D4uB4DCu002DuC544uC2DCuC544u002Du0032u0030u0032u0036uC5D0uC11Cu002DuACE0-302896727.html",
+    "lang": "ko",
+    "labels": [
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "category": "other",
+    "title": "항공엔진 부품, 공급망 병목 속 슈퍼사이클 진입",
+    "summary": "항공 수요 증가와 공급망 병목이 맞물리며 항공엔진 부품 산업이 장기 호황 국면에 들어섰다. 숙련 인력 부족과 소수 공급업체 의존 탓에 작은 차질도 큰 생산 지연으로 번지며, 에어버스와 보잉의 수주잔고는 각각 9247대와 6758대로 약 12년치 물량에 달한다.",
+    "source": "이데일리",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02807686645514848",
+    "lang": "ko",
+    "labels": []
   }
 ]
