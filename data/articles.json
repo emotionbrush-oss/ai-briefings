@@ -5668,5 +5668,25 @@
     "url": "https://www.fnnews.com/news/202609251309375851",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-10-05",
+    "category": "service",
+    "title": "앤트로픽, 아카마이와 7년간 116억 달러 클라우드 계약…CPU 워크로드 수요 대응",
+    "summary": "아카마이가 앤트로픽과 7년간 116억 달러 규모의 계약을 체결했다고 발표했다. 최대 90억 달러 추가 확장 옵션이 있으며 앤트로픽에는 아카마이 지분 약 5%까지 매수할 수 있는 워런트가 발행됐다. 아카마이는 2027년 매출 1.5억~3억 달러, 2028년 말 연환산 약 17억 달러를 기대하며 약 55억 달러의 설비투자를 예상한다.",
+    "source": "Akamai",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-10-05",
+    "category": "other",
+    "title": "미·일·유럽은 10년간 정제능력 줄이고 중국은 늘렸다…디젤 공급 취약성 부각",
+    "summary": "선진국은 지난 10년간 정제능력을 연 0.2%씩 줄인 반면 중국은 연 2.3% 늘려, 미국-이란 전쟁 국면에서 중국이 완충 역할을 하고 있다. EU(-0.7%), 일본(-1.8%), 호주(-6.9%) 등이 크게 줄어 서방의 디젤 공급 병목 위험이 커졌다는 분석이다.",
+    "source": "Seoul Economic Daily",
+    "url": "https://en.sedaily.com/international/2026/10/05/us-japan-europe-cut-refining-for-a-decade-as-china-builds",
+    "lang": "en",
+    "labels": []
   }
 ]
