@@ -5790,5 +5790,53 @@
       "메모리",
       "부채"
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "category": "bottleneck",
+    "title": "칩 살 돈 있어도 꽂을 전기가 없다…AI 인프라 확장의 제약은 전력",
+    "summary": "EE타임스 보도에 따르면 악시아도 CEO는 AI 설비 확장을 막는 가장 큰 제약이 연산 칩이 아니라 전력 공급이라고 진단했다. 서버 플랫폼 관리 계층을 자동 제어하면 데이터센터 효율을 약 10% 높일 수 있다고 제시했다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610080731331639fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "category": "bottleneck",
+    "title": "오라클, AI 칩 확보하려다 부채 부담 확대…주가 5% 급락",
+    "summary": "오라클의 장기 부채가 최근 2년간 거의 두 배로 늘어 1,600억 달러를 넘어서며 주가가 5.4% 하락했다. AI 칩 전문 법인을 따로 세워 칩을 장기 리스로 쓰는 방안을 검토 중이다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Securities/2026/10/202610090609005142e250e8e188_1",
+    "lang": "ko",
+    "labels": [
+      "부채",
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "category": "tech",
+    "title": "삼성전자·SK하이닉스, AI 추론용 차세대 메모리 경쟁…전력효율 부각",
+    "summary": "추론 중심으로 바뀌는 AI 시장에 맞춰 삼성전자는 zHBM4와 LPDDR5X-PIM을, SK하이닉스는 LPDDR6를 내세우고 있다. 고가에 전력·발열 부담이 큰 HBM의 대안으로 저전력 메모리가 부각되고 있다.",
+    "source": "이데일리",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06294326645581104",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "저전력"
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "category": "service",
+    "title": "삼성증권 \"LG전자 AI 데이터센터 냉각솔루션 매출 2년 내 5조원 가능\"",
+    "summary": "삼성증권은 LG전자의 AI 데이터센터 냉각솔루션 매출이 올해 약 1조원에서 향후 2년 내 5조원까지 커질 수 있다고 보고 목표주가를 21만원에서 25만원으로 상향했다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Securities/2026/10/20261008084929713044093b5d4e_1",
+    "lang": "ko",
+    "labels": []
   }
 ]
