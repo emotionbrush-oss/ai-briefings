@@ -5926,5 +5926,31 @@
       "파운드리",
       "메모리"
     ]
+  },
+  {
+    "date": "2026-10-11",
+    "category": "bottleneck",
+    "title": "HBM 쏠림에 메모리 공급난 2028년까지…신규 설비도 고성능 제품에 집중",
+    "summary": "보고서는 AI 수요가 HBM에 몰리면서 일반 메모리까지 공급 부족이 이어지고 있다고 진단했다. 신규 생산시설 대부분이 HBM과 차세대 DDR 같은 고성능 제품에 집중돼, 본격적인 추가 공급은 2028년 이후에야 가능할 것으로 내다봤다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/industry/2026/10/11/2026100813061544235",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "category": "bottleneck",
+    "title": "모건스탠리 \"AI 전력난, 엔비디아·브로드컴은 방어…메모리·광학 부품주가 취약\"",
+    "summary": "모건스탠리는 미국 데이터센터의 전력 부족이 심해지면 구축 지연으로 납품이 밀리거나 주문이 취소될 수 있다고 분석했다. 엔비디아와 브로드컴은 상대적으로 영향이 적지만 메모리·광학 등 2차 부품 업체가 더 노출돼 있다고 봤다. 앞서 2028년까지 미국 개발사들이 32GW(34%)의 순전력 부족을 겪을 것으로 추정했다.",
+    "source": "The Star(로이터)",
+    "url": "https://www.thestar.com.my/tech/tech-news/2026/10/05/nvidia-broadcom-shielded-as-ai-power-crunch-hits-chip-supply-chain-says-morgan-stanley",
+    "lang": "en",
+    "labels": [
+      "전력",
+      "메모리"
+    ]
   }
 ]
