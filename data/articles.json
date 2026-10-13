@@ -5952,5 +5952,43 @@
       "전력",
       "메모리"
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "category": "bottleneck",
+    "title": "데이터센터 업계 \"AI 최대 병목은 전력과 인재\"…NTT데이터 CEO \"숨은 병목은 인력\"",
+    "summary": "블룸버그 뉴욕 신경제 포럼에서 대형 데이터센터 기업 경영진들이 데이터센터 건설이 AI 발전 속도를 간신히 따라가는 상황이며 핵심 제약은 에너지 접근성과 숙련 인력이라고 말했다. NTT데이터 CEO는 인재 부족을 '숨은 병목'이라고 짚었다.",
+    "source": "Bloomberg",
+    "url": "https://bloomberg.com/news/articles/2026-10-13/power-and-talent-biggest-ai-bottlenecks-say-data-center-firms",
+    "lang": "en",
+    "labels": [
+      "전력",
+      "인재부족"
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "category": "bottleneck",
+    "title": "AI 컴퓨팅 부족 심화…칩 임대 비용 60% 급등, 업체들 전력 확보 경쟁",
+    "summary": "AI 연산 자원 부족이 깊어지면서 GPU 등 칩 임대 비용이 약 60% 뛰었고 경쟁 업체들이 전력 확보에 나서고 있다는 보도다. 공급 부족이 단기간에 풀릴 조짐이 거의 없다는 분석이 함께 나왔다.",
+    "source": "investingLive",
+    "url": "https://investinglive.com/stocks/ai-compute-crunch-deepens-as-chip-rental-costs-jump-60-and-rivals-scramble-for-power",
+    "lang": "en",
+    "labels": [
+      "GPU물량",
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "category": "bottleneck",
+    "title": "AI 투자 열풍에 수익성 의문 확산…미 국채금리 24년 만의 최고, 반도체 실적 시험대",
+    "summary": "로이터를 인용한 보도에 따르면 투자자들이 막대한 설비투자가 얼마나 빨리 수익으로 이어지는지 더 엄격히 따지고 있다. 미국 국채금리가 24년 만의 최고 수준까지 오르며 대규모 투자를 하는 기업의 자금 조달 부담도 커졌고, 이번 주 반도체 기업 실적 발표가 시금석으로 꼽힌다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101218360735259a1f309431_1",
+    "lang": "ko",
+    "labels": [
+      "부채"
+    ]
   }
 ]
