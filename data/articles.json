@@ -5990,5 +5990,90 @@
     "labels": [
       "부채"
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "category": "bottleneck",
+    "title": "인텔 CEO \"AI 하드웨어 부족, 2~3년 더 갈 수 있다\"",
+    "summary": "립부 탄 인텔 CEO가 싱가포르에서 AI 인프라 수요가 공급을 계속 웃돌고 있다고 밝혔다. 메모리·웨이퍼·첨단 패키징 전반의 제약이 향후 2~3년간 크게 풀리기 어렵다는 전망이다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20261013PD219/intel-ceo-hardware-demand-infrastructure.html",
+    "lang": "en",
+    "labels": [
+      "메모리",
+      "패키징",
+      "파운드리"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "category": "bottleneck",
+    "title": "ASML \"AI 수요, 2028년까지 칩 제조장비 공급 초과\"",
+    "summary": "ASML은 2027~2028년 계획 생산량으로도 고객사의 장비 수요를 다 채우지 못할 것이라고 경고했다. CEO는 앞서 밝힌 30% 증산을 넘어 2028년 생산능력을 더 늘리는 방안을 검토 중이라고 말했다.",
+    "source": "Business Standard",
+    "url": "https://www.business-standard.com/technology/artificial-intelligence/ai-demand-for-chipmaking-tools-may-outpace-supply-in-next-2-years-asml-126101400485_1.html",
+    "lang": "en",
+    "labels": [
+      "장비",
+      "EUV"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "category": "bottleneck",
+    "title": "SK하이닉스, HBM4 후공정 장비 발주 일부 내년으로 연기 보도",
+    "summary": "한국 매체 보도에 따르면 SK하이닉스가 올해 하반기 예정이던 HBM4 후공정 장비 발주 일부를 내년으로 미룰 수 있다. 공급사와 금액은 공개되지 않았고 회사는 입장을 내지 않았다. 주가는 5거래일 연속 하락했다.",
+    "source": "24/7 Wall St.",
+    "url": "https://247wallst.com/investing/2026/10/14/sk-hynix-delays-hbm4-equipment-orders-as-its-stock-falls-5-days-straight",
+    "lang": "en",
+    "labels": [
+      "HBM",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "category": "bottleneck",
+    "title": "삼성전자·SK하이닉스 5%대 급락…중국 CXMT發 메모리 공급 확대 우려",
+    "summary": "중국 CXMT의 차세대 서버용 DDR5 출시 계획이 알려지며 두 회사 주가가 5% 넘게 하락했다. 증권가에서는 중국발 공급과잉을 지금 주가에 반영하기는 이르다고 보지만, 이익 불확실성이 투자심리를 약하게 만들고 있다.",
+    "source": "이투데이",
+    "url": "https://etoday.co.kr/news/view/2634997",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "category": "tech",
+    "title": "셀레스티카, 완전 수냉식 CPO 스위치 DS6005 공개",
+    "summary": "셀레스티카가 OCP 글로벌 서밋에서 브로드컴 토마호크6 기반, 102.4Tbps 용량의 완전 수냉식 CPO(광학 일체형) 스위치 DS6005를 공개했다. AI 스케일업·스케일아웃 네트워크에서 전력과 지연을 줄이는 것이 목표이며 성능 수치는 회사 주장이다.",
+    "source": "Data Centre Magazine",
+    "url": "https://datacentremagazine.com/news/what-does-celesticas-ds6005-cpo-switch-for-ai-fabrics-do",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "category": "other",
+    "title": "IEA \"경유 공급 부족 장기화…재고 회복은 2027년 하반기 이후\"",
+    "summary": "IEA는 연말 정유 처리량이 빠르게 회복돼도 올해 4분기 경유 수요를 채우기엔 물량이 부족하다고 진단했다. 재고 회복은 2027년 하반기 이전에는 어렵다는 전망이다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610142143544748b065b72042_1",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-10-14",
+    "category": "other",
+    "title": "미주엔 중질유 쌓이는데 아시아는 원유 부족…해상 운임이 시장을 갈라",
+    "summary": "미국 걸프만에서 아시아로 가는 초대형 원유운반선 운임이 급등하면서, 미주에는 중질유가 쌓이는 반면 아시아에서는 원유가 부족한 지역 간 불균형이 나타나고 있다는 보도다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610132108207482fda4f5ab74_1",
+    "lang": "ko",
+    "labels": []
   }
 ]
