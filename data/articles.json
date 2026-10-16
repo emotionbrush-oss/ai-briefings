@@ -6088,5 +6088,65 @@
       "파운드리",
       "패키징"
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "category": "bottleneck",
+    "title": "AI·반도체주 4거래일 만에 시총 1조 달러 증발…차입 비용·중국 추격 우려",
+    "summary": "AI 인프라 투자에 필요한 차입 비용 상승과 중국 CXMT의 메모리 추격 우려가 겹치며 글로벌 AI·반도체주가 나흘간 약 1조 달러의 시가총액을 잃었다. 엔비디아가 약 5% 하락했고 SK하이닉스·삼성전자 낙폭도 컸으며, 코스피는 주간 기준 2008년 10월 이후 최악의 성적을 기록했다.",
+    "source": "서울경제(영문)",
+    "url": "https://en.sedaily.com/international/2026/10/16/ai-chip-stocks-lose-1-trillion-in-market-value-in-four-days",
+    "lang": "en",
+    "labels": [
+      "부채",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "category": "tech",
+    "title": "엔비디아, 800V 직류 전력 방식 적용한 AI 데이터센터 'K-1' 공개",
+    "summary": "엔비디아가 800V 직류 전력 방식을 적용한 AI 데이터센터 설계 'K-1'을 공개했다. 폭스콘 계열 비전베이가 개발을 추진하며, 설비 전체를 한 번에 바꾸지 않고 효과가 큰 영역부터 단계적으로 도입하는 구조다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Industry/2026/10/20261013163036845139bf6e4b2_1",
+    "lang": "ko",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "category": "service",
+    "title": "NTT데이터, 앤트로픽 전용 일본 최대 AI 데이터센터 오사카에 건설 추진",
+    "summary": "NTT데이터가 앤트로픽 전용 AI 데이터센터를 오사카에 짓는 방안이 보도됐다. 건설비만 약 1조 엔으로 일본 역대 최대급 AI 인프라 프로젝트이며, 공식 계약 목표 시점은 2027년 3월이다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101322385334310c8c1c064d_1",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-10-16",
+    "category": "tech",
+    "title": "삼성·SK, SEDEX 2026서 메모리 내 연산(PIM) 전면에 내세워",
+    "summary": "삼성전자와 SK하이닉스가 SEDEX 2026에서 메모리 안에서 직접 연산까지 수행하는 PIM 기술을 앞세워 AI 반도체 시장을 두고 맞붙었다. 차세대 메모리 경쟁의 초점이 용량·대역폭에서 연산 기능으로 확장되는 흐름이다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Industry/2026/10/20261014140941824227fa31d75c_1",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "저전력"
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "category": "tech",
+    "title": "트렌드포스 \"AI 데이터센터 수요에 2031년 VCSEL 연간 수요 6억 5천만 개\"",
+    "summary": "트렌드포스는 구리선의 한계에 부딪힌 AI 데이터센터가 광 연결로 옮겨가면서 2031년 글로벌 VCSEL 연간 수요가 6억 5천만 개에 이를 것으로 전망했다. 광 인터커넥트 부품이 대역폭 병목의 해법으로 부상하고 있다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610091754544342fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "광인터커넥트"
+    ]
   }
 ]
