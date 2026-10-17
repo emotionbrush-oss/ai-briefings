@@ -6148,5 +6148,31 @@
     "labels": [
       "광인터커넥트"
     ]
+  },
+  {
+    "date": "2026-10-17",
+    "category": "bottleneck",
+    "title": "ITIF \"AI발 메모리 칩 부족, 시장 왜곡 없는 정책 대응이 필요\"",
+    "summary": "미국 ITIF는 AI 수요로 일부 메모리 칩 가격이 올해 3배 이상 오를 전망이며, 업계는 공급 부족이 최소 2027년, 길게는 2030년까지 이어질 수 있다고 본다고 짚었다. 이런 상황에서 정부가 섣불리 시장에 개입하기보다 정책 대응의 강도를 신중하게 조정해야 한다는 취지의 분석이다.",
+    "source": "ITIF",
+    "url": "https://itif.org/publications/2026/10/15/calibrating-the-right-policy-response-to-the-ai-driven-memory-chip-shortage/",
+    "lang": "en",
+    "labels": [
+      "메모리",
+      "규제"
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "category": "tech",
+    "title": "삼성·SK, 어플라이드 미국 반도체 R&D 허브에 창립 파트너로 합류",
+    "summary": "어플라이드 머티어리얼즈가 실리콘밸리에 약 50억 달러 규모의 반도체 R&D 센터를 공개했고, 삼성전자·SK하이닉스·TSMC·인텔·마이크론이 창립 파트너로 참여한다. 공정 기술과 제조 장비를 함께 개발하고 양산 적용 검증까지 한곳에서 진행하는 구조로, 고객 프로젝트에 따라 단계적으로 확대된다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Industry/2026/10/2026101314511016113084322ec9_1",
+    "lang": "ko",
+    "labels": [
+      "장비",
+      "패키징"
+    ]
   }
 ]
