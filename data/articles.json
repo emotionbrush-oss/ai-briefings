@@ -6174,5 +6174,15 @@
       "장비",
       "패키징"
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "category": "service",
+    "title": "아스트라제네카, AI 바이오 인시트로와 최대 15억 달러 신약 발굴 계약",
+    "summary": "아스트라제네카가 AI 신약개발 기업 인시트로와 지방간염(MASH)·심근병증 표적 발굴 협력 계약을 맺었다. 총액은 최대 15억 달러지만 선급금은 4천만 달러이고 나머지는 개발·상업화 마일스톤이며, 인시트로는 로열티도 받는다. AI 신약 계약이 대형화되고 있으나 실제 확정 매출은 선급금 수준에 그친다는 점이 눈에 띈다.",
+    "source": "Fierce Biotech",
+    "url": "https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery",
+    "lang": "en",
+    "labels": []
   }
 ]
