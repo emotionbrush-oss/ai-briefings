@@ -6184,5 +6184,44 @@
     "url": "https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-10-19",
+    "category": "bottleneck",
+    "title": "MS, 영국 엔스케일 데이터센터 컴퓨팅 임대 계약 철회…전력망 연결 2030년 이후로 지연",
+    "summary": "마이크로소프트가 영국 엔스케일의 로턴 데이터센터 컴퓨팅 임대 계약을 철회했다. 해당 부지의 전력망 연결이 2030년 이후로 늦어질 가능성이 제기된 것이 배경으로 보도됐다. 영국에서는 약 315개 데이터센터가 전력망 연결을 기다리는 것으로 알려져 전력 인프라가 AI 투자 일정을 좌우하는 사례다.",
+    "source": "글로벌이코노믹",
+    "url": "https://g-enews.com/article/Global-Biz/2026/10/2026101906484647602bd56fbc3c_1",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "부지"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "category": "bottleneck",
+    "title": "트렌드포스, 내년 HBM 평균판매가 121% 상승 전망…공급 부족 2027년까지 지속",
+    "summary": "트렌드포스는 HBM 공급 제약이 이어지면서 2027년 HBM 혼합 평균판매단가(ASP)가 전년 대비 121% 오를 것으로 전망을 상향했다. 차세대 제품의 수율과 생산량 확대에 시간이 걸려 메모리 공급이 2027년까지 빠듯할 것이라는 설명이다. 공급사들이 가격 인상에 더 강경한 입장을 취하고 있다는 점도 짚었다.",
+    "source": "서울경제(영문)",
+    "url": "https://en.sedaily.com/finance/2026/10/01/hbm-prices-to-more-than-double-in-2027-on-supply-crunch",
+    "lang": "en",
+    "labels": [
+      "HBM",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "category": "bottleneck",
+    "title": "중국, 남아도는 전력과 값싼 부지로 내륙 AI 데이터센터 건설 가속",
+    "summary": "중국이 반도체 공급 제약을 전력 여유와 저렴한 부지로 보완하려고 내몽골 등 내륙에 데이터센터를 빠르게 짓고 있다. 전력 병목에 시달리는 미국과 달리 전력 확보 측면에서 우위를 활용하는 전략으로 해석된다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/202610089838i",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "부지"
+    ]
   }
 ]
