@@ -6223,5 +6223,15 @@
       "전력",
       "부지"
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "category": "service",
+    "title": "엔스케일, 앤트로픽에 AI 컴퓨팅 공급하는 최대 450억 달러 규모 계약 협의",
+    "summary": "로이터 보도에 따르면 엔비디아가 후원하는 엔스케일이 앤트로픽과 약 450억 달러 규모의 AI 클라우드 컴퓨팅 공급 계약을 협의 중이다. 웨스트버지니아 캠퍼스에 두 번째 건물을 짓고 엔비디아 베라 루빈 칩을 투입하는 방안이 포함된다. 아직 확정된 계약은 아니며 앤트로픽은 논평 요청에 즉각 응하지 않았다.",
+    "source": "KSL(로이터·블룸버그 인용)",
+    "url": "https://www.ksl.com/article/51638329/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports",
+    "lang": "en",
+    "labels": []
   }
 ]
