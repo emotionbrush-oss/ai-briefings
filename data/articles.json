@@ -6233,5 +6233,68 @@
     "url": "https://www.ksl.com/article/51638329/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-10-21",
+    "category": "bottleneck",
+    "title": "골드만삭스 \"GPU를 사도 켤 전기가 없다\"…전력망 연결 지연이 AI 확장의 최대 병목",
+    "summary": "골드만삭스는 20일 보고서에서 미국 데이터센터 전력 수요가 올해와 내년 각각 38%씩 늘 것으로 추산했다. 자금이나 반도체 수급보다 전력 인프라 부족이 가장 치명적인 병목이며, 일부 전력 시장은 신규 데이터센터의 연결 요청을 거절해야 할 수 있다고 경고했다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/world/2026/10/21/2026102107295119895",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "전력망"
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "category": "bottleneck",
+    "title": "시스코코리아 \"GPU만 늘려선 안 돼\"…AI 데이터센터 병목으로 GPU 백엔드 네트워크 지목",
+    "summary": "시스코코리아는 20일 미디어 세션에서 AI 데이터센터의 주요 병목으로 GPU 백엔드 네트워크를 꼽았다. 해법으로 고성능 스위칭 ASIC과 800Gbps·1600Gbps급 스위치 등 구조적 개선을 제시했다.",
+    "source": "ZDNet Korea",
+    "url": "https://zdnet.co.kr/view/?no=20261020152215",
+    "lang": "ko",
+    "labels": [
+      "인터커넥트",
+      "ASIC"
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "category": "bottleneck",
+    "title": "노무라 \"메모리 공급난 2028년까지 지속\"…삼성전자·SK하이닉스 '매수' 유지",
+    "summary": "노무라증권은 AI 성장 둔화와 데이터센터 투자 위축 우려에도 메모리 반도체 공급 부족이 2028년까지 이어질 것으로 전망했다. 이에 삼성전자와 SK하이닉스에 대한 매수 의견을 유지했다.",
+    "source": "서울경제",
+    "url": "https://m.sedaily.com/article/20103819",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "category": "bottleneck",
+    "title": "AI 펀드 매도·IPO 차질에 코어위브 부채 부각…AI 투자 수익성 우려 재점화",
+    "summary": "헤지펀드의 AI 주식 매도 보도와 AI 인프라 기업의 IPO 차질이 겹치며 시장 투자심리가 악화됐다. 자산의 93%가 부채인 코어위브의 주가와 회사채 가격이 급락하면서 AI 투자 수익성에 대한 우려가 다시 커졌다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/world/2026/10/20/2026101920061634167",
+    "lang": "ko",
+    "labels": [
+      "부채"
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "category": "tech",
+    "title": "엔비디아, HBM 공급사에 TSMC 3나노 베이스 다이 요구…삼성 수용, 2027년 양산",
+    "summary": "엔비디아가 삼성전자·SK하이닉스·마이크론에 HBM 베이스 다이를 TSMC 3나노 공정으로 만들도록 요청한 것으로 보도됐다. 삼성은 내부 검토 끝에 요청을 수용했고 양산은 2027년으로 예상된다. SK하이닉스는 HBM4 베이스 다이에 이미 TSMC 12나노를 쓰고 있으며 3나노 수용 여부는 알려지지 않았다.",
+    "source": "TrendForce",
+    "url": "https://www.trendforce.com/news/2026/10/19/news-nvidia-reportedly-pushes-tsmc-3nm-nvhbm-base-dies-for-samsung-sk-hynix-micron-in-unlikely-foundry-tie-up/",
+    "lang": "en",
+    "labels": [
+      "HBM",
+      "파운드리"
+    ]
   }
 ]
