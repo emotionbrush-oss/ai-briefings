@@ -6296,5 +6296,18 @@
       "HBM",
       "파운드리"
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "category": "bottleneck",
+    "title": "삼성전자·SK하이닉스, 중국 공장 고도화 추진…\"생산능력 확대는 아냐\"",
+    "summary": "로이터는 삼성전자와 SK하이닉스가 중국 내 메모리 공장을 더 고도화된 칩을 만들 수 있도록 업그레이드하고 있다고 보도했다. SK하이닉스는 다롄 공장을 240단 이상 낸드 중심으로 전환하는 것으로 알려졌고, 삼성전자는 생산능력 확대나 신규 공장 건설은 아니라고 밝혔다. 메모리 공급난 속에서 중국 공장이 공급 여력의 변수로 떠올랐다.",
+    "source": "CNBC(로이터 인용)",
+    "url": "https://cnbc.com/2026/10/21/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-people-say-reuters.html",
+    "lang": "en",
+    "labels": [
+      "메모리",
+      "낸드"
+    ]
   }
 ]
