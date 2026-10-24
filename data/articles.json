@@ -6347,5 +6347,42 @@
       "HBF",
       "메모리"
     ]
+  },
+  {
+    "date": "2026-10-24",
+    "category": "tech",
+    "title": "슈나이더일렉트릭, AI 데이터센터용 모듈형 전력 시스템 공개…엔비디아와 공동 설계",
+    "summary": "슈나이더일렉트릭이 AI 데이터센터용 프리패브 전력 모듈을 선보였다. 엔비디아와 공동 설계했으며, 전력 인프라를 최단 6개월 만에 구축할 수 있다고 회사는 밝혔다.",
+    "source": "서울경제(영문)",
+    "url": "https://en.sedaily.com/technology/2026/10/23/schneider-electric-unveils-modular-power-systems-for-ai",
+    "lang": "en",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "category": "bottleneck",
+    "title": "아마존 CEO \"2027년까지 클라우드 공급량 대부분 매진\"",
+    "summary": "아마존 CEO가 클라우드 공급 용량이 2027년까지 대부분 매진될 수 있다는 취지로 말했다. 아마존은 올해 약 2,200억 달러의 설비투자를 계획 중인 것으로 전해졌다.",
+    "source": "이데일리",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01951606645616200",
+    "lang": "ko",
+    "labels": [
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "category": "bottleneck",
+    "title": "AI가 삼킨 메모리 반도체…D램·낸드 가격 급등에 인도 저가 스마트폰 시장 위축",
+    "summary": "AI 수요와 데이터센터 증설로 D램·낸드 가격이 오르면서 인도 1만 루피 이하 저가 스마트폰 시장이 흔들리고 있다. 해당 가격대 제품의 2026년 2분기 점유율은 4%까지 떨어졌다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610240630576669fda4f5ab74_1",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "낸드"
+    ]
   }
 ]
