@@ -6447,5 +6447,41 @@
     "url": "https://www.reporteminero.cl/noticia/otras-noticias/2026/10/el-cobre-refinado-afronta-su-crecimiento-mas-lento-en-decadas",
     "lang": "es",
     "labels": []
+  },
+  {
+    "date": "2026-10-27",
+    "category": "bottleneck",
+    "title": "앤트로픽 IPO 신고서, \"삼성·SK하이닉스·마이크론 HBM 공급 보장 없다\"",
+    "summary": "앤트로픽이 SEC에 낸 상장 신고서 위험요인에서 HBM 3대 공급사가 증설 중에도 필요 물량을 제때 댈 수 있다는 보장이 없다고 밝혔다. 또 최첨단 칩 생산이 TSMC에 집중된 점, 칩·전력·데이터센터 확보가 복합 병목이라는 점, 주민 반대와 냉각수 문제도 위험으로 꼽았다.",
+    "source": "서울경제(영문)",
+    "url": "https://en.sedaily.com/finance/2026/10/27/anthropic-flags-hbm-supply-risk-from-samsung-sk-hynix-in",
+    "lang": "en",
+    "labels": [
+      "HBM",
+      "파운드리",
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "category": "bottleneck",
+    "title": "AI 열풍에 기판·PCB 품귀 대란…PC 업체들 \"2027년 최대 병목\"",
+    "summary": "닛케이 아시아 보도를 인용한 기사에 따르면 HP와 델 등 PC 제조사들이 2027년도 수급 계획을 짜면서 다양한 규격의 PCB 부족을 가장 치명적인 공급망 병목으로 꼽고 있다. AI 서버 수요가 기판을 빨아들이며 단순 부품이던 PCB가 전략 자원으로 부상했다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026102717530025450c8c1c064d_1",
+    "lang": "ko",
+    "labels": [
+      "부품"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "category": "other",
+    "title": "산불·재선충·가뭄 삼중고…2026 가을 송이 '반토막 흉작'",
+    "summary": "산불과 재선충, 가뭄이 겹치면서 올가을 송이 작황이 평년의 절반 수준으로 줄었다. 양양에서는 하루 공판량이 30kg 이하로 떨어져 평년보다 3주 이른 8일에 공판을 조기 마감했고, 산지 가격이 급등하고 있다.",
+    "source": "스트레이트뉴스",
+    "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313237",
+    "lang": "ko",
+    "labels": []
   }
 ]
