@@ -6483,5 +6483,53 @@
     "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313237",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-10-28",
+    "category": "bottleneck",
+    "title": "SK하이닉스 3분기 영업이익 632% 급증…주가 11% 상승, 약 100조 원 주주환원 계획",
+    "summary": "SK하이닉스가 3분기 영업이익이 전년 동기 대비 632% 늘어난 사상 최대 분기 실적을 공개했다. AI 수요에 따른 메모리 공급 부족이 이어지는 가운데 약 100조 원 규모의 주주환원 계획도 함께 밝혔고, 발표 후 한국 증시에서 주가가 11% 올랐으며 삼성전자도 9% 안팎 동반 상승했다.",
+    "source": "CNBC",
+    "url": "https://cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+    "lang": "en",
+    "labels": [
+      "HBM",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "category": "bottleneck",
+    "title": "중국 클라우드 업체들, 삼성·SK하이닉스에 최장 10년 메모리 공급계약 타진",
+    "summary": "중국 데이터센터 운영사들이 통상 3~5년인 계약 주기를 크게 넘어 최장 10년짜리 메모리 물량 확보를 삼성전자와 SK하이닉스에 요청한 것으로 전해졌다. 첨단 노광장비 반입 제한으로 자국 반도체 자급이 막혀 있는 점이 배경으로 꼽힌다. 해외 매체를 인용한 2차 보도여서 원문 확인이 필요하다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610281109283254fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "category": "tech",
+    "title": "삼성·SK하이닉스, 엔비디아에 8단 HBM4 2027년 2분기 출하 전망",
+    "summary": "삼성전자와 SK하이닉스가 엔비디아향 8단 HBM4를 2027년 2분기부터 출하할 것이라는 보도가 나왔다. 차세대 HBM 공급 일정이 구체화되면서 AI 가속기용 메모리 물량 확보 경쟁이 이어질 전망이다.",
+    "source": "Digitimes",
+    "url": "https://digitimes.com/news/a20261027VL215/samsung-sk-hynix-hbm4-shipments-nvidia.html",
+    "lang": "en",
+    "labels": [
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "category": "other",
+    "title": "중동발 원유 불안에 AI 수요까지 겹쳐 구리 품귀…한국 전선업계 촉각",
+    "summary": "중동 분쟁과 AI 인프라 확장이 겹치며 구리를 포함한 원자재 공급망 전반의 병목이 심해지고 있다는 분석이 나왔다. 국내 업계에서는 구리 정광 부족이 2030년까지 이어지고 인도·인도네시아 신규 광산이 기여하는 2031년께 수급이 개선될 것으로 보며, 전선업계가 영향을 주시하고 있다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610250856125747fbbec65dfb_1",
+    "lang": "ko",
+    "labels": []
   }
 ]
