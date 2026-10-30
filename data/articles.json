@@ -6579,5 +6579,28 @@
     "url": "https://www.g-enews.com/article/Industry/2026/10/20261028162942694324debea800_1",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-10-30",
+    "category": "tech",
+    "title": "엔비디아, 광학 엔진을 인터포저 위로 옮기는 '옵틱스 온 인터포저' 시제품 공개",
+    "summary": "엔비디아 연구진이 SEMICON West 2026에서 광학 엔진을 유기 기판이 아닌 칩을 얹는 실리콘 인터포저에 직접 집적하는 시제품을 발표했다. 8개 파장 다중화로 광섬유 1가닥당 256Gb/s를 시연해 대역폭 밀도를 높이고 전력 소모를 줄이는 것을 목표로 한다. 다만 연구 단계로 상용화 일정은 없으며 발열 관리와 패키징 과제가 남아 있다.",
+    "source": "TechNews",
+    "url": "https://finance.technews.tw/2026/10/20/nvidia-unveils-prototype-silicon-interposer-optical-packaging-chip/",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "category": "service",
+    "title": "CJ대한통운, KT클라우드 안산 AI 데이터센터 신축공사 3,150억 원에 수주",
+    "summary": "CJ대한통운 건설부문이 KT클라우드의 50MW급 안산 AI 데이터센터 신축공사를 3,150억 원에 수주했다고 공시했다. 지하 2층~지상 9층, IT 부하 32MW 규모 하이퍼스케일급이며 공사 기간은 2029년 12월까지 약 38개월이다. AI 서버 수요 확대가 건설업계의 실제 수주로 이어지는 사례다.",
+    "source": "바이라인네트워크",
+    "url": "https://byline.network/2026/10/22-622/",
+    "lang": "ko",
+    "labels": []
   }
 ]
