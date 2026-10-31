@@ -6602,5 +6602,46 @@
     "url": "https://byline.network/2026/10/22-622/",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-10-31",
+    "category": "bottleneck",
+    "title": "AI 데이터센터 건설 지연 변수 커져…메모리 업황에 부담, 삼성·SK하이닉스 촉각",
+    "summary": "칩 부족과 전력망 연결 지연, 인허가 문제로 미국 데이터센터 건설이 늦어지는 사례가 늘고 있다. 모건스탠리는 건설 지연이 메모리 반도체 업체에 특히 타격이 될 수 있다고 짚었고, 국내 메모리 업계도 수요 시점 변화를 주시하고 있다.",
+    "source": "비즈니스포스트",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450759",
+    "lang": "ko",
+    "labels": [
+      "전력망",
+      "메모리",
+      "부지"
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "category": "bottleneck",
+    "title": "엔비디아, 엔스케일 웨스트버지니아 AI 데이터센터 대출 보증 검토",
+    "summary": "더인포메이션 보도에 따르면 엔비디아가 앤트로픽용으로 추진되는 엔스케일의 웨스트버지니아 데이터센터(첫 460MW 동) 차입금에 보증을 서는 방안을 논의 중이다. 고객사의 대출을 칩 공급사가 떠안는 구조로, 자금 조달이 AI 인프라 확장의 병목이 되고 있음을 보여준다.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+    "lang": "en",
+    "labels": [
+      "부채",
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "category": "tech",
+    "title": "구글, 우주 위성에서 AI 구동 성공…우주 데이터센터 첫걸음",
+    "summary": "구글이 시험 위성에서 자체 TPU 칩으로 AI를 구동해 첫 응답을 받는 데 성공했다. 지상 데이터센터의 전력·부지 제약을 우회하려는 시도지만, 상용화에는 전력 공급과 냉각이 여전히 큰 과제로 남아 있다.",
+    "source": "시사오늘",
+    "url": "https://www.sidae.com/article/2026103111225752770",
+    "lang": "ko",
+    "labels": [
+      "우주",
+      "전력",
+      "냉각"
+    ]
   }
 ]
