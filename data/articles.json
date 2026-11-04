@@ -6701,5 +6701,79 @@
     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279842&PAGE_CD=N0002&CMPT_CD=M0118",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-11-04",
+    "category": "bottleneck",
+    "title": "구글 AI 칩 공급 확대에 알파벳 재고 17조 원 묶여…한국 메모리 생태계도 촉각",
+    "summary": "알파벳 재고자산이 2025년 말 24억 달러에서 2026년 9월 133억 달러로 9개월 만에 454% 늘었다. 구글이 AI 하드웨어 공급자 역할을 넓히면서 나타난 현상으로, TPU 시스템에 들어가는 삼성전자·SK하이닉스 HBM 수요와도 연결된다. 다만 구체적인 납품 규모와 조건은 확인되지 않았다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611040936015879fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "category": "bottleneck",
+    "title": "美 중간선거 흔든 전력 규제…AI 데이터센터 멈춤에 HBM 촉각",
+    "summary": "선거 당일 미국 10개 주에서 데이터센터 개발과 관련한 주민투표 안건 41개가 표결에 올랐다. 전력망 인허가가 지연되면 서버 랙 입고와 HBM 출하 속도도 늦어질 수 있다는 분석이 나온다. 다만 구체적인 영향 규모는 공시되지 않았다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261104104611602fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "규제"
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "category": "bottleneck",
+    "title": "\"AI 서버에 다 뺏겼다\"…D램 가격 2배 폭등, 日 PC 출하량 30% 급감",
+    "summary": "범용 D램 가격이 지난해 말 대비 두 배로 뛰면서 일본 개인용 PC 출하량이 4~9월 전년 대비 30% 줄었다. 삼성전자·SK하이닉스·마이크론이 생산 라인을 AI 서버용 메모리에 우선 배정한 영향으로 설명된다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026110317400343380c8c1c064d_1",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "category": "bottleneck",
+    "title": "수조 달러 AI 거품론·칩 임대료 폭등에 놀란 월가, 파생상품 보험 총력",
+    "summary": "월가가 하락 위험을 막기 위해 옵션과 신용부도스왑 매입에 나서고 있다. 실리콘 데이터 지수 기준 엔비디아 B300 칩 임대 비용은 올해 약 56% 올라 시간당 7.56달러에 달했다. 한국 HBM 공급망도 이 신용 위험과 맞물려 있다는 분석이다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611020927231649fbbec65dfb_1",
+    "lang": "ko",
+    "labels": [
+      "GPU물량",
+      "부채"
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "category": "bottleneck",
+    "title": "\"AI 데이터센터 특수\"…키옥시아, 4분기 순익 15배 폭증한 1.36조 엔 전망",
+    "summary": "키옥시아는 10~12월 분기 순이익이 전년 대비 크게 늘 것으로 내다봤다. 7~9월 데이터센터·엔터프라이즈용 낸드 매출은 전년 동기 대비 6.6배 급증했다. AI 서버 수요가 낸드 시장의 수급을 빠듯하게 만들고 있음을 보여준다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026103115502787470c8c1c064d_1",
+    "lang": "ko",
+    "labels": [
+      "낸드",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "category": "other",
+    "title": "4년 날고 파쇄기로…부품 부족이 부른 신형 항공기의 최후",
+    "summary": "제작 4년 된 신형 에어버스 기체가 엔진 부품 부족 탓에 해체되고 있다. 프랫 앤 휘트니 엔진 리콜과 수급난이 겹치며 중고 부품 가격은 60% 급등했다. 한국 항공업계의 부품 조달에도 영향이 예상된다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610271009459266fda4f5ab74_1",
+    "lang": "ko",
+    "labels": []
   }
 ]
