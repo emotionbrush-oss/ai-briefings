@@ -6775,5 +6775,19 @@
     "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610271009459266fda4f5ab74_1",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-11-05",
+    "category": "bottleneck",
+    "title": "미국발 '블루웨이브' AI 규제 공포에 코스피 급락…외국인 3.4조 원 순매도, SK하이닉스 9% 하락",
+    "summary": "미국 중간선거에서 민주당이 약진하면서 AI 데이터센터 건설을 제한하는 규제가 강화될 수 있다는 우려가 커져 반도체주가 크게 흔들렸다. 코스피는 5,400선이 무너졌고 외국인은 약 3.4조 원어치를 순매도했으며, SK하이닉스는 하루 만에 9.4%대 하락률을 기록했다. 데이터센터 인허가 지연이 전력·HBM 수요에 미칠 파장이 시장의 핵심 변수로 부각됐다.",
+    "source": "Businesskorea",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280605",
+    "lang": "ko",
+    "labels": [
+      "규제",
+      "전력",
+      "HBM"
+    ]
   }
 ]
