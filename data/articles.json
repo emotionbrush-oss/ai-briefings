@@ -6843,5 +6843,19 @@
     "url": "https://www.sedaily.com/article/20111004",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-11-07",
+    "category": "tech",
+    "title": "TSMC, 엔비디아 요청에 3D D램 생산 검토…삼성·SK하이닉스·마이크론과 경쟁 가능성",
+    "summary": "TSMC가 최대 고객인 엔비디아의 요청으로 메모리 셀을 수직으로 쌓아 용량을 높이는 3D D램 생산 계획 초안을 짜기 시작한 것으로 알려졌다. 앞서 엔비디아는 삼성·SK하이닉스·마이크론에 맞춤형 HBM의 베이스 다이를 TSMC 3나노 공정으로 만들도록 요청한 바 있어, 파운드리 업체가 메모리 영역까지 넘보는 흐름이 뚜렷해지고 있다. 실현되면 HBM 공급 병목 완화 수단이 될 수 있지만 기존 메모리 3사와의 경쟁 구도가 달라질 수 있다.",
+    "source": "The Next Web",
+    "url": "https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia",
+    "lang": "en",
+    "labels": [
+      "메모리",
+      "파운드리",
+      "HBM"
+    ]
   }
 ]
