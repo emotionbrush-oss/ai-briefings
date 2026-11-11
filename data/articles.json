@@ -6965,5 +6965,77 @@
     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611060938154512fbbec65dfb_1",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-11-11",
+    "category": "bottleneck",
+    "title": "AI 데이터센터 1곳 무산되면 반도체 4,500만 개 수요 흔들…美 규제 확산에 K반도체 촉각",
+    "summary": "업계는 첨단 AI 데이터센터 1곳에 4,500만 개 이상의 반도체 칩이 들어가는 것으로 추산한다. 미국 중간선거 이후 지역 주민 반발과 데이터센터 규제가 확산되면서 개별 프로젝트가 무산될 경우 메모리 등 반도체 수요 전망이 크게 흔들릴 수 있다는 우려가 커지고 있다.",
+    "source": "서울신문",
+    "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/09/20261109001004",
+    "lang": "ko",
+    "labels": [
+      "규제",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "category": "bottleneck",
+    "title": "앤트로픽 IPO, 중간선거發 데이터센터 반감에 직면…컴퓨팅 약정 규모 약 8,950억 달러",
+    "summary": "앤트로픽은 수정 상장신고서에서 약 8,954억 달러 규모의 구매 약정·임대 계약을 공개했으며 대부분이 컴퓨팅·인프라 관련이다. 중간선거에서 지역 데이터센터 관련 주민투표 41건 중 40건이 반대로 결론 나는 등 반발이 커지면서, 대규모 인프라 확보 계획이 상장 과정의 위험 요인으로 부각되고 있다.",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+    "lang": "en",
+    "labels": [
+      "규제",
+      "부채"
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "category": "bottleneck",
+    "title": "美 데이터센터 신규 건설 제한 확산…전력 확보한 비트코인 채굴업체가 AI 전환 수혜 전망",
+    "summary": "미국 여러 지역에서 유권자들이 신규 데이터센터 개발 제한을 지지하면서 새 부지·전력 확보가 더 어려워지고 있다. 이미 전력 계약과 시설을 보유한 비트코인 채굴업체들이 AI 데이터센터 경쟁에서 우위를 점할 수 있다는 분석이 나왔다.",
+    "source": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai",
+    "lang": "en",
+    "labels": [
+      "전력",
+      "부지"
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "category": "tech",
+    "title": "라이트온, 일렉트로니카 2026서 CPO·NPO 스위치용 외부 레이저 광원 등 고속 광 인터커넥트 공개",
+    "summary": "대만 라이트온이 11월 10~13일 독일 뮌헨 일렉트로니카 2026에서 AI 데이터센터용 고속 광 인터커넥트 기술을 선보였다. 공동 패키지 광학(CPO)·근접 패키지 광학(NPO) 스위치를 위한 외부 레이저 광원(ELSFP) 솔루션을 소개했으며, 액체냉각 구조를 고려해 설계했다고 밝혔다.",
+    "source": "PR Newswire (TradingView)",
+    "url": "https://www.tradingview.com/news/prnewswire:fe76111b1f6d5:0-liteon-showcases-high-speed-optical-interconnect-and-key-optoelectronic-technologies-at-electronica-2026-advancing-ai-data-center-infrastructure-with-intelligent-photonics/",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "category": "service",
+    "title": "코어위브 3분기 매출 36.6억 달러로 2.7배 증가…수주잔고 1,325억 달러, 연간 전망 상향",
+    "summary": "코어위브는 2026년 3분기 매출이 36억6,100만 달러로 전년 동기 13억6,500만 달러에서 크게 늘었고, 9월 말 기준 매출 수주잔고는 약 1,325억 달러라고 밝혔다. 연간 매출 전망도 130억~133억 달러로 높이면서 AI 투자 과잉 우려가 완화돼 필라델피아반도체지수가 5.7% 급등하는 등 반도체주 반등을 이끌었다.",
+    "source": "CoreWeave (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001769628/000176962826000461/coreweave3q26earningspress.htm",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-11-11",
+    "category": "other",
+    "title": "이집트, 비료공장 가스 공급 33%로 감축 확대…중동 분쟁 여파 속 비료 수급난 지속",
+    "summary": "이집트가 값비싼 LNG 수입 부담으로 비료공장에 대한 가스 공급 감축 폭을 11월 8일 기준 20%에서 33%로 확대했다. 생산업체들은 수요 부진과 저장 한계로 추가 가동 중단 가능성을 경고했으며, 중국의 수출 축소 등으로 올해 비료 가격은 크게 오른 상태다.",
+    "source": "IFDC",
+    "url": "https://ifdc.org/2026/11/10/fertilizer-crisis-response-bulletin-37-fertilizer-affordability-why-lower-prices-do-not-tell-the-whole-story/",
+    "lang": "en",
+    "labels": []
   }
 ]
