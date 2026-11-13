@@ -7140,5 +7140,77 @@
     "url": "https://gcaptain.com/la-port-strike-threat-deferred-again-as-labor-talks-drag-on/",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-11-13",
+    "category": "bottleneck",
+    "title": "소프트뱅크, 美 AI 데이터센터용 발전설비 조달 계획 수정으로 37억 달러 손실…예약했던 13GW 규모 축소",
+    "summary": "소프트뱅크그룹이 미국 AI 데이터센터 프로젝트용 가스터빈 등 발전설비 조달 계획을 수정하면서 5,972억 엔(약 37억 달러)의 손실을 반영했다. 손실은 환불 불가 선급금 28억5천만 달러와 계약 변경·정산 비용 8억8천만 달러로 구성되며, 회사는 일론 머스크의 '터빈 주문 디폴트' 주장은 부인했다. 발표 직후 GE버노바 주가가 7% 가까이 하락하는 등 AI 전력 수요 전망의 불확실성이 전력 장비 시장으로 번지고 있다.",
+    "source": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
+    "lang": "en",
+    "labels": [
+      "전력",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "bottleneck",
+    "title": "\"AI 병목, 연산에서 전력으로 이동\"…유럽 공급망 \"다음 품귀는 전력반도체\"",
+    "summary": "독일 뮌헨에서 열린 일렉트로니카 2026 패널에서 업계 관계자들은 AI 인프라의 핵심 제약이 GPU 같은 연산 자원에서 전력으로 옮겨가고 있다고 진단했다. 이들은 데이터센터 전력 공급·변환에 쓰이는 전력반도체가 기술 산업의 다음 핵심 공급망 공백이 될 것이라고 경고했다.",
+    "source": "DIGITIMES",
+    "url": "https://www.digitimes.com/news/a20261112PD214/2026-panel-supply-chain-power-semiconductors-data.html",
+    "lang": "en",
+    "labels": [
+      "전력반도체",
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "bottleneck",
+    "title": "하나증권 \"내년 HBM 수요가 공급 10% 웃돌 것\"…삼성전자, HBM 매출서 SK하이닉스 추월 전망",
+    "summary": "하나증권은 하이퍼스케일러들이 요구하는 내년 HBM 총용량이 약 55억GB로, 메모리 3사가 공급 가능한 49억GB를 약 10% 웃돌 것으로 분석했다. 공급 부족 속에 수요처 다변화 효과로 삼성전자가 내년 HBM 매출에서 SK하이닉스를 앞설 것이라는 전망도 내놨다.",
+    "source": "한국경제TV",
+    "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130089",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "tech",
+    "title": "구글, 8세대 TPU 라인업에 'TPU 8tx'·'TPU 8i Max' 추가…기밀 추론·장문맥 에이전트 겨냥",
+    "summary": "구글이 8세대 TPU 제품군에 기밀 추론용 TPU 8tx와 장문맥·에이전트 워크로드용 TPU 8i Max 두 시스템을 추가했다. TPU 8i Max는 TPU 8i 칩 2개를 한 패키지에 묶어 연산·SRAM·HBM 대역폭을 두 배로 늘렸고, TPU 8tx는 일부 고객이 자체 데이터센터에 배치할 수 있도록 제공된다.",
+    "source": "DatacenterDynamics",
+    "url": "https://datacenterdynamics.com/en/news/google-expands-eighth-generation-tpu-portfolio-with-two-new-tpu-systems",
+    "lang": "en",
+    "labels": [
+      "ASIC",
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "category": "service",
+    "title": "한컴, 3분기 AI 매출 148억 원으로 전 분기 대비 80% 증가…AI 비중 30% 돌파",
+    "summary": "한글과컴퓨터의 3분기 AI 매출이 148억 원으로 직전 분기 82억 원 대비 약 80% 늘었고, 별도 매출 내 AI 비중은 상반기 13.7%에서 30.7%로 확대됐다. 1~3분기 누적 AI 매출은 283억 원으로 지난해 연간의 3배를 넘었으며, 회사는 AI 업무 플랫폼 '노마디안'으로 해외 시장 공략에 나선다.",
+    "source": "ZDNet Korea",
+    "url": "https://zdnet.co.kr/view/?no=20261112161046",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-13",
+    "category": "other",
+    "title": "초대형 유조선 품귀에 美 원유 수출 차질…코퍼스크리스티항 \"4년 만에 VLCC 입항 0척\"",
+    "summary": "초대형 원유운반선(VLCC) 부족이 미국산 원유 수출을 제약하고 있다고 텍사스 코퍼스크리스티항 CEO가 밝혔다. 그는 최근 4년 만에 처음으로 원유를 실으러 걸프만에 들어온 VLCC가 한 척도 없었다고 전했다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-supertanker-squeeze-is-crimping-us-crude-exports-texas-port-ceo-says",
+    "lang": "en",
+    "labels": []
   }
 ]
