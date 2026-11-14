@@ -7212,5 +7212,120 @@
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-supertanker-squeeze-is-crimping-us-crude-exports-texas-port-ceo-says",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-11-14",
+    "category": "bottleneck",
+    "title": "SMIC \"AI 연산·칩 공급 병목 2028년까지\"…공장 가동률 97%, 메모리 수급 균형은 2028년 중반 이후",
+    "summary": "중국 최대 파운드리 SMIC가 3분기 실적 발표에서 데이터센터 확장이 이어지며 AI 컴퓨팅 파워와 칩 공급 병목이 2028년까지 계속될 것이라고 밝혔다. 팹 가동률은 97% 수준이며, 메모리는 2028년 중반 이후에야 균형을 찾겠지만 컨트롤러·특수 메모리 등 주변 칩은 계속 부족할 것으로 봤다.",
+    "source": "DigiTimes",
+    "url": "https://www.digitimes.com/news/a20261113VL218/smic-chips-capacity-demand-equipment.html",
+    "lang": "en",
+    "labels": [
+      "파운드리",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "category": "bottleneck",
+    "title": "식지 않는 AI 데이터센터 열풍에 미국 전력 수요 3년 연속 사상 최고 전망",
+    "summary": "AI 데이터센터 확산으로 미국의 전력 수요가 3년 연속 신기록을 경신할 것으로 전망됐다. 데이터센터용 수요 증가 속도가 발전·송전 설비 확충을 앞지르며 전력 공급 여력에 대한 우려가 커지고 있다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611121751099835fda4f5ab74_1",
+    "lang": "ko",
+    "labels": [
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "category": "bottleneck",
+    "title": "\"AI 칩에 원자재 다 뺏겼다\"…인도 전자산업, 동박적층판 가격 최대 350% 폭등에 'PCB 쇼크'",
+    "summary": "AI 서버용 기판 수요가 원자재를 빨아들이면서 인도 전자업계에서 PCB 핵심 소재인 동박적층판(CCL) 가격이 최대 350% 급등했다. 업계는 이 품귀 현상이 최소 1년 이상 지속될 것으로 보고 있어 중소 전자제조사들의 생산 차질이 우려된다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611102217462510c8c1c064d_1",
+    "lang": "ko",
+    "labels": [
+      "소재",
+      "부품"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "category": "tech",
+    "title": "스타에라 세미컨덕터, 칩 내장형 광 인터커넥트 '라이트와이어'로 스텔스 탈출…460만 달러 유치",
+    "summary": "스타에라 세미컨덕터가 실리콘 CMOS 회로, GaN LED 광원, SiN 도파로를 하나의 칩에 집적한 광 인터커넥트 '라이트와이어'를 공개하고 460만 달러의 프리시드 투자를 받았다. 회사는 초당 24TB 전송에 CPO 대비 수십 분의 1 수준인 50W 미만의 전력이 든다고 주장하며, 2030년 상용화를 목표로 한다.",
+    "source": "Semiconductor Today",
+    "url": "https://semiconductor-today.com/news_items/2026/nov/staera-101126.shtml",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "저전력"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "category": "tech",
+    "title": "마벨, SC26서 랙 간 메모리 풀링 '포토닉 패브릭'·CXL 메모리 등 AI 연결 기술 시연",
+    "summary": "마벨이 시카고에서 열리는 슈퍼컴퓨팅 2026(SC26)에서 광 링크로 여러 랙에 걸쳐 메모리와 연산을 함께 확장하는 포토닉 패브릭 메모리 모듈, CXL 메모리 솔루션, 테라링스 스위치 실리콘을 선보인다. 회사는 연결성을 AI 인프라의 다음 병목으로 지목하고 스케일업·스케일아웃·스케일어크로스 아키텍처 전반의 해법을 제시했다.",
+    "source": "Marvell",
+    "url": "https://www.marvell.com/company/newsroom/marvell-connectivity-ai-infrastructure-supercomputing-2026.html",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "CXL",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "category": "service",
+    "title": "세레브라스, 3분기 핵심 매출 2.3억 달러로 70% 증가…마이크로소프트와 클라우드 계약 체결",
+    "summary": "세레브라스가 3분기 GAAP 매출 2억1,080만 달러, 핵심 매출 2억3,090만 달러(전년 대비 70% 증가)를 기록했으며 클라우드 서비스 매출은 272% 급증했다. 10월 마이크로소프트와 클라우드 계약을 맺어 AWS·오라클에 이은 하이퍼스케일 고객을 확보했고, 연간 핵심 매출 전망을 9억4,000만~9억6,000만 달러로 상향했다.",
+    "source": "SEC (Cerebras 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-11-14",
+    "category": "service",
+    "title": "폭스콘 \"AI 인프라 투자 가속 지속\"…3분기 순익 34% 증가, 2027년 두 자릿수 성장 자신",
+    "summary": "폭스콘이 3분기 순이익이 34% 늘었다고 밝히며 2027년에도 두 자릿수 성장을 자신했다. 클라우드·네트워킹 매출이 전체의 절반을 차지하고 엔비디아 베라 루빈 서버 출하가 늘고 있으나, 부품 부족과 지정학·금리 변동성은 경계 요인으로 꼽았다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111308483089470c8c1c064d_1",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-14",
+    "category": "service",
+    "title": "원티드랩, 3분기 AX 매출 24.7억 원으로 전 분기 대비 37% 증가…AI 에이전트 1,200개 운영",
+    "summary": "원티드랩의 3분기 AX 관련 매출이 24억7,000만 원으로 전 분기보다 37% 늘어 투자 매출 제외 전체 매출의 29%를 차지했다. 수주 잔고는 80억 원이며 운영 중인 AI 에이전트는 1,200개를 넘어섰다.",
+    "source": "벤처스퀘어",
+    "url": "https://www.venturesquare.net/1128557",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-14",
+    "category": "other",
+    "title": "구리 정광 품귀 심화에 가격 결정 체계 '지각변동'…중국 제련소 압박 가중",
+    "summary": "채굴 광석(정광) 공급 부족이 심해지면서 구리 업계의 전통적인 가격 결정 방식이 흔들리고 있으며, 중국 제련소들의 수익 압박이 커지고 있다. 칠레 생산량도 올해 8.4% 감소가 예상되는 등 실물 시장의 공급 부족은 벤치마크 가격 하락과 별개로 이어지고 있다.",
+    "source": "Bloomberg (MINING.COM)",
+    "url": "https://mining.com/web/a-shortage-of-ore-is-causing-a-pricing-revolution-in-copper",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-11-14",
+    "category": "other",
+    "title": "남아공 공공 진료소 필수의약품 부족 호소…제조 차질·더반항 혼잡이 원인",
+    "summary": "남아프리카공화국 공공 진료소에서 환자들이 필수의약품을 구하지 못한다는 호소가 이어지고 있으나 보건부는 전국 가용률이 83.4%라고 밝혔다. 보건부는 제조 역량 제약, 공급업체 지연, 규제 요건, 재고 배분 문제와 더반항 물류 혼잡을 원인으로 꼽았다.",
+    "source": "IOL (Cape Times)",
+    "url": "https://iol.co.za/capetimes/news/2026-11-14-patients-report-medicine-shortages-at-public-clinics-despite-834-availability",
+    "lang": "en",
+    "labels": []
   }
 ]
