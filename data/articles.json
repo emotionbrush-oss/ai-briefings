@@ -7327,5 +7327,63 @@
     "url": "https://iol.co.za/capetimes/news/2026-11-14-patients-report-medicine-shortages-at-public-clinics-despite-834-availability",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-11-15",
+    "category": "bottleneck",
+    "title": "엔비디아, GPU 출하 '14개 항목 점검' 도입…AI 서버 공급 더 빠듯해지고 전액 선결제·2027년 가격 인상 예고",
+    "summary": "엔비디아가 GPU 출하 시 14개 항목에 걸친 점검 절차를 도입해 공급 관리를 강화하면서 대만 공급망의 AI 서버 출하가 한층 빠듯해지고 있다. 일부 거래에서는 전액 선결제 요구와 함께 2027년 서버 가격 인상까지 거론되며 고객사의 GPU 확보 부담이 커질 전망이다.",
+    "source": "DIGITIMES",
+    "url": "https://www.digitimes.com/news/a20261113PD223/nvidia-ai-server-gpu-price-2027.html",
+    "lang": "en",
+    "labels": [
+      "GPU물량",
+      "규제"
+    ]
+  },
+  {
+    "date": "2026-11-15",
+    "category": "bottleneck",
+    "title": "기후부, AI 전력 병목 대응…데이터센터 수요 분산·송전망 선제 구축 추진",
+    "summary": "기후에너지환경부가 AI 데이터센터 전력 수요를 계통 여유가 있는 지역으로 분산하고 송전망을 선제적으로 구축하는 방안을 추진한다고 밝혔다. ESS와 출력 제어 등을 활용해 기존 전력망의 수용 능력을 최대한 끌어올리겠다는 계획이다.",
+    "source": "뉴스1",
+    "url": "https://www.news1.kr/economy/env-policy/6350321",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "전력망"
+    ]
+  },
+  {
+    "date": "2026-11-15",
+    "category": "tech",
+    "title": "대만 AVC \"2027년 말 모든 GPU·ASIC AI 서버 수랭식 전환\"…액체냉각 생산능력 50% 이상 확대",
+    "summary": "대만 냉각 부품업체 AVC(아시아 바이탈 컴포넌츠)가 2027년 말까지 GPU·ASIC 기반 AI 서버 전부가 액체냉각을 채택하고, 수랭이 CPO·NPO 광모듈 영역까지 확대될 것으로 전망했다. 회사는 양면 콜드플레이트 출하를 늘리며 2027년 액체냉각 생산능력을 50% 이상 확대할 계획이며, 10월 매출은 전년 대비 34% 늘어난 221억 대만달러로 사상 최대를 기록했다.",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/asia-vital-components-double-sided-cold-plates/",
+    "lang": "en",
+    "labels": [
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-11-15",
+    "category": "service",
+    "title": "대만 10월 수출 967.6억 달러로 사상 최대…AI 수요에 ICT 제품 수출 72.9% 급증",
+    "summary": "대만 재정부에 따르면 10월 수출이 전년 대비 58.9% 늘어난 967억6,000만 달러로 9월 기록(872억 달러)을 넘어 사상 최대를 경신했다. 서버 등 정보통신·AV 제품 수출이 72.9% 증가한 476억 달러, 전자부품이 61.4% 늘어난 326.8억 달러로 각각 최고치를 기록해 AI 인프라 투자가 실제 매출로 이어지고 있음을 보여줬다.",
+    "source": "Focus Taiwan (CNA)",
+    "url": "https://focustaiwan.tw/business/202611090020",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-11-15",
+    "category": "service",
+    "title": "HD건설기계, 美 PSI와 1,600억 원 규모 발전용 엔진 공급 계약…북미 AI 데이터센터 전력 수주 누적 5,600억 원",
+    "summary": "HD건설기계가 북미 발전·엔진 솔루션 기업 파워솔루션인터내셔널(PSI)과 약 1,600억 원 규모의 22리터급 가스 발전용 엔진 롱블록 공급 계약을 체결했다. 10월 이록과의 3,900억 원 계약을 포함해 한 달 새 북미 발전 시장 누적 수주가 5,600억 원에 달했으며, AI 데이터센터 자가발전 수요가 수주를 견인했다.",
+    "source": "파이낸스스코프",
+    "url": "https://www.finance-scope.com/article/view/scp202611100018",
+    "lang": "ko",
+    "labels": []
   }
 ]
