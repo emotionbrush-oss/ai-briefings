@@ -7385,5 +7385,98 @@
     "url": "https://www.finance-scope.com/article/view/scp202611100018",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-11-16",
+    "category": "bottleneck",
+    "title": "美 상무부, 동남아·브라질 데이터센터 경유한 중국의 AI 칩 원격 접근 차단…현지 사업자에 라이선스 의무화",
+    "summary": "미 상무부가 싱가포르·말레이시아·태국·인도네시아·브라질의 데이터센터 운영사가 엔비디아 등 미국산 첨단 AI 칩과 서버를 고객에게 제공할 때 미국 정부 라이선스를 받도록 하는 임시 규정을 내놨다. 중국 기업이 해외 데이터센터를 통해 최첨단 GPU를 원격으로 써온 우회로를 막으려는 조치로, 동남아 AI 데이터센터 수요와 GPU 공급 배분에 영향이 예상된다.",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips",
+    "lang": "en",
+    "labels": [
+      "규제",
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "category": "bottleneck",
+    "title": "'메모리 강국'의 역설…국내 중소 팹리스, 범용 D램은 웃돈 줘야 확보하고 HBM은 엄두도 못 내",
+    "summary": "AI발 메모리 품귀로 대기업 계열을 제외한 국내 팹리스 다수가 범용 D램을 프리미엄을 얹어서야 겨우 구하고 HBM은 사실상 확보하지 못하고 있다는 현장 목소리를 전했다. 메모리 생산 강국임에도 자국 칩 설계 기업이 핵심 부품을 구하지 못하는 구조가 AI 반도체 생태계 육성의 걸림돌이 되고 있다고 지적했다.",
+    "source": "ZDNet Korea",
+    "url": "https://zdnet.co.kr/view/?no=20261116145240",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "category": "bottleneck",
+    "title": "SKT·효성중공업, GW급 AI 데이터센터 전력 확보 협력…345kV 변전소 설비 공급·800V 직류배전 실증",
+    "summary": "SK텔레콤과 효성중공업이 GW급 AI 데이터센터 구축을 위한 전략적 업무협약을 맺고, 효성중공업이 SKT AI 데이터센터용 345kV 변전소에 핵심 전력 설비를 공급하기로 했다. 초고압 변압기 납기가 최장 5년에 달하는 등 전력기기 확보가 AI 인프라의 병목으로 떠오른 가운데, 양사는 800V 직류배전과 반도체 변압기(SST) 공동 실증도 추진한다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/2026111600721",
+    "lang": "ko",
+    "labels": [
+      "전력",
+      "변압기"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "category": "tech",
+    "title": "펭귄 솔루션즈·마벨, SC26서 실리콘 포토닉스 기반 메모리 공유 장비 'MemoryAI' 공개",
+    "summary": "펭귄 솔루션즈가 마벨의 '포토닉 패브릭' 기술을 적용해 여러 CPU·GPU 호스트가 광 연결로 대용량 메모리를 공유하는 'MemoryAI 포토닉 어플라이언스'를 SC26에서 선보였다. 최대 16개 호스트가 메모리 풀을 공유하며, 같은 전력에서 AI 토큰 생성 성능을 최대 5배 높일 수 있다고 회사 측은 밝혔다. 샘플 공급은 2027년으로 계획돼 있다.",
+    "source": "HPCwire",
+    "url": "https://www.hpcwire.com/2026/11/16/marvell-and-penguin-launch-photonics-memory-appliance/",
+    "lang": "en",
+    "labels": [
+      "광인터커넥트",
+      "CXL",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "category": "service",
+    "title": "정원엔시스, 3분기 AI 매출 79억 원으로 438% 급증…전체 매출 21% 늘며 흑자전환",
+    "summary": "정원엔시스의 3분기 연결 매출이 616억 원으로 전년 동기 대비 21.2% 증가했고, 이 중 AI 관련 매출은 79억4,000만 원으로 438% 늘었다. 전체 매출 증가분 107억5,000만 원 가운데 약 60%를 AI 사업이 차지해 실적 개선을 이끌었다.",
+    "source": "파이낸셜뉴스",
+    "url": "https://www.fnnews.com/news/202611161018229349",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-16",
+    "category": "service",
+    "title": "SK AX, 3분기 매출 8,052억 원으로 21% 증가…AX 사업 수주 확대로 영업이익 29% 늘어",
+    "summary": "SK AX의 3분기 별도 기준 매출이 8,052억 원으로 전년 동기 대비 21.0% 늘었고 영업이익도 28.9% 증가했다. 기업 대상 AI 전환(AX) 사업 수주가 늘어난 것이 실적 성장의 배경으로 꼽혔다.",
+    "source": "서울경제",
+    "url": "https://www.sedaily.com/article/20115078",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-16",
+    "category": "service",
+    "title": "비아이매트릭스, 3분기 누적 AI 솔루션 매출 62억 원…작년 연간 AI 매출 이미 추월",
+    "summary": "데이터 분석 솔루션 기업 비아이매트릭스의 올해 3분기 누적 AI 솔루션 매출이 62억3,000만 원을 기록해 지난해 연간 AI 매출을 넘어섰다. 기업용 AI 분석 솔루션 수요가 늘면서 AI가 회사의 주력 성장 동력으로 자리잡고 있다.",
+    "source": "뉴스핌",
+    "url": "https://www.newspim.com/news/view/20261116000169",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-16",
+    "category": "other",
+    "title": "美 루이지애나, 대규모 산업 투자 몰리며 2034년까지 최대 10만 명 인력 부족 경고…현대제철 훈련센터 선제 구축",
+    "summary": "대규모 제철·에너지·제조 투자가 몰린 미국 루이지애나주에서 2034년까지 신규 일자리 약 6만~10만 개를 채워야 할 것으로 추산되면서 숙련 인력 부족 우려가 커지고 있다. 현지에 전기로 제철소를 짓는 현대제철은 인력 확보를 위해 대규모 훈련센터를 선제적으로 구축하고 있다.",
+    "source": "글로벌이코노믹",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611141055405064fbbec65dfb_1",
+    "lang": "ko",
+    "labels": []
   }
 ]
