@@ -7478,5 +7478,72 @@
     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611141055405064fbbec65dfb_1",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-11-17",
+    "category": "bottleneck",
+    "title": "삼성전자·애플, 4~5년 D램 장기공급계약 막바지 협상…메모리 품귀에 애플도 LTA 체결 나서",
+    "summary": "메모리 공급난이 심해지자 애플이 삼성전자와 내년 상반기부터 4~5년간 이어지는 D램 장기공급계약(LTA)을 막바지 조율 중인 것으로 전해졌다. 공급 물량 하한은 보장하되 가격은 시점별 시황에 따라 정하는 구조이며, 애플은 앞서 SK하이닉스와도 공급사에 유리한 조건으로 장기계약을 맺은 것으로 알려졌다.",
+    "source": "토큰포스트",
+    "url": "https://www.tokenpost.kr/news/tech/439683",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "bottleneck",
+    "title": "전력망 이어 변압기 병목…초고압 변압기 납기 최대 4~5년, '속도전 메가프로젝트' 발목 우려",
+    "summary": "호남권 반도체 산단 전력 공급을 위해 다른 지역 변압기를 돌려쓰는 방안이 논란이 되면서 전력 기자재 병목이 드러났다. 북미 전력망 교체와 AI 데이터센터 수요가 겹쳐 초고압 변압기 인도에 평균 3년, 최대 4~5년이 걸리고, 권선 기능공 부족과 핵심 소재 공급난까지 겹쳤다는 분석이다.",
+    "source": "국민일보",
+    "url": "https://www.kmib.co.kr/article/20261116501844",
+    "lang": "ko",
+    "labels": [
+      "변압기",
+      "전력"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "tech",
+    "title": "에코랩, SC26서 3MW급 CDU 'CoolIT CHx 3000' 기반 액체냉각 플랫폼·파트너 생태계 공개",
+    "summary": "코어잇(CoolIT)을 인수한 에코랩이 SC26에서 3메가와트급 냉각수분배장치(CDU) CHx 3000에 자사 3D TRASAR 수질·열관리 기술을 통합한 직접액체냉각(DLC) 플랫폼을 내놨다. 다쏘시스템(가상 트윈), 지멘스(전력 분배), 알파라발(열교환) 등과 생태계를 꾸려 AI 데이터센터의 설계부터 가동까지 걸리는 기간을 줄이겠다는 구상이다.",
+    "source": "Ecolab",
+    "url": "https://www.ecolab.com/en-us/media-center/news/ecolab-launches-premier-liquid-cooling-ecosystem-to-shape-the-industrys-most-efficient-ai-infrastructure",
+    "lang": "en",
+    "labels": [
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "category": "service",
+    "title": "솔트룩스, 3분기 매출 172억 원으로 88% 증가하며 흑자전환…원전·공공 AI 사업 매출 반영",
+    "summary": "솔트룩스의 3분기 연결 매출이 172억 원으로 전년 동기(91억 원) 대비 88.4% 늘었고 영업이익도 흑자로 돌아섰다. 원전·공공 분야 AI 구축 사업이 매출로 이어졌으며, 1~3분기 누적 매출은 약 376억 원으로 71.9% 증가했다.",
+    "source": "ZDNet Korea",
+    "url": "https://zdnet.co.kr/view/?no=20261113160620",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-17",
+    "category": "service",
+    "title": "씨이랩, 3분기 매출 46.5% 증가…AI 컴퓨팅 공급계약에 수주잔고 3,603억 원으로 급증",
+    "summary": "씨이랩의 3분기 매출이 56억 3,000만 원으로 전년 동기 대비 46.5% 늘었고 3분기 누적 매출도 64% 증가했다. 대형 AI 컴퓨팅 자원 공급계약 등이 쌓이며 3분기 말 수주잔고가 3,603억 원으로 크게 불어났다.",
+    "source": "한국경제",
+    "url": "https://www.hankyung.com/article/202611134666i",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-17",
+    "category": "other",
+    "title": "이란, 전쟁 피해로 올겨울 가스 부족분 4.3억㎥ 예상…예년보다 40% 이상 확대",
+    "summary": "이란 정부가 전쟁 중 가스 처리시설 4곳이 타격을 입어 올겨울 국내 천연가스 부족분이 4억 3,000만㎥에 달할 수 있다고 경고했다. 공습으로 줄어든 처리능력 2억 3,000만㎥ 가운데 약 1억㎥만 복구된 상태여서, 예년(약 3억㎥)보다 공급 차질이 커질 전망이다.",
+    "source": "Reuters (Arab News)",
+    "url": "https://www.arabnews.pk/middle-east/iran-warns-of-domestic-gas-shortages-from-war-this-winter-3006759",
+    "lang": "en",
+    "labels": []
   }
 ]
