@@ -7796,5 +7796,50 @@
     "url": "https://www.world-grain.com/articles/23476-kenya-facing-net-corn-supply-deficit",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-11-21",
+    "category": "bottleneck",
+    "title": "KB증권 \"클린룸·장비 부품 부족에 못 채운 반도체 수요 2028년으로 이연…2030년까지 업사이클\"",
+    "summary": "KB증권은 클린룸 공간과 일부 장비 부품이 부족해 올해와 내년에 충족되지 못한 메모리 수요가 2028년으로 넘어가면서 반도체 업사이클이 2030년까지 이어질 것으로 내다봤다. 미국의 대중 AI 칩 규제 강화에도 엔비디아가 AI 반도체 수요가 공급을 크게 웃돈다고 밝히는 등 생산능력 병목이 업황을 떠받치고 있다는 분석이다.",
+    "source": "네이트 뉴스",
+    "url": "https://m.news.nate.com/view/20261121n01871",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "장비"
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "category": "tech",
+    "title": "디노티시아, SC26서 벡터 검색 전용 ASIC 'VDPU' 첫 공개 실시간 시연",
+    "summary": "국내 AI 반도체 기업 디노티시아가 시카고에서 열린 SC26에서 RAG·에이전틱 AI의 데이터 검색을 전담하는 VDPU(벡터 데이터 처리 장치) ASIC을 처음으로 공개 시연했다. 자연어 질의로 약 260만 장의 영상 프레임을 실시간 검색했으며, 회사는 호스트 CPU 사용률을 90% 이상 줄일 수 있다고 밝혔다. 다만 양산 물량과 상용 출시 일정은 공개되지 않았다.",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/dnotitia-presents-first-live-demonstration-of-its-vdpu-vector-search-asic-at-sc26-302945556.html",
+    "lang": "en",
+    "labels": [
+      "ASIC"
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "category": "service",
+    "title": "LS일렉트릭, 美 빅테크 하이퍼스케일 데이터센터에 1,300억 원 규모 배전반 추가 수주",
+    "summary": "LS일렉트릭이 글로벌 빅테크 기업과 약 9,383만 달러(약 1,300억 원) 규모의 하이퍼스케일 데이터센터 전력 시스템 공급 계약을 맺고 38kV 고압 배전반과 저압 배전반을 순차 공급한다. 초기 구축에 이어 확장 사업까지 연속 수주한 것으로, 청주 스마트팩토리와 미국 유타·텍사스 생산거점을 기반으로 납기 경쟁력을 내세웠다.",
+    "source": "위키트리",
+    "url": "https://www.wikitree.co.kr/articles/1174896",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-21",
+    "category": "other",
+    "title": "EU, 비상 석유비축 제도 개편 추진…디젤·항공유 구조적 부족 대응",
+    "summary": "유럽연합 집행위원회가 비상 석유비축 규정 개편 초안을 마련해 예외적 상황에서 군의 비축유 임시 사용 등을 허용하는 방안을 검토하고 있으며, 12월 초 승인을 목표로 한다. 집행위 추계 경제전망은 EU가 디젤, 특히 항공유에서 구조적 공급 부족 상태라고 진단했지만, 원유 비축만으로는 정제 제품 수입 차질을 곧바로 메우기 어렵다는 지적이 나온다.",
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Overhaul-Emergency-Oil-Stockpiles.html",
+    "lang": "en",
+    "labels": []
   }
 ]
