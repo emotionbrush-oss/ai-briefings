@@ -7841,5 +7841,64 @@
     "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Overhaul-Emergency-Oil-Stockpiles.html",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-11-22",
+    "category": "bottleneck",
+    "title": "TSMC, 美 신규 수출규정 시행에 중국 고객 16나노 이하 첨단공정 주문 일부 중단",
+    "summary": "로이터에 따르면 TSMC는 미 상무부의 새 규정이 발효되자 중국 칩 설계사의 16나노 이하 공정 주문을 미국 수출 라이선스 없이는 중단하고 대체로 28·40나노 등 구형 공정으로 제한하기로 했다. 외부 패키징·테스트 업체의 자체 확인만으로 첨단 칩을 출하하던 우회 경로가 막혔으며, 삼성전자도 비슷한 조치에 나선 것으로 전해졌다. 이미 운송 중인 물량은 12월 21일까지 기존 조건이 적용된다.",
+    "source": "The Standard (Reuters)",
+    "url": "https://www.thestandard.com.hk/innovation/article/349047/TSMC-tightens-China-AI-chip-curbs-as-new-US-rules-close-manufacturing-loophole-sources-say",
+    "lang": "en",
+    "labels": [
+      "규제",
+      "파운드리"
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "category": "bottleneck",
+    "title": "트렌드포스 \"HBM4 가격 내년 2배 이상\"…기가비트당 2.05달러에서 3~5.5달러로",
+    "summary": "트렌드포스는 11월 18일 서울에서 연 '2026 로드쇼 코리아'에서 HBM4의 기가비트당 가격이 올해 2.05달러 이상에서 내년 3~5.5달러로 100% 넘게 오를 것으로 전망했다. 차세대 HBM4E는 5달러 이상이 논의되고 있으며 내년 상반기 구체화될 예정이다. 일부 현물가 변동성에도 공급 부족 속 HBM 전반의 가격 상승은 이어질 것으로 봤다.",
+    "source": "지디넷코리아",
+    "url": "https://zdnet.co.kr/view?no=20261118120439",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "category": "tech",
+    "title": "CPO·NPO 시장 2030년 51조 원 전망…애플도 실리콘 포토닉스 인력 채용하며 '빛의 반도체' 참전",
+    "summary": "애플이 11월 17일 실리콘 포토닉스·광학 패키징 엔지니어 채용 공고를 내며 광 인터커넥트 경쟁에 뛰어들었다. 트렌드포스는 공동패키징광학(CPO)·근접패키징광학(NPO) 시장이 지난해 1억 달러에서 2030년 390억 달러(약 51조 원) 이상으로 커질 것으로 전망했다. 삼성전자·SK하이닉스도 AI 데이터센터의 전력·대역폭 한계를 넘기 위해 관련 기술 확보에 속도를 내고 있다.",
+    "source": "네이트뉴스",
+    "url": "https://m.news.nate.com/view/20261119n39883",
+    "lang": "ko",
+    "labels": [
+      "광인터커넥트",
+      "패키징"
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "category": "service",
+    "title": "대만 컴퓨케이스, AI 서버 랙 수요에 흑자전환…1~3분기 EPS 2.88대만달러, 2027년 2분기까지 주문 확보",
+    "summary": "대만 서버 섀시·랙 업체 컴퓨케이스는 3분기 실적 발표에서 AI 랙 출하 확대로 올해 1~3분기 누적 주당순이익 2.88대만달러를 기록하며 흑자로 돌아섰다고 밝혔다. 리자칭 사장은 2027년 2분기까지 주문 가시성이 확보됐다고 말했다. 다만 엔비디아 관련 변수로 불확실성이 커졌다고 덧붙였다.",
+    "source": "BigGo Finance",
+    "url": "https://finance.biggo.com/news/TW_3032.TW_2026-11-18",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-11-22",
+    "category": "other",
+    "title": "조선업 슈퍼사이클에도 청년 외면…낮은 기본급·원하청 임금격차에 인력 유입 난항",
+    "summary": "조선업이 사상 최대 수준의 일감을 확보했지만 청년층은 낮은 기본급과 원청·하청 간 임금 격차를 이유로 조선소 취업을 기피하고 있다. 숙련 인력 감소 속에 신규 인력 유입마저 막히면서 건조 일정 차질 우려가 커지고 있다. 업계에서는 공동 임금 기준 마련 등 처우 개선이 필요하다는 제안이 나온다.",
+    "source": "머니투데이",
+    "url": "https://www.mt.co.kr/index.php/economy/2026/11/20/2026112014361328877",
+    "lang": "ko",
+    "labels": []
   }
 ]
