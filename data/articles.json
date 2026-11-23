@@ -7900,5 +7900,73 @@
     "url": "https://www.mt.co.kr/index.php/economy/2026/11/20/2026112014361328877",
     "lang": "ko",
     "labels": []
+  },
+  {
+    "date": "2026-11-23",
+    "category": "bottleneck",
+    "title": "美 '데이터센터 수도' 라우든 카운티, 신규 데이터센터·변전소 인허가 최장 1년 중단 공식 채택",
+    "summary": "버지니아주 라우든 카운티 감독위원회가 11월 17일 데이터센터 및 변전소 입법 신청 심사를 주법상 최대치인 12개월간 중단하는 안을 7대1로 공식 채택했으며, 효력은 9월 15일로 소급 적용된다. 전력망 신뢰성용 변전소는 예외지만, 세계 최대 데이터센터 밀집지의 인허가 정체로 미국 AI 데이터센터 부지·전력 확보 병목이 한층 심해질 전망이다.",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/washington-dc/data-center-development/loudoun-says-no-new-data-center-approvals-for-a-year",
+    "lang": "en",
+    "labels": [
+      "부지",
+      "규제"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "bottleneck",
+    "title": "\"AI에 메모리 뺏긴 세계\"…CSIS 토론회 \"D램 재고 10일치, 램마겟돈 2028년까지\"",
+    "summary": "미국 전략국제문제연구소(CSIS) 토론회에서 삼성전자·SK하이닉스·마이크론 3사의 D램 재고가 약 10일치까지 줄었고, 공급난이 이미 소비자 가격으로 번졌다는 진단이 나왔다. 생산능력이 HBM으로 쏠리고 신규 팹 건설에 수년이 걸려 2028년까지 뾰족한 해법이 없다는 평가다.",
+    "source": "네이트 뉴스",
+    "url": "https://m.news.nate.com/view/20261122n13112",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "tech",
+    "title": "AMD, 모델 고정형 추론 칩 스타트업 '탈라스' 29억 달러에 인수 완료…인스팅트 로드맵에 통합",
+    "summary": "AMD가 AI 모델을 실리콘에 직접 하드와이어링하는 추론 전용 칩 스타트업 탈라스(Taalas) 인수를 11월 17일 마무리했으며, 10-Q 공시상 거래 가치는 조건부 대가 최대 14억 달러를 포함해 약 29억 달러다. 탈라스는 TSMC 6나노 공정으로 라마 3.1 8B를 고정한 HC1 시제품을 선보였고, AMD는 이를 인스팅트 GPU와 함께 추론 가속기 로드맵에 넣을 계획이다.",
+    "source": "AMD",
+    "url": "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference",
+    "lang": "en",
+    "labels": [
+      "ASIC"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "category": "service",
+    "title": "에이인비, 셀트리온과 AI 기반 다중 표적 항체 신약 발굴 계약 체결",
+    "summary": "홍천국가항체클러스터 입주기업 에이인비가 셀트리온과 복수 표적을 대상으로 한 차세대 항체 치료제 발굴 계약을 맺었다. 에이인비는 AI 항체 설계 플랫폼 'ALT-D'로 후보물질 설계·최적화와 초기 검증을 맡고, 셀트리온은 비임상·임상 개발과 상업화를 담당하는 플랫폼형 협력이다.",
+    "source": "강원일보",
+    "url": "https://www.kwnews.co.kr/article/20261123501382",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-23",
+    "category": "service",
+    "title": "아스트라제네카, 템퍼스 AI와 2억 달러 규모 5년 데이터 계약 재연장",
+    "summary": "템퍼스 AI와 아스트라제네카가 마스터 서비스 계약을 2031년 말까지 연장하고, 2027년부터 5년간 템퍼스의 종양학 데이터 라이선스·Lens 플랫폼·과학 분석 서비스에 총 2억 달러(연 4,000만 달러 목표, 최소 연 3,200만 달러)를 쓰기로 했다. 애널리스트들은 데이터가 제약사 R&D에 내재화되면 고객이 유지된다는 근거로 평가했다.",
+    "source": "OncoDaily",
+    "url": "https://oncodaily.com/industry/astrazeneca-tempus-ai-635706",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-11-23",
+    "category": "other",
+    "title": "KMI, 통영·고성서 수산업 인력난 현장 간담회…\"숙련 외국인 근로자 계속 고용 어려워\"",
+    "summary": "한국해양수산개발원(KMI)이 20일 경남 통영·고성에서 현장 간담회를 열고 수산업 인력난 해법으로 외국인 근로자 확보와 청년어업인 지원 방안을 논의했다. 현장에서는 체류 기간 만료, 비자 연장, 사업장 변경 문제로 숙련 외국인 인력을 지속 고용하기 어렵다는 지적이 나왔다.",
+    "source": "아시아경제",
+    "url": "https://view.asiae.co.kr/article/2026112109161946189",
+    "lang": "ko",
+    "labels": []
   }
 ]
