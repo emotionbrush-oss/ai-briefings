@@ -8062,5 +8062,89 @@
     "url": "https://www.stocktitan.net/news/AAOI/aoi-announces-multi-year-long-term-agreement-with-tier-1-hyperscale-igsxh6zd4638.html",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-11-26",
+    "category": "bottleneck",
+    "title": "美 데이터센터 건설 붐에 철강 공급 빠듯…수요처들 해외 수입으로 눈 돌려",
+    "summary": "데이터센터 건설 수요가 미국 철강 공급을 압박하면서 가격이 오르자, 철강 구매자들이 상대적으로 저렴한 아시아산 수입으로 이동하고 있다. 미국 제철소들은 내년 장기계약 물량을 줄이고 있어 일부 수요처는 2027년 공급 차질을 우려하고 있다.",
+    "source": "Bloomberg",
+    "url": "https://bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
+    "lang": "en",
+    "labels": [
+      "소재",
+      "공급망"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "category": "bottleneck",
+    "title": "美 휴렛팩커드엔터프라이즈 \"메모리 공급난 2028년 하반기까지 지속\"",
+    "summary": "HPE는 메모리와 낸드플래시 등 핵심 부품의 공급 제약이 적어도 2028년 하반기까지 이어질 것으로 전망했다. 회사는 고객 전반의 AI 인프라 수요가 여전히 매우 강하고 지속적이라고 밝혀, 서버 업체들의 부품 확보 부담이 장기화될 것임을 시사했다.",
+    "source": "아시아경제",
+    "url": "https://view.asiae.co.kr/article/2026112415440187483",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "낸드"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "category": "bottleneck",
+    "title": "AI발 메모리 품귀에 일부 칩 가격 1년 새 10배…삼성·SK하이닉스 물량 확보전",
+    "summary": "월스트리트저널 보도를 인용해 일부 메모리 가격이 1년 만에 10배로 뛰었으며, 신규 공장이 가동되는 최소 2028년까지 공급난이 이어질 것이라고 전했다. SK하이닉스는 D램과 HBM 물량이 2029년까지 사실상 완판됐다고 밝혀 고객사들의 물량 확보 경쟁이 격화되고 있다.",
+    "source": "아시아투데이",
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010624",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "HBM"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "category": "tech",
+    "title": "美 FCC, 스페이스X 우주 데이터센터 '스타마인드' 승인…궤도 컴퓨팅 모듈 최대 100만 기",
+    "summary": "미국 연방통신위원회(FCC)가 스페이스X에 우주 기반 데이터센터 위성군 '스타마인드' 배치를 허가했다. FCC는 지상에서 쓰일 데이터를 처리하는 궤도 컴퓨팅 모듈 최대 100만 기 배치를 승인한 것으로, 미국 역사상 최초 사례라고 설명했다. 지상 전력·부지 병목을 우회하려는 우주 데이터센터 경쟁이 본격화하는 신호다.",
+    "source": "Al Jazeera",
+    "url": "https://aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres",
+    "lang": "en",
+    "labels": [
+      "우주"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "category": "tech",
+    "title": "구글, 블루오리진 '뉴글렌'으로 TPU 탑재 우주 데이터센터 위성 발사 계약…2029년 1분기 목표",
+    "summary": "구글은 우주 AI 컴퓨팅 연구 '프로젝트 선캐처'의 첫 전용 대형 발사를 블루오리진의 뉴글렌 로켓으로 2029년 1분기에 진행한다고 발표했다. TPU를 탑재한 위성들을 태양동기궤도에 배치할 계획이며, 계약 금액은 공개되지 않았다.",
+    "source": "Google Blog",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+    "lang": "en",
+    "labels": [
+      "우주",
+      "ASIC"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "category": "service",
+    "title": "스칸스카, 美 조지아주 데이터센터 추가 공사 2억7,500만 달러 수주",
+    "summary": "스웨덴 건설사 스칸스카가 미국 조지아주에서 기존 고객사로부터 데이터센터 건설 추가 계약을 수주했다. 계약 규모는 2억7,500만 달러(약 28억 크로나)로, 같은 지역에서 이어지는 데이터센터 연속 수주의 일환이다.",
+    "source": "PR Newswire",
+    "url": "https://prnewswire.com/news-releases/skanska-signs-an-additional-award-to-build-data-center-in-georgia-usa-worth-usd-275m-about-sek-2-8-billion-302951071.html",
+    "lang": "en",
+    "labels": []
+  },
+  {
+    "date": "2026-11-26",
+    "category": "other",
+    "title": "네덜란드 파밍, 유전성 혈관부종 치료제 '루코네스트' 생산 중단…美 공급 차질 우려",
+    "summary": "파밍은 무균 공정 모의시험(미디어 필) 실패로 루코네스트 생산을 일시 중단했으며, 이로 인해 미국에서 공급 제약이 발생할 가능성이 높다고 11월 25일 밝혔다. 현재 재고는 12월 중순까지의 수요만 충족할 수 있는 수준이다.",
+    "source": "Ideal Investisseur",
+    "url": "https://www.ideal-investisseur.fr/en/stock-news/pharming-suspends-ruconest-production-possible-shortage-in-the-united-states/30133.html",
+    "lang": "en",
+    "labels": []
   }
 ]
