@@ -8146,5 +8146,98 @@
     "url": "https://www.ideal-investisseur.fr/en/stock-news/pharming-suspends-ruconest-production-possible-shortage-in-the-united-states/30133.html",
     "lang": "en",
     "labels": []
+  },
+  {
+    "date": "2026-11-27",
+    "category": "bottleneck",
+    "title": "노르웨이 전력망 운영사 스타트넷, 데이터센터 신규 계통 예약 중단…요청량 34GW로 국가 최대수요 초과",
+    "summary": "노르웨이 송전망 운영사 스타트넷이 11월 9일부터 데이터센터의 신규 전력망 접속 예약을 중단했다. 데이터센터 접속 요청은 약 34GW로 노르웨이 전체 최대 전력수요(약 25GW)를 넘어섰지만 실제 연결된 용량은 0.8GW에 불과하다. 예약 중단은 늦어도 2027년 8월 1일까지 해제될 예정이다.",
+    "source": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Norway-Pauses-Data-Center-Grid-Reservations-as-Requests-Top-Peak-Demand.html",
+    "lang": "en",
+    "labels": [
+      "전력",
+      "전력망"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "category": "bottleneck",
+    "title": "\"일단 물량 계약부터\"…엔비디아 공급약정 1,110억 달러 급증, 칩·서버·장비 '입도선매' 경쟁",
+    "summary": "AI 거품론에도 칩·서버·장비 전반에서 물량을 미리 확보하려는 선계약 경쟁이 거세지고 있다. 엔비디아는 공급계약 규모가 석 달 전 2,790억 달러에서 1,110억 달러 늘었으며 증가분은 주로 수년 치 메모리 공급 확보용이라고 밝혔다. HPE 등도 서버용 D램 확보에 총력을 기울이고 있다.",
+    "source": "네이트뉴스",
+    "url": "https://m.news.nate.com/view/20261126n02221",
+    "lang": "ko",
+    "labels": [
+      "메모리",
+      "GPU물량"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "category": "bottleneck",
+    "title": "'AI 반도체 품귀'에 머스크도 진땀…삼성에 장기구매·공장 금융보증 제안",
+    "summary": "메모리 칩 품귀가 새 공장이 가동되는 2028년까지 이어지고 D램 업계 생산능력은 2028년까지 50% 늘어나는 데 그칠 것이라는 WSJ 보도가 나왔다. 일론 머스크는 삼성전자에 장기 구매 약정과 신규 공장 투자 금융보증까지 제안했지만 이재용 회장이 추가 조건을 요구한 것으로 전해졌다.",
+    "source": "알파경제",
+    "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=200444",
+    "lang": "ko",
+    "labels": [
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "category": "tech",
+    "title": "화웨이, HBM4 대비 데이터 핀 두 배 늘린 차세대 HBM 설계…삼성·SK하이닉스 추격",
+    "summary": "블룸버그는 화웨이 연구진이 한국 업체들이 양산 중인 제품보다 데이터 핀 밀도가 두 배 높은 HBM을 개발했다고 보도했다. 삼성전자·SK하이닉스·마이크론이 수출규제로 중국에 HBM을 공급할 수 없는 상황에서 자체 고대역폭 메모리 확보를 노린 것으로, 실제 개발 수준은 아직 확인되지 않았다.",
+    "source": "AI타임스",
+    "url": "https://aitimes.com/news/articleView.html?idxno=217848",
+    "lang": "ko",
+    "labels": [
+      "HBM",
+      "메모리"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "category": "tech",
+    "title": "대만 젠텍 \"AI 냉각, 열전도 소재(TIM) 제거 방향으로 진화\"…2027년 1분기 3피스 베이퍼챔버 양산",
+    "summary": "대만 냉각부품 업체 젠텍(Jentech Precision) 사장은 AI 칩 발열이 커지면서 냉각 구조가 칩과 냉각판 사이의 열전도 소재(TIM)를 없애는 방향으로 발전할 것이라고 밝혔다. 회사는 2027년 1분기 3피스 구조 베이퍼챔버 양산을 계획하고 있다.",
+    "source": "DIGITIMES",
+    "url": "https://www.digitimes.com/news/a20261127PD224/jentech-precision-cooling-materials-2027.html",
+    "lang": "en",
+    "labels": [
+      "냉각"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "category": "service",
+    "title": "넥사다이내믹스, 755억 원 규모 고성능 AI 서버 공급계약…최근 매출의 580%",
+    "summary": "넥사다이내믹스가 국내 고객사와 755억 원 규모의 고성능 AI 서버 단일판매·공급계약을 체결했다고 공시했다. 계약금액은 2025년 연결 매출액의 580.19%에 해당하며, 계약상대방 정보는 상대방 요청으로 공시가 유보됐다.",
+    "source": "톱스타뉴스",
+    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16287180",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-27",
+    "category": "service",
+    "title": "씨이랩, 54억 원 규모 AI 인프라 시스템 공급계약…최근 매출의 52.6%",
+    "summary": "씨이랩이 54억 원 규모의 국내 AI 인프라 시스템 공급계약을 체결했다고 26일 공시했다. 계약금액은 2025년 연결 매출액의 52.57%이며 계약기간은 2027년 2월 5일까지다.",
+    "source": "파이낸스투데이",
+    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400695",
+    "lang": "ko",
+    "labels": []
+  },
+  {
+    "date": "2026-11-27",
+    "category": "other",
+    "title": "식약처·복지부, 의약품 공급난 대응 범위 확대…수요 급증 품목까지 관리",
+    "summary": "식품의약품안전처와 보건복지부가 27일 '2026년 제3차 국가필수의약품 안정공급 협의회'를 열고 의약품 수급 문제에 대한 민관 공동 대응 방안을 논의했다. 국가필수의약품뿐 아니라 일시적 수요 급증으로 공급 차질이 우려되는 의약품까지 대응 범위를 넓히기로 했다.",
+    "source": "서울경제",
+    "url": "https://m.sedaily.com/article/20119677",
+    "lang": "ko",
+    "labels": []
   }
 ]
